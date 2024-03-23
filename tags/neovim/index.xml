@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neovim on TechnicalDC</title>
+    <link>https://technicaldc.github.io/tags/neovim/</link>
+    <description>Recent content in neovim on TechnicalDC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Dilip Chauhan</copyright>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customizing Neovim with Noice</title>
+      <link>https://technicaldc.github.io/blogs/customizing-neovim-with-noice/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicaldc.github.io/blogs/customizing-neovim-with-noice/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/blogs/customizing-neovim-with-noice/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

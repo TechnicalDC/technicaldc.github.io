@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>https://technicaldc.github.io/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Dilip Chauhan</copyright>
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://technicaldc.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SFC QAD and Evolve Migration</title>
+      <link>https://technicaldc.github.io/projects/sfc-qad-evolve-migration/</link>
+      <pubDate>Wed, 01 Nov 2023 23:08:24 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/projects/sfc-qad-evolve-migration/</guid>
+      <description>Warning!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/projects/sfc-qad-evolve-migration/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Stork Industry 40 Implementation</title>
+      <link>https://technicaldc.github.io/projects/stork-industry-40-implementation/</link>
+      <pubDate>Tue, 13 Jun 2023 23:02:51 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/projects/stork-industry-40-implementation/</guid>
+      <description>Warning!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/projects/stork-industry-40-implementation/featured.webp" />
+    </item>
+    
+    <item>
+      <title>MT AUTO Industry 40 Implementation</title>
+      <link>https://technicaldc.github.io/projects/mt-auto-industry-40-implementation/</link>
+      <pubDate>Sat, 01 Apr 2023 22:25:28 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/projects/mt-auto-industry-40-implementation/</guid>
+      <description> Designing QRF reports and developing their proxy programs Developed custom maintenance programs Customized the standard programs that suits the business Provided technical support to the team members Performed code migrations </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/projects/mt-auto-industry-40-implementation/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>ANCA QAD AUX Development</title>
+      <link>https://technicaldc.github.io/projects/anca-qad-aux-development/</link>
+      <pubDate>Sat, 07 Jan 2023 22:39:12 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/projects/anca-qad-aux-development/</guid>
+      <description>Interacting with client for taking their requirements.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/projects/anca-qad-aux-development/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Sales Margin Report</title>
+      <link>https://technicaldc.github.io/projects/sales-margin-report/</link>
+      <pubDate>Sun, 11 Dec 2022 18:59:07 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/projects/sales-margin-report/</guid>
+      <description>Communicating with the client and gathering their business requirements Developed QRF Report to extract the required details.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/projects/sales-margin-report/featured.png" />
+    </item>
+    
+    <item>
+      <title>QAD Implementation Dairy</title>
+      <link>https://technicaldc.github.io/projects/qad-implementation-dairy/</link>
+      <pubDate>Sat, 13 Aug 2022 22:02:39 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/projects/qad-implementation-dairy/</guid>
+      <description>Communicating with the client and gathering their business requirements Developed multiple browses and QRF Report to display the required details.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/projects/qad-implementation-dairy/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Natroyal Industry 40 Implementation</title>
+      <link>https://technicaldc.github.io/projects/natroyal-industry-40-implementation/</link>
+      <pubDate>Wed, 13 Apr 2022 22:19:38 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/projects/natroyal-industry-40-implementation/</guid>
+      <description> Developed multiple customer QRF reports and browses Developed custom maintenance programs as per business requirements Provided technical support to the team members Performed code migrations </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/projects/natroyal-industry-40-implementation/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

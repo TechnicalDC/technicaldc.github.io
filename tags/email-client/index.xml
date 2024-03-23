@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>email-client on TechnicalDC</title>
+    <link>https://technicaldc.github.io/tags/email-client/</link>
+    <description>Recent content in email-client on TechnicalDC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Dilip Chauhan</copyright>
+    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/email-client/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My new email client make me cooler 😎</title>
+      <link>https://technicaldc.github.io/blogs/my-new-email-client-make-me-cooler/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicaldc.github.io/blogs/my-new-email-client-make-me-cooler/</guid>
+      <description>This is the overview of my new email client and tool I used to configure it</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/blogs/my-new-email-client-make-me-cooler/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
