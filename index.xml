@@ -9,16 +9,6 @@
     <copyright>© 2024 Dilip Chauhan</copyright>
     <lastBuildDate>Sun, 21 Jan 2024 14:24:36 -0500</lastBuildDate><atom:link href="https://technicaldc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gallery</title>
-      <link>https://technicaldc.github.io/gallery/</link>
-      <pubDate>Mon, 04 Mar 2024 14:50:30 +0530</pubDate>
-      
-      <guid>https://technicaldc.github.io/gallery/</guid>
-      <description>Warning!</description>
-      
-    </item>
-    
-    <item>
       <title>Customizing Neovim with Noice</title>
       <link>https://technicaldc.github.io/blogs/customizing-neovim-with-noice/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
@@ -74,7 +64,7 @@
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
       
       <guid>https://technicaldc.github.io/about/</guid>
-      <description>I am software developer with 2+ years of work experience in ERP industry.</description>
+      <description>I am passionate software developer with 3 years of work experience in ERP industry.</description>
       
     </item>
     
