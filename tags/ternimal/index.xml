@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neovim on TechnicalDC</title>
-    <link>http://localhost:1313/tags/neovim/</link>
-    <description>Recent content in Neovim on TechnicalDC</description>
+    <title>Ternimal on TechnicalDC</title>
+    <link>http://localhost:1313/tags/ternimal/</link>
+    <description>Recent content in Ternimal on TechnicalDC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Dilip Chauhan</copyright>
-    <lastBuildDate>Mon, 18 Mar 2024 23:24:43 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Mar 2024 23:24:43 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/ternimal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top 10 Neovim Plugins in 2024</title>
       <link>http://localhost:1313/blogs/top-10-neovim-plugins-in-2024/</link>
