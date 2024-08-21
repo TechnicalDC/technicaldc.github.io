@@ -8,6 +8,7 @@
     <language>en</language>
     <copyright>© 2024 Dilip Chauhan</copyright>
     <lastBuildDate>Sun, 21 Jan 2024 14:24:36 -0500</lastBuildDate><atom:link href="https://technicaldc.github.io/index.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <item>
       <title>Customizing Neovim with Noice</title>
       <link>https://technicaldc.github.io/posts/customizing-neovim-with-noice/</link>
@@ -38,6 +39,8 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/my-new-email-client-make-me-cooler/featured.jpg" />
     </item>
     
+=======
+>>>>>>> a0b996b (updated)
     <item>
       <title>Markdown</title>
       <link>https://technicaldc.github.io/posts/markdown/</link>

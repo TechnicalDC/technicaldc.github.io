@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Dilip Chauhan</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>neovim</title>
@@ -50,6 +51,11 @@
     
     <item>
       <title>blowfish</title>
+=======
+    <lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blowfish</title>
+>>>>>>> a0b996b (updated)
       <link>https://technicaldc.github.io/tags/blowfish/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
@@ -59,7 +65,11 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>css</title>
+=======
+      <title>Css</title>
+>>>>>>> a0b996b (updated)
       <link>https://technicaldc.github.io/tags/css/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
@@ -69,7 +79,11 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>html</title>
+=======
+      <title>Html</title>
+>>>>>>> a0b996b (updated)
       <link>https://technicaldc.github.io/tags/html/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
@@ -79,7 +93,11 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>hugo</title>
+=======
+      <title>Hugo</title>
+>>>>>>> a0b996b (updated)
       <link>https://technicaldc.github.io/tags/hugo/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
@@ -89,7 +107,11 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>markdown</title>
+=======
+      <title>Markdown</title>
+>>>>>>> a0b996b (updated)
       <link>https://technicaldc.github.io/tags/markdown/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
