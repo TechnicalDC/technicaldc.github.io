@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-    <title>blowfish on TechnicalDC</title>
-    <link>https://technicaldc.github.io/tags/blowfish/</link>
-    <description>Recent content in blowfish on TechnicalDC</description>
-=======
     <title>Blowfish on TechnicalDC</title>
     <link>https://technicaldc.github.io/tags/blowfish/</link>
     <description>Recent content in Blowfish on TechnicalDC</description>
->>>>>>> a0b996b (updated)
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Dilip Chauhan</copyright>
