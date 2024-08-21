@@ -7,9 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Dilip Chauhan</copyright>
-    <lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blowfish</title>
+      <title>neovim</title>
+      <link>https://technicaldc.github.io/tags/neovim/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicaldc.github.io/tags/neovim/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>https://technicaldc.github.io/tags/terminal/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicaldc.github.io/tags/terminal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://technicaldc.github.io/tags/youtube/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicaldc.github.io/tags/youtube/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>email</title>
+      <link>https://technicaldc.github.io/tags/email/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicaldc.github.io/tags/email/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>blowfish</title>
       <link>https://technicaldc.github.io/tags/blowfish/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
@@ -19,7 +59,7 @@
     </item>
     
     <item>
-      <title>Css</title>
+      <title>css</title>
       <link>https://technicaldc.github.io/tags/css/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
@@ -29,7 +69,7 @@
     </item>
     
     <item>
-      <title>Html</title>
+      <title>html</title>
       <link>https://technicaldc.github.io/tags/html/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
@@ -39,7 +79,7 @@
     </item>
     
     <item>
-      <title>Hugo</title>
+      <title>hugo</title>
       <link>https://technicaldc.github.io/tags/hugo/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
@@ -49,7 +89,7 @@
     </item>
     
     <item>
-      <title>Markdown</title>
+      <title>markdown</title>
       <link>https://technicaldc.github.io/tags/markdown/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
