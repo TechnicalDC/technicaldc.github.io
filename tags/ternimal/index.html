@@ -11,7 +11,7 @@
   <title>Ternimal &middot; TechnicalDC</title>
   <meta name="title" content="Ternimal &middot; TechnicalDC" />
   
-  
+  <meta name="description" content="My awesome website" />
   
   
   
@@ -28,8 +28,10 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.4a75c204d7f6aed8c7a2ac348cf966bab5cc38ca8d60cd15eb2b08c85e60b6a08f353ec75a7b608dd73b7f5e87a0122de324fcaedc4af99260564d36995c4b08.css"
-    integrity="sha512-SnXCBNf2rtjHoqw0jPlmurXMOMqNYM0V6ysIyF5gtqCPNT7HWntgjdc7f16HoBIt4yT8rtxK&#43;ZJgVk02mVxLCA==" />
+  
+  
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.3a0740a2d9903a0a930687c5047ad14d19bb92e11b59b97640b5dbb453f57e410fbae40f1ab104c25a1cf1861b297b025b332755f8b0fcb445f66baa19f5ec7c.css"
+    integrity="sha512-OgdAotmQOgqTBofFBHrRTRm7kuEbWbl2QLXbtFP1fkEPuuQPGrEEwloc8YYbKXsCWzMnVfiw/LRF9muqGfXsfA==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -66,13 +68,13 @@
   
   
   <meta property="og:title" content="Ternimal" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="My awesome website" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://localhost:1313/tags/ternimal/" />
 
 
   <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Ternimal"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="My awesome website"/>
 
   
   
@@ -93,6 +95,9 @@
   
   
   <link href="https://www.youtube.com/@TheTechnicalDC" rel="me" />
+  
+  
+  <link href="/posts/index.xml" rel="me" />
   
   
   
@@ -168,30 +173,30 @@
             
             
             
-  <a href="/blogs/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-base font-medium" title="">
-        Blogs
-    </p>
-</a>
-
-
-            
-            
-  <a href="/portfolio/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-base font-medium" title="">
-        Portfolio
-    </p>
-</a>
-
-
-            
-            
   <a href="/about/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
-        About
+        about
+    </p>
+</a>
+
+
+            
+            
+  <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-base font-medium" title="">
+        posts
+    </p>
+</a>
+
+
+            
+            
+  <a href="/resume/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-base font-medium" title="">
+        resume
     </p>
 </a>
 
@@ -387,38 +392,38 @@
 
                     
   <li class="mt-1">
-    <a href="/blogs/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-        
-        <p class="text-bg font-bg" title="">
-            Blogs
-        </p>
-    </a>
-</li>
-
-
-
-                    
-
-                    
-  <li class="mt-1">
-    <a href="/portfolio/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-        
-        <p class="text-bg font-bg" title="">
-            Portfolio
-        </p>
-    </a>
-</li>
-
-
-
-                    
-
-                    
-  <li class="mt-1">
     <a href="/about/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            About
+            about
+        </p>
+    </a>
+</li>
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="">
+            posts
+        </p>
+    </a>
+</li>
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/resume/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="">
+            resume
         </p>
     </a>
 </li>
@@ -563,6 +568,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   </div>
 </div>
@@ -591,8 +606,6 @@
  
 
 
-
-<div id="hero" class="h-[150px] md:h-[200px]"></div>
 
 
 
@@ -720,11 +733,11 @@
     
     
 
-  <a href="/blogs/top-10-neovim-plugins-in-2024/" class="min-w-full">
+  <a href="/posts/top-10-neovim-plugins-in-2024/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/blogs/top-10-neovim-plugins-in-2024/featured_huefd3d0a693c4122a70af10f75f65dbd7_625102_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full thumbnail_card nozoom" style="background-image:url(/posts/top-10-neovim-plugins-in-2024/featured_hu0fcc61070348fbd86e7b2e367299dbea_194889_600x0_resize_box_3.png);"></div>
         
       
       <span class="absolute top-0 right-0 m-2">
@@ -740,7 +753,7 @@
 
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/blogs/top-10-neovim-plugins-in-2024/">Top 10 Neovim Plugins in 2024</div>
+          href="/posts/top-10-neovim-plugins-in-2024/">Top 10 Neovim Plugins in 2024</div>
         
 
         <div class="text-sm text-neutral-500 dark:text-neutral-400">
@@ -762,7 +775,11 @@
 
 
 
+  
 
+
+
+  
 
 
 
@@ -779,13 +796,27 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-03-18 23:24:43 &#43;0530 IST">18 March 2024</time>
+  <time datetime="2024-03-18 23:24:43 &#43;0530 IST">18 March 2024</time><span class="px-2 text-primary-500">&middot;</span><span>182 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
   
 
   
   
 </div>
 
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
 
 
@@ -860,7 +891,7 @@
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/tags/"
             title="">
             
-            Tags
+            tags
           </a>
         </li>
         
