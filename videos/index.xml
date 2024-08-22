@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>videos on TechnicalDC</title>
+    <link>https://technicaldc.github.io/videos/</link>
+    <description>Recent content in videos on TechnicalDC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Dilip Chauhan</copyright>
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://technicaldc.github.io/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customizing Neovim with Noice</title>
+      <link></link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to make presentation in linux terminal in geek way?</title>
+      <link></link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>This is video is timelapse of making presentation in terminal</description>
+      
+    </item>
+    
+    <item>
+      <title>My new email client make me cooler 😎</title>
+      <link></link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>This is the overview of my new email client and tool I used to configure it</description>
+      
+    </item>
+    
+  </channel>
+</rss>
