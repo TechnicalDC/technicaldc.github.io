@@ -6,7 +6,7 @@
     <description>Recent content in posts on TechnicalDC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Dilip Chauhan</copyright>
+    <copyright>© 2025 Dilip Chauhan</copyright>
     <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://technicaldc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hidden Gems: Lesser-Known Neovim Plugins You Should Try</title>
@@ -80,7 +80,7 @@ yazi with neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        352
+        359
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -175,7 +175,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1376
+        1381
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -271,7 +271,7 @@ inputs.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        15184
+        15189
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -467,7 +467,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        3813
+        3815
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;

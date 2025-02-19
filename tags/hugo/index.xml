@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on TechnicalDC</title>
+    <title>Hugo on TechnicalDC</title>
     <link>https://technicaldc.github.io/tags/hugo/</link>
-    <description>Recent content in hugo on TechnicalDC</description>
+    <description>Recent content in Hugo on TechnicalDC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Dilip Chauhan</copyright>
+    <copyright>© 2025 Dilip Chauhan</copyright>
     <lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>

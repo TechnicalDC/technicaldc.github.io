@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>neovim on TechnicalDC</title>
+    <title>Neovim on TechnicalDC</title>
     <link>https://technicaldc.github.io/tags/neovim/</link>
-    <description>Recent content in neovim on TechnicalDC</description>
+    <description>Recent content in Neovim on TechnicalDC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Dilip Chauhan</copyright>
+    <copyright>© 2025 Dilip Chauhan</copyright>
     <lastBuildDate>Sun, 18 Aug 2024 23:24:43 +0530</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hidden Gems: Lesser-Known Neovim Plugins You Should Try</title>
@@ -80,7 +80,7 @@ yazi with neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        352
+        359
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -175,7 +175,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1376
+        1381
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -271,7 +271,7 @@ inputs.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        15184
+        15189
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -467,7 +467,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        3813
+        3815
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -695,16 +695,6 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;/a&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/featured.png" />
-    </item>
-    
-    <item>
-      <title>Customizing Neovim with Noice</title>
-      <link>https://technicaldc.github.io/videos/customizing-neovim-with-noice/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://technicaldc.github.io/videos/customizing-neovim-with-noice/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/videos/customizing-neovim-with-noice/featured.jpg" />
     </item>
     
   </channel>
