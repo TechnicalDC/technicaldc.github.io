@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TechnicalDC</title>
+    <title>Home on TechnicalDC</title>
     <link>https://technicaldc.github.io/</link>
-    <description>Recent content on TechnicalDC</description>
+    <description>Recent content in Home on TechnicalDC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Dilip Chauhan</copyright>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
     <lastBuildDate>Sun, 21 Jan 2024 14:24:36 -0500</lastBuildDate><atom:link href="https://technicaldc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hidden Gems: Lesser-Known Neovim Plugins You Should Try</title>
+      <link>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</link>
+      <pubDate>Sat, 05 Oct 2024 15:41:43 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</guid>
+      <description>&lt;p&gt;:laptop:&lt;/p&gt;
+</description>
+      
+    </item>
+    
     <item>
       <title>Hidden Gems: Lesser-Known Neovim Plugins You Should Try</title>
       <link>https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/</link>
@@ -30,11 +41,9 @@ daily workflow.&lt;/p&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34;   target=&#34;_blank&#34;&gt;
-    yasi&lt;/a&gt; is terminal file manager of choice. Unlike other terminal file
+&lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34; target=&#34;_blank&#34;&gt;yasi&lt;/a&gt; is terminal file manager of choice. Unlike other terminal file
 manager like ranger and lf, yazi is written rust making it much faster compared to its
-alternatives. So &lt;a href=&#34;https://github.com/mikavilpas/yazi.nvim&#34;   target=&#34;_blank&#34;&gt;
-    yazi.nvim&lt;/a&gt; allows to integrate
+alternatives. So &lt;a href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; target=&#34;_blank&#34;&gt;yazi.nvim&lt;/a&gt; allows to integrate
 yazi with neovim.&lt;/p&gt;
 &lt;a id=&#34;github-991fb51e3fea599be1d0086da10f03d6&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
@@ -80,7 +89,7 @@ yazi with neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        359
+        801
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -93,7 +102,7 @@ yazi with neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        11
+        28
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -127,9 +136,7 @@ yazi with neovim.&lt;/p&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/kdheepak/lazygit.nvim&#34;   target=&#34;_blank&#34;&gt;
-    lazygit.nvim&lt;/a&gt; is the wrapper plugins for &lt;a href=&#34;https://github.com/jesseduffield/lazygit&#34;   target=&#34;_blank&#34;&gt;
-    lazygit&lt;/a&gt; allowing the user to
+&lt;p&gt;&lt;a href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; target=&#34;_blank&#34;&gt;lazygit.nvim&lt;/a&gt; is the wrapper plugins for &lt;a href=&#34;https://github.com/jesseduffield/lazygit&#34; target=&#34;_blank&#34;&gt;lazygit&lt;/a&gt; allowing the user to
 perform all the git operation right from the neovim.&lt;/p&gt;
 &lt;a id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
@@ -175,7 +182,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1381
+        1730
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -188,7 +195,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        53
+        65
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -222,8 +229,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34;   target=&#34;_blank&#34;&gt;
-    telescope.nvim&lt;/a&gt; is a highly extendable fuzzy finder over lists. Built on the
+&lt;p&gt;&lt;a href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34; target=&#34;_blank&#34;&gt;telescope.nvim&lt;/a&gt; is a highly extendable fuzzy finder over lists. Built on the
 latest awesome features from neovim core. Telescope is centered around
 modularity, allowing other plugins to utilize the telescope as their UI for
 inputs.&lt;/p&gt;
@@ -271,7 +277,7 @@ inputs.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        15189
+        16840
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -284,7 +290,7 @@ inputs.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        813
+        857
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -319,8 +325,7 @@ inputs.&lt;/p&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;When it comes to note taking, my previous choice was vimwiki. However, since I started
-using neovim, I was looking for better alternatives and this is when I came across &lt;a href=&#34;https://github.com/nvim-neorg/neorg&#34;   target=&#34;_blank&#34;&gt;
-    neorg&lt;/a&gt;
+using neovim, I was looking for better alternatives and this is when I came across &lt;a href=&#34;https://github.com/nvim-neorg/neorg&#34; target=&#34;_blank&#34;&gt;neorg&lt;/a&gt;
 on reddit. Neorg is an all-encompassing tool based around structured note
 taking, project and task management, time tracking, slideshows, writing typeset
 documents and much more. The premise is that all of these features are built on
@@ -370,7 +375,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        6255
+        6697
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -383,7 +388,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        210
+        222
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -419,8 +424,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 &lt;/h2&gt;
 &lt;p&gt;Being developer, making changes in the program is quite daily routine and after a lots
 of changes it is hard to keep track of it. This is where undotree comes into picture.
-&lt;a href=&#34;https://github.com/mbbill/undotree&#34;   target=&#34;_blank&#34;&gt;
-    Undotree&lt;/a&gt; visualizes the undo history and makes it easy to browse and switch
+&lt;a href=&#34;https://github.com/mbbill/undotree&#34; target=&#34;_blank&#34;&gt;Undotree&lt;/a&gt; visualizes the undo history and makes it easy to browse and switch
 between different undo branches. They&amp;rsquo;re a feature of Vim that allow you to go
 back to a prior state even after it has been overwritten by later edits.&lt;/p&gt;
 &lt;a id=&#34;github-2090cb9d60599f27c5975c3a87dc9699&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mbbill/undotree&#34; class=&#34;cursor-pointer&#34;&gt;
@@ -467,7 +471,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        3815
+        4060
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -480,7 +484,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        100
+        104
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -515,8 +519,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
     
 &lt;/h2&gt;
 &lt;p&gt;Surround selections, stylishly :smiling_face_with_sunglasses: Yes, this is the line you will
-see on its github readme. &lt;a href=&#34;https://github.com/kylechui/nvim-surround&#34;   target=&#34;_blank&#34;&gt;
-    nvim-surround&lt;/a&gt; does really
+see on its github readme. &lt;a href=&#34;https://github.com/kylechui/nvim-surround&#34; target=&#34;_blank&#34;&gt;nvim-surround&lt;/a&gt; does really
 makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/code&gt; buttery smooth.&lt;/p&gt;
 &lt;a id=&#34;github-11c82d94d15588320c97b3cf62deadd2&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kylechui/nvim-surround&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
@@ -541,7 +544,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
     &lt;/div&gt;
 
     &lt;p id=&#34;github-11c82d94d15588320c97b3cf62deadd2-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-      Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.
+      Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
     &lt;/p&gt;
 
     &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
@@ -562,7 +565,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 
       &lt;/span&gt;
       &lt;div id=&#34;github-11c82d94d15588320c97b3cf62deadd2-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        3039
+        3494
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -575,7 +578,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 
       &lt;/span&gt;
       &lt;div id=&#34;github-11c82d94d15588320c97b3cf62deadd2-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        61
+        63
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -611,8 +614,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 &lt;/h2&gt;
 &lt;p&gt;Git worktree is the feature of git which allows you to work with multiple
 worktrees (branches) simultaneously.
-&lt;a href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34;   target=&#34;_blank&#34;&gt;
-    git-worktree.nvim&lt;/a&gt; is a
+&lt;a href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; target=&#34;_blank&#34;&gt;git-worktree.nvim&lt;/a&gt; is a
 simple wrapper around git worktree operations, create, switch, and delete.&lt;/p&gt;
 &lt;a id=&#34;github-963a2ba80ea337d0717624382a2af913&#34; target=&#34;_blank&#34; href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
@@ -658,7 +660,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
       &lt;/span&gt;
       &lt;div id=&#34;github-963a2ba80ea337d0717624382a2af913-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        694
+        741
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -671,7 +673,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
       &lt;/span&gt;
       &lt;div id=&#34;github-963a2ba80ea337d0717624382a2af913-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        116
+        132
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -695,6 +697,36 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;/a&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/featured.png" />
+    </item>
+    
+    <item>
+      <title>Customizing Neovim with Noice</title>
+      <link>https://technicaldc.github.io/videos/customizing-neovim-with-noice/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicaldc.github.io/videos/customizing-neovim-with-noice/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/videos/customizing-neovim-with-noice/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>How to make presentation in linux terminal in geek way?</title>
+      <link>https://technicaldc.github.io/videos/how-to-make-presentation-in-linux-terminal-in-geek-way/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicaldc.github.io/videos/how-to-make-presentation-in-linux-terminal-in-geek-way/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/videos/how-to-make-presentation-in-linux-terminal-in-geek-way/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>My new email client make me cooler 😎</title>
+      <link>https://technicaldc.github.io/videos/my-new-email-client-make-me-cooler/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicaldc.github.io/videos/my-new-email-client-make-me-cooler/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/videos/my-new-email-client-make-me-cooler/featured.jpg" />
     </item>
     
     <item>
@@ -1095,8 +1127,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;   target=&#34;_blank&#34;&gt;
-    talk &lt;code&gt;about&lt;/code&gt; nothing&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34; target=&#34;_blank&#34;&gt;talk &lt;code&gt;about&lt;/code&gt; nothing&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -1138,8 +1169,7 @@ Hugo and Blowfish theme.&lt;/p&gt;
 experience in the tech industry. My professional work mainly involves Progress 4GL,
 servers, and TypeScript, where I enjoy tackling complex problems and developing
 innovative solutions.&lt;/p&gt;
-&lt;p&gt;In addition to my engineering role, I’m the creator behind &lt;a href=&#34;https://www.youtube.com/@TheTechnicalDC&#34;   target=&#34;_blank&#34;&gt;
-    TheTechnicalDC&lt;/a&gt;, a
+&lt;p&gt;In addition to my engineering role, I’m the creator behind &lt;a href=&#34;https://www.youtube.com/@TheTechnicalDC&#34; target=&#34;_blank&#34;&gt;TheTechnicalDC&lt;/a&gt;, a
 YouTube channel dedicated to exploring the world of Linux. As a true Linux
 nerd, I’m passionate about sharing my knowledge and experiences, from practical
 tutorials to deep dives into the latest developments in the Linux ecosystem. My
@@ -1174,12 +1204,12 @@ hear from you!&lt;/p&gt;
 
 &lt;div id=&#34;gallery-2bc053111729a74bce2ff033e7cdfe90&#34; class=&#34;gallery&#34;&gt;
   
-  &lt;img src=&#34;images/profile.jpg&#34; class=&#34;grid-w25&#34; /&gt;
-  &lt;img src=&#34;images/IMG20240720223724.jpg&#34; class=&#34;grid-w25&#34; /&gt;
-  &lt;img src=&#34;images/IMG20240720223734.jpg&#34; class=&#34;grid-w25&#34; /&gt;
-  &lt;img src=&#34;images/IMG20240720223802.jpg&#34; class=&#34;grid-w25&#34; /&gt;
-  &lt;img src=&#34;images/IMG20240720223653.jpg&#34; class=&#34;grid-w25&#34; /&gt;
-  &lt;img src=&#34;images/IMG20240720223747.jpg&#34; class=&#34;grid-w25&#34; /&gt;
+  &lt;img src=&#34;images/profile.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;images/IMG20240720223724.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;images/IMG20240720223734.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;images/IMG20240720223802.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;images/IMG20240720223653.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;images/IMG20240720223747.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
 
 &lt;/div&gt;
 </description>
@@ -1204,14 +1234,14 @@ hear from you!&lt;/p&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
+&lt;ol class=&#34;border-l-2 border-primary-500 dark:border-primary-300 list-none&#34;&gt;
 
 
 
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -1233,10 +1263,11 @@ hear from you!&lt;/p&gt;
         
         &lt;h3 class=&#34;&#34;&gt;
           &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
-  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+  &lt;span class=&#34;rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200&#34;&gt;
     Jun, 2024 - Present
   &lt;/span&gt;
 &lt;/span&gt;
+
         &lt;/h3&gt;
         
       &lt;/div&gt;
@@ -1245,7 +1276,7 @@ hear from you!&lt;/p&gt;
         Durvah IT Consulting Private Limited
       &lt;/h4&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;ul&gt;
     &lt;li&gt;Delivered thorough QAD AUX training to team members and consistently supported team members with technical issues, promoting a collaborative atmosphere focused on sharing knowledge.&lt;/li&gt;
     &lt;li&gt;Designed and developed customized business components with OOABL and Typescript for enhanced functionality.&lt;/li&gt;
@@ -1301,7 +1332,7 @@ hear from you!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -1312,7 +1343,7 @@ hear from you!&lt;/p&gt;
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -1334,10 +1365,11 @@ hear from you!&lt;/p&gt;
         
         &lt;h3 class=&#34;&#34;&gt;
           &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
-  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+  &lt;span class=&#34;rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200&#34;&gt;
     Aug, 2021 - May, 2024
   &lt;/span&gt;
 &lt;/span&gt;
+
         &lt;/h3&gt;
         
       &lt;/div&gt;
@@ -1346,7 +1378,7 @@ hear from you!&lt;/p&gt;
         Aliter Business Solutions Private Limited
       &lt;/h4&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;ul&gt;
    &lt;li&gt;Developed maintenance programs using Progress 4GL, precisely
    incorporating essential lookups to streamline operations and bolster
@@ -1463,7 +1495,7 @@ hear from you!&lt;/p&gt;
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -1474,7 +1506,7 @@ hear from you!&lt;/p&gt;
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -1495,10 +1527,11 @@ hear from you!&lt;/p&gt;
         
         &lt;h3 class=&#34;&#34;&gt;
           &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
-  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+  &lt;span class=&#34;rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200&#34;&gt;
     Aug, 2018 - April, 2019
   &lt;/span&gt;
 &lt;/span&gt;
+
         &lt;/h3&gt;
         
       &lt;/div&gt;
@@ -1507,13 +1540,13 @@ hear from you!&lt;/p&gt;
         Marvel Data Services LLP
       &lt;/h4&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;ul&gt;
     &lt;li&gt;Worked on conversion of the Hard Copy Data to digital format, allowing
     data to be processed further for various applications.&lt;/li&gt;
     &lt;li&gt;Assisted other teammates on the various conversion tasks.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -1590,9 +1623,9 @@ hear from you!&lt;/p&gt;
 
 &lt;div id=&#34;gallery-cdafba04c1fc4f7d5690d206365e7b41&#34; class=&#34;gallery&#34;&gt;
   
-  &lt;img src=&#34;skills/bash.jpg&#34; class=&#34;nozoom grid-w20 rounded-md&#34; /&gt;
-  &lt;img src=&#34;skills/progress.png&#34; class=&#34;nozoom grid-w20 rounded-md&#34; /&gt;
-  &lt;img src=&#34;skills/typescript.png&#34; class=&#34;nozoom grid-w20 rounded-md&#34; /&gt;
+  &lt;img src=&#34;skills/bash.jpg&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
+  &lt;img src=&#34;skills/progress.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
+  &lt;img src=&#34;skills/typescript.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
 
 &lt;/div&gt;
 
@@ -1611,8 +1644,8 @@ hear from you!&lt;/p&gt;
 
 &lt;div id=&#34;gallery-662e163338a05760f89a2ae8b3d2364c&#34; class=&#34;gallery&#34;&gt;
   
-  &lt;img src=&#34;skills/hugo.png&#34; class=&#34;nozoom grid-w20 rounded-md&#34; /&gt;
-  &lt;img src=&#34;skills/flask.jpg&#34; class=&#34;nozoom grid-w20 rounded-md&#34; /&gt;
+  &lt;img src=&#34;skills/hugo.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
+  &lt;img src=&#34;skills/flask.jpg&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
 
 &lt;/div&gt;
 
@@ -1631,9 +1664,9 @@ hear from you!&lt;/p&gt;
 
 &lt;div id=&#34;gallery-803ef34301487717753ea0ea535a2ecf&#34; class=&#34;gallery&#34;&gt;
   
-  &lt;img src=&#34;skills/linux.jpg&#34; class=&#34;nozoom grid-w20 rounded-md&#34; /&gt;
-  &lt;img src=&#34;skills/git.png&#34; class=&#34;nozoom grid-w20 rounded-md&#34; /&gt;
-  &lt;img src=&#34;skills/gitlab.png&#34; class=&#34;nozoom grid-w20 rounded-md&#34; /&gt;
+  &lt;img src=&#34;skills/linux.jpg&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
+  &lt;img src=&#34;skills/git.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
+  &lt;img src=&#34;skills/gitlab.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
 
 &lt;/div&gt;
 

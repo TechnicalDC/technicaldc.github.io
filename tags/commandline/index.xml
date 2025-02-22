@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>commandline on TechnicalDC</title>
+    <link>https://technicaldc.github.io/tags/commandline/</link>
+    <description>Recent content in commandline on TechnicalDC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Sat, 05 Oct 2024 15:41:43 +0530</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/commandline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hidden Gems: Lesser-Known Neovim Plugins You Should Try</title>
+      <link>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</link>
+      <pubDate>Sat, 05 Oct 2024 15:41:43 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</guid>
+      <description>&lt;p&gt;:laptop:&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

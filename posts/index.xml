@@ -6,8 +6,19 @@
     <description>Recent content in posts on TechnicalDC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Dilip Chauhan</copyright>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
     <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://technicaldc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hidden Gems: Lesser-Known Neovim Plugins You Should Try</title>
+      <link>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</link>
+      <pubDate>Sat, 05 Oct 2024 15:41:43 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</guid>
+      <description>&lt;p&gt;:laptop:&lt;/p&gt;
+</description>
+      
+    </item>
+    
     <item>
       <title>Hidden Gems: Lesser-Known Neovim Plugins You Should Try</title>
       <link>https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/</link>
@@ -30,11 +41,9 @@ daily workflow.&lt;/p&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34;   target=&#34;_blank&#34;&gt;
-    yasi&lt;/a&gt; is terminal file manager of choice. Unlike other terminal file
+&lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34; target=&#34;_blank&#34;&gt;yasi&lt;/a&gt; is terminal file manager of choice. Unlike other terminal file
 manager like ranger and lf, yazi is written rust making it much faster compared to its
-alternatives. So &lt;a href=&#34;https://github.com/mikavilpas/yazi.nvim&#34;   target=&#34;_blank&#34;&gt;
-    yazi.nvim&lt;/a&gt; allows to integrate
+alternatives. So &lt;a href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; target=&#34;_blank&#34;&gt;yazi.nvim&lt;/a&gt; allows to integrate
 yazi with neovim.&lt;/p&gt;
 &lt;a id=&#34;github-991fb51e3fea599be1d0086da10f03d6&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
@@ -80,7 +89,7 @@ yazi with neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        359
+        801
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -93,7 +102,7 @@ yazi with neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        11
+        28
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -127,9 +136,7 @@ yazi with neovim.&lt;/p&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/kdheepak/lazygit.nvim&#34;   target=&#34;_blank&#34;&gt;
-    lazygit.nvim&lt;/a&gt; is the wrapper plugins for &lt;a href=&#34;https://github.com/jesseduffield/lazygit&#34;   target=&#34;_blank&#34;&gt;
-    lazygit&lt;/a&gt; allowing the user to
+&lt;p&gt;&lt;a href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; target=&#34;_blank&#34;&gt;lazygit.nvim&lt;/a&gt; is the wrapper plugins for &lt;a href=&#34;https://github.com/jesseduffield/lazygit&#34; target=&#34;_blank&#34;&gt;lazygit&lt;/a&gt; allowing the user to
 perform all the git operation right from the neovim.&lt;/p&gt;
 &lt;a id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
@@ -175,7 +182,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        1381
+        1730
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -188,7 +195,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        53
+        65
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -222,8 +229,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34;   target=&#34;_blank&#34;&gt;
-    telescope.nvim&lt;/a&gt; is a highly extendable fuzzy finder over lists. Built on the
+&lt;p&gt;&lt;a href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34; target=&#34;_blank&#34;&gt;telescope.nvim&lt;/a&gt; is a highly extendable fuzzy finder over lists. Built on the
 latest awesome features from neovim core. Telescope is centered around
 modularity, allowing other plugins to utilize the telescope as their UI for
 inputs.&lt;/p&gt;
@@ -271,7 +277,7 @@ inputs.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        15189
+        16840
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -284,7 +290,7 @@ inputs.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        813
+        857
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -319,8 +325,7 @@ inputs.&lt;/p&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;When it comes to note taking, my previous choice was vimwiki. However, since I started
-using neovim, I was looking for better alternatives and this is when I came across &lt;a href=&#34;https://github.com/nvim-neorg/neorg&#34;   target=&#34;_blank&#34;&gt;
-    neorg&lt;/a&gt;
+using neovim, I was looking for better alternatives and this is when I came across &lt;a href=&#34;https://github.com/nvim-neorg/neorg&#34; target=&#34;_blank&#34;&gt;neorg&lt;/a&gt;
 on reddit. Neorg is an all-encompassing tool based around structured note
 taking, project and task management, time tracking, slideshows, writing typeset
 documents and much more. The premise is that all of these features are built on
@@ -370,7 +375,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        6255
+        6697
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -383,7 +388,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
       &lt;/span&gt;
       &lt;div id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        210
+        222
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -419,8 +424,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 &lt;/h2&gt;
 &lt;p&gt;Being developer, making changes in the program is quite daily routine and after a lots
 of changes it is hard to keep track of it. This is where undotree comes into picture.
-&lt;a href=&#34;https://github.com/mbbill/undotree&#34;   target=&#34;_blank&#34;&gt;
-    Undotree&lt;/a&gt; visualizes the undo history and makes it easy to browse and switch
+&lt;a href=&#34;https://github.com/mbbill/undotree&#34; target=&#34;_blank&#34;&gt;Undotree&lt;/a&gt; visualizes the undo history and makes it easy to browse and switch
 between different undo branches. They&amp;rsquo;re a feature of Vim that allow you to go
 back to a prior state even after it has been overwritten by later edits.&lt;/p&gt;
 &lt;a id=&#34;github-2090cb9d60599f27c5975c3a87dc9699&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mbbill/undotree&#34; class=&#34;cursor-pointer&#34;&gt;
@@ -467,7 +471,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        3815
+        4060
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -480,7 +484,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
       &lt;/span&gt;
       &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        100
+        104
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -515,8 +519,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
     
 &lt;/h2&gt;
 &lt;p&gt;Surround selections, stylishly :smiling_face_with_sunglasses: Yes, this is the line you will
-see on its github readme. &lt;a href=&#34;https://github.com/kylechui/nvim-surround&#34;   target=&#34;_blank&#34;&gt;
-    nvim-surround&lt;/a&gt; does really
+see on its github readme. &lt;a href=&#34;https://github.com/kylechui/nvim-surround&#34; target=&#34;_blank&#34;&gt;nvim-surround&lt;/a&gt; does really
 makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/code&gt; buttery smooth.&lt;/p&gt;
 &lt;a id=&#34;github-11c82d94d15588320c97b3cf62deadd2&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kylechui/nvim-surround&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
@@ -541,7 +544,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
     &lt;/div&gt;
 
     &lt;p id=&#34;github-11c82d94d15588320c97b3cf62deadd2-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-      Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.
+      Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
     &lt;/p&gt;
 
     &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
@@ -562,7 +565,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 
       &lt;/span&gt;
       &lt;div id=&#34;github-11c82d94d15588320c97b3cf62deadd2-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        3039
+        3494
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -575,7 +578,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 
       &lt;/span&gt;
       &lt;div id=&#34;github-11c82d94d15588320c97b3cf62deadd2-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        61
+        63
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -611,8 +614,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 &lt;/h2&gt;
 &lt;p&gt;Git worktree is the feature of git which allows you to work with multiple
 worktrees (branches) simultaneously.
-&lt;a href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34;   target=&#34;_blank&#34;&gt;
-    git-worktree.nvim&lt;/a&gt; is a
+&lt;a href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; target=&#34;_blank&#34;&gt;git-worktree.nvim&lt;/a&gt; is a
 simple wrapper around git worktree operations, create, switch, and delete.&lt;/p&gt;
 &lt;a id=&#34;github-963a2ba80ea337d0717624382a2af913&#34; target=&#34;_blank&#34; href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
@@ -658,7 +660,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
       &lt;/span&gt;
       &lt;div id=&#34;github-963a2ba80ea337d0717624382a2af913-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        694
+        741
       &lt;/div&gt;
 
       &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -671,7 +673,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
       &lt;/span&gt;
       &lt;div id=&#34;github-963a2ba80ea337d0717624382a2af913-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-        116
+        132
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -1095,8 +1097,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;   target=&#34;_blank&#34;&gt;
-    talk &lt;code&gt;about&lt;/code&gt; nothing&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34; target=&#34;_blank&#34;&gt;talk &lt;code&gt;about&lt;/code&gt; nothing&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;

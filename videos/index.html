@@ -30,8 +30,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.3a0740a2d9903a0a930687c5047ad14d19bb92e11b59b97640b5dbb453f57e410fbae40f1ab104c25a1cf1861b297b025b332755f8b0fcb445f66baa19f5ec7c.css"
-    integrity="sha512-OgdAotmQOgqTBofFBHrRTRm7kuEbWbl2QLXbtFP1fkEPuuQPGrEEwloc8YYbKXsCWzMnVfiw/LRF9muqGfXsfA==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.888c47f3cb75463ea4916bd7dd2e2b3b5832e8ce4ff80f7ec0661a475da471d6123cb2bca277f018a97bcf16f054ce94c078a7c9da549c645dd5ac155512ea7f.css"
+    integrity="sha512-iIxH88t1Rj6kkWvX3S4rO1gy6M5P&#43;A9&#43;wGYaR12kcdYSPLK8onfwGKl7zxbwVM6UwHinydpUnGRd1awVVRLqfw==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -48,11 +48,14 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.98781e4deb4de66c4eadf8a8179fe645558f01924d401f8fc3a4478c01626fe5a2c906ea8dc1b321a24e027a4fe8a4e634f5641d74bca535bca4e7af32eae0e2.js"
-    integrity="sha512-mHgeTetN5mxOrfioF5/mRVWPAZJNQB&#43;Pw6RHjAFib&#43;WiyQbqjcGzIaJOAnpP6KTmNPVkHXS8pTW8pOevMurg4g==" data-copy="" data-copied=""></script>
   
   
-  <script src="/js/zoom.min.js"></script>
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.2f248b4a9710328c92d1627cd65b4040d13ea57c5522f440364aafc319515c44ef3e575463196c2dc962e69d4d0bd26e8afaa9fcb9f29c54c09e7025aac66d17.js"
+    integrity="sha512-LySLSpcQMoyS0WJ81ltAQNE&#43;pXxVIvRANkqvwxlRXETvPldUYxlsLcli5p1NC9Juivqp/LnynFTAnnAlqsZtFw==" data-copy="" data-copied=""></script>
+  
+  
+  
+  <script src="/lib/zoom/zoom.min.37d2094687372da3f7343a221a470f6b8806f7891aa46a5a03966af7f0ebd38b9fe536cb154e6ad28f006d184b294525a7c4054b6bbb4be62d8b453b42db99bd.js" integrity="sha512-N9IJRoc3LaP3NDoiGkcPa4gG94kapGpaA5Zq9/Dr04uf5TbLFU5q0o8AbRhLKUUlp8QFS2u7S&#43;Yti0U7QtuZvQ=="></script>
   
   
   
@@ -60,6 +63,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   <link rel="manifest" href="/site.webmanifest" />
+  
   
   
   
@@ -103,7 +107,8 @@
   
   
 
-<script src="/lib/jquery/jquery.slim.min.js" integrity=""></script>
+<script src="/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js" integrity="sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj&#43;KsslFkCOt3TvJrX2AV/Gc3wOqA=="></script>
+
 
 
 
@@ -127,6 +132,8 @@
 
   
   
+
+
 
   
   
@@ -135,7 +142,7 @@
   
 </head>
 <body
-  class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32">
+  class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
   <div id="the-top" class="absolute flex self-center">
     <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
       href="#main-content"><span
@@ -148,7 +155,7 @@
   <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
-    class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
+    class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3">
     
     
     
@@ -156,8 +163,10 @@
         <a href="/" class="flex">
             <span class="sr-only">TechnicalDC</span>
 
+            
             <img src="/logo.png" width="375" height="187"
                 class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="TechnicalDC" />
+            
 
         </a>
     </div>
@@ -168,7 +177,7 @@
             
 
         </nav>
-        <nav class="hidden md:flex items-center space-x-5 md:ml-12 h-12">
+        <nav class="hidden md:flex items-center gap-x-5 md:ml-12 h-12">
 
             
             
@@ -181,6 +190,7 @@
 </a>
 
 
+
             
             
   <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
@@ -189,6 +199,7 @@
         posts
     </p>
 </a>
+
 
 
             
@@ -201,6 +212,7 @@
 </a>
 
 
+
             
             
   <a href="/resume/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
@@ -209,6 +221,7 @@
         resume
     </p>
 </a>
+
 
 
             
@@ -236,7 +249,7 @@
             
 
         </nav>
-        <div class="flex md:hidden items-center space-x-5 md:ml-12 h-12">
+        <div class="flex md:hidden items-center gap-x-5 md:ml-12 h-12">
 
             <span></span>
 
@@ -262,10 +275,9 @@
 
         </div>
     </div>
-    <div class="-my-2 -mr-2 md:hidden">
+    <div class="-my-2 md:hidden">
 
-        <label id="menu-button" for="menu-controller" class="block">
-            <input type="checkbox" id="menu-controller" class="hidden" />
+        <label id="menu-button" class="block">
             
             <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
                 
@@ -282,7 +294,7 @@
                 <ul
                     class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none ltr:text-right rtl:text-left max-w-7xl">
 
-                    <li>
+                    <li id="menu-close-button">
                         <span
                             class="cursor-pointer inline-block align-text-bottom hover:text-primary-600 dark:hover:text-primary-400">
 
@@ -308,6 +320,7 @@
 
 
 
+
                     
 
                     
@@ -319,6 +332,7 @@
         </p>
     </a>
 </li>
+
 
 
 
@@ -336,6 +350,7 @@
 
 
 
+
                     
 
                     
@@ -347,6 +362,7 @@
         </p>
     </a>
 </li>
+
 
 
 
@@ -403,11 +419,13 @@
 
 
 
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
 
 
     
     <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
-    style="background-image:url(/backgrounds/red-lights-blurred_hufd7daa78f73a0ea9a2b095306d3c61af_351974_1200x0_resize_q75_box.jpg);">
+    style="background-image:url(/backgrounds/earth_hu7849b20ce9ad2599a2189d7278ab15e2_1761296_1200x0_resize_q75_box.jpg);">
     
 
 
@@ -460,9 +478,10 @@
 
 
   </div>
-
   
   
+    
+    
   <script>
     var oid = "views_videos\/_index.md"
     var oid_likes = "likes_videos\/_index.md"
@@ -470,15 +489,15 @@
   
   
   <script type="text/javascript" src="/js/page.min.b06a29d42a4ed16787978e2eee1e8c797b7698db2bc14ccee78f5c80ac566fc996190a73ad80a5e987558474b20b96fa38f7d85b405f165ff72b7b163c5ad11b.js" integrity="sha512-sGop1CpO0WeHl44u7h6MeXt2mNsrwUzO549cgKxWb8mWGQpzrYCl6YdVhHSyC5b6OPfYW0BfFl/3K3sWPFrRGw=="></script>
+  
   </header>
   <section class="mt-0 prose flex max-w-full flex-col dark:prose-invert lg:flex-row">
     
     <div class="min-w-0 min-h-0 max-w-prose">
-      <p>Some of the videos here will redirect to my youtube videos.</p>
-<hr>
+      <p>Videos here will redirect to my youtube videos.</p>
 
     </div>
-   
+
 
 
 
@@ -488,16 +507,18 @@
     
     
     
+    
+    
 
     
 
       
 
-      
-        <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-          2024
-        </h2>
+        
         <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+        
+        
+          
           
           
 
@@ -560,7 +581,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-03-03 00:00:00 &#43;0000 UTC">3 March 2024</time>
+  <time datetime="2024-03-03T00:00:00&#43;00:00">3 March 2024</time>
   
 
   
@@ -598,34 +619,38 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/terminal/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/terminal/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  <span class="rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200">
     terminal
   </span>
 </span>
+
   </span>
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/neovim/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/neovim/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  <span class="rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200">
     neovim
   </span>
 </span>
+
   </span>
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/youtube/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/youtube/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  <span class="rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200">
     youtube
   </span>
 </span>
+
   </span>
   
   
   
   
 </div>
+
 
 
 
@@ -638,13 +663,9 @@
       </div>
     </div>
   </a>
+
           
-        </section>
-      
-        <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-          2023
-        </h2>
-        <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+          
           
           
 
@@ -707,7 +728,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2023-12-10 00:00:00 &#43;0000 UTC">10 December 2023</time>
+  <time datetime="2023-12-10T00:00:00&#43;00:00">10 December 2023</time>
   
 
   
@@ -745,34 +766,38 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/terminal/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/terminal/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  <span class="rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200">
     terminal
   </span>
 </span>
+
   </span>
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/email/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/email/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  <span class="rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200">
     email
   </span>
 </span>
+
   </span>
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/youtube/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/youtube/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  <span class="rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200">
     youtube
   </span>
 </span>
+
   </span>
   
   
   
   
 </div>
+
 
 
 
@@ -785,6 +810,7 @@
       </div>
     </div>
   </a>
+
           
           
 
@@ -847,7 +873,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2023-12-10 00:00:00 &#43;0000 UTC">10 December 2023</time>
+  <time datetime="2023-12-10T00:00:00&#43;00:00">10 December 2023</time>
   
 
   
@@ -885,26 +911,29 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/terminal/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/terminal/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  <span class="rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200">
     terminal
   </span>
 </span>
+
   </span>
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/youtube/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/youtube/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  <span class="rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200">
     youtube
   </span>
 </span>
+
   </span>
   
   
   
   
 </div>
+
 
 
 
@@ -917,9 +946,12 @@
       </div>
     </div>
   </a>
+
           
+          
+        
         </section>
-      
+        
 
     
 
@@ -961,9 +993,7 @@
     
     
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
-      &copy;
-      2024
-      Dilip Chauhan
+      Copy, <em>right?</em> :thinking_face:
     </p>
     
 
@@ -993,7 +1023,8 @@
   <script type="text/javascript" src="/js/process.min.62060bb247f4de2b6dde45903668fefb68d792f365587605177b1227c0cf43588701edaca0cb40e2c8e2789bd5ce67c1d2a215b9fb258c3496a7cd25e7cb5fdf.js" integrity="sha512-YgYLskf03itt3kWQNmj&#43;&#43;2jXkvNlWHYFF3sSJ8DPQ1iHAe2soMtA4sjieJvVzmfB0qIVufsljDSWp80l58tf3w=="></script>
   
   
-</footer><div
+</footer>
+<div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
   data-url="https://technicaldc.github.io/"
