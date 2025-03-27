@@ -7,11 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sun, 18 Aug 2024 23:24:43 +0530</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 15:41:43 +0530</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>commandline</title>
+      <link>https://technicaldc.github.io/tags/commandline/</link>
+      <pubDate>Thu, 27 Mar 2025 15:41:43 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/tags/commandline/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>neovim</title>
       <link>https://technicaldc.github.io/tags/neovim/</link>
-      <pubDate>Sun, 18 Aug 2024 23:24:43 +0530</pubDate>
+      <pubDate>Thu, 27 Mar 2025 15:41:43 +0530</pubDate>
       
       <guid>https://technicaldc.github.io/tags/neovim/</guid>
       <description></description>
@@ -21,7 +31,7 @@
     <item>
       <title>terminal</title>
       <link>https://technicaldc.github.io/tags/terminal/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Mar 2025 15:41:43 +0530</pubDate>
       
       <guid>https://technicaldc.github.io/tags/terminal/</guid>
       <description></description>

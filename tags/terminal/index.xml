@@ -7,7 +7,252 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 15:41:43 +0530</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essential commandline tools for daily productivity</title>
+      <link>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</link>
+      <pubDate>Thu, 27 Mar 2025 15:41:43 +0530</pubDate>
+      
+      <guid>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</guid>
+      <description>
+
+&lt;h1 class=&#34;relative group&#34;&gt;Essential Command-Line Tools for Power Users 
+    &lt;div id=&#34;essential-command-line-tools-for-power-users&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#essential-command-line-tools-for-power-users&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;For as long as I’ve used Linux and spent time in the terminal, I’ve realized one thing: the command line is a powerhouse of productivity. While GUI applications have their place, nothing beats the speed, efficiency, and sheer control that CLI tools provide. Over time, I’ve experimented with countless terminal tools, but some have truly stood out and become essential to my workflow.&lt;/p&gt;
+&lt;p&gt;If you live in the terminal like I do, you’ll love these tools. Let’s dive in!&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;1. Neovim (nvim) – The Ultimate Text Editor 
+    &lt;div id=&#34;1-neovim-nvim--the-ultimate-text-editor&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-neovim-nvim--the-ultimate-text-editor&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I started with Vim like many others, fascinated by its modal editing and sheer efficiency. But then came Neovim, and everything changed. Neovim takes Vim’s legacy and modernizes it with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Asynchronous Plugins &amp;amp; LSP Support&lt;/strong&gt; – Seamless auto-completion and real-time linting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embedded Terminal Emulator&lt;/strong&gt; – Run commands without switching windows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lua-Based Configuration&lt;/strong&gt; – More power and flexibility than Vimscript.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you love Vim but crave better extensibility and modern features, Neovim is a must-have.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;My Workflow:&lt;/strong&gt; I use Neovim as my primary code editor, writing scripts, editing configs, and even drafting blog posts like this one. With plugins like &lt;code&gt;telescope.nvim&lt;/code&gt; and &lt;code&gt;lualine.nvim&lt;/code&gt;, my setup feels snappy and efficient.&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;2. fzf – The Magic of Fuzzy Search 
+    &lt;div id=&#34;2-fzf--the-magic-of-fuzzy-search&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#2-fzf--the-magic-of-fuzzy-search&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;You know that frustrating moment when you need to find a file, but you can’t remember the exact name? That’s where &lt;code&gt;fzf&lt;/code&gt; comes in. It’s an interactive fuzzy search tool that makes finding files, directories, and commands effortless.&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Why I Love It: 
+    &lt;div id=&#34;why-i-love-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-i-love-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Blazing fast fuzzy searching.&lt;/li&gt;
+&lt;li&gt;Works inside Vim, bash, and even scripts.&lt;/li&gt;
+&lt;li&gt;Integrates with &lt;code&gt;find&lt;/code&gt;, &lt;code&gt;rg&lt;/code&gt;, &lt;code&gt;fd&lt;/code&gt;, &lt;code&gt;git&lt;/code&gt;, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Quickly locate files interactively:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;find . -type f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; fzf
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I have &lt;code&gt;fzf&lt;/code&gt; mapped in my shell to make directory navigation insanely fast. Trust me, once you start using it, there’s no going back!&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;3. tmux – Terminal Multitasking Done Right 
+    &lt;div id=&#34;3-tmux--terminal-multitasking-done-right&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#3-tmux--terminal-multitasking-done-right&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I used to open multiple terminal tabs and windows until I discovered &lt;code&gt;tmux&lt;/code&gt;. It changed how I work in the terminal forever. &lt;code&gt;tmux&lt;/code&gt; allows you to manage multiple terminal sessions inside a single window.&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Why It’s Essential: 
+    &lt;div id=&#34;why-its-essential&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-its-essential&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Persistent Sessions&lt;/strong&gt; – Never lose work due to accidental disconnections.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Split Panes &amp;amp; Windows&lt;/strong&gt; – Organize multiple tasks efficiently.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Highly Configurable&lt;/strong&gt; – Customize keybindings, colors, and layouts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Start a new session:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tmux new -s mysession
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now, I can work on multiple projects without worrying about losing my place.&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;4. yazi – A Blazing-Fast Terminal File Manager 
+    &lt;div id=&#34;4-yazi--a-blazing-fast-terminal-file-manager&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#4-yazi--a-blazing-fast-terminal-file-manager&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;If you’ve ever used &lt;code&gt;ranger&lt;/code&gt;, &lt;code&gt;lf&lt;/code&gt;, or &lt;code&gt;nnn&lt;/code&gt;, you’ll love &lt;code&gt;yazi&lt;/code&gt;. It’s a minimal, keyboard-driven file manager that feels like a dream to use.&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Why It’s a Game-Changer: 
+    &lt;div id=&#34;why-its-a-game-changer&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-its-a-game-changer&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lightning-fast navigation.&lt;/li&gt;
+&lt;li&gt;Preview support for images, PDFs, and videos.&lt;/li&gt;
+&lt;li&gt;Lua-based customization for ultimate flexibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔹 &lt;strong&gt;How I Use It:&lt;/strong&gt; I use &lt;code&gt;yazi&lt;/code&gt; to quickly browse files, especially when dealing with large projects. Its preview feature saves me from opening unnecessary files.&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;5. lazygit – Git Without the Pain 
+    &lt;div id=&#34;5-lazygit--git-without-the-pain&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#5-lazygit--git-without-the-pain&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Git is powerful, but let’s be honest—it can be a pain to use from the command line, especially when managing branches and resolving conflicts. &lt;code&gt;lazygit&lt;/code&gt; changes that with an intuitive and interactive Git UI for the terminal.&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Why You Need It: 
+    &lt;div id=&#34;why-you-need-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-you-need-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Effortless commit, push, pull, rebase, and stash operations.&lt;/li&gt;
+&lt;li&gt;Visual branch management and conflict resolution.&lt;/li&gt;
+&lt;li&gt;Lightweight and fast.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Launch &lt;code&gt;lazygit&lt;/code&gt; inside a Git repo:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;lazygit
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I rely on &lt;code&gt;lazygit&lt;/code&gt; whenever I need to handle complex merges or review commits without typing out long Git commands.&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;6. taskwarrior (task) – Get Your Tasks in Order 
+    &lt;div id=&#34;6-taskwarrior-task--get-your-tasks-in-order&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#6-taskwarrior-task--get-your-tasks-in-order&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Staying productive isn’t just about writing code—it’s about organizing your work efficiently. &lt;code&gt;taskwarrior&lt;/code&gt; is an advanced task manager for the command line.&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;Why I Use It: 
+    &lt;div id=&#34;why-i-use-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-i-use-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Prioritization and due dates keep me on track.&lt;/li&gt;
+&lt;li&gt;Recurring tasks and dependencies ensure nothing slips through the cracks.&lt;/li&gt;
+&lt;li&gt;Powerful filtering and custom reports.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Add a high-priority task:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;task add &lt;span class=&#34;s2&#34;&gt;&amp;#34;Write blog post&amp;#34;&lt;/span&gt; due:tomorrow priority:H
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I use &lt;code&gt;taskwarrior&lt;/code&gt; to track my work and personal tasks without relying on GUI-based to-do apps.&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;7. zoxide (z) – Smarter Directory Navigation 
+    &lt;div id=&#34;7-zoxide-z--smarter-directory-navigation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#7-zoxide-z--smarter-directory-navigation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Typing &lt;code&gt;cd&lt;/code&gt; repeatedly is inefficient, and that’s where &lt;code&gt;zoxide&lt;/code&gt; shines. It learns your frequently visited directories and lets you jump to them instantly.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Quickly navigate to a frequently accessed directory:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;z project
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This tool saves me so much time, eliminating the need to type long directory paths.&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Wrapping Up 
+    &lt;div id=&#34;wrapping-up&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#wrapping-up&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;These tools have become an essential part of my daily workflow. Whether I’m coding, managing files, or organizing tasks, they help me stay efficient and focused. If you spend a lot of time in the terminal, I highly recommend giving them a try.&lt;/p&gt;
+&lt;p&gt;💬 &lt;strong&gt;What are your favorite command-line tools? Let’s discuss in the comments!&lt;/strong&gt;&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/featured.png" />
+    </item>
+    
     <item>
       <title>Customizing Neovim with Noice</title>
       <link>https://technicaldc.github.io/videos/customizing-neovim-with-noice/</link>

@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</loc>
+    <lastmod>2025-03-27T15:41:43+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/</loc>
     <lastmod>2024-08-18T23:24:43+05:30</lastmod>
     <changefreq>daily</changefreq>
