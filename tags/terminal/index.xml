@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>terminal on TechnicalDC</title>
+    <title>Terminal on TechnicalDC</title>
     <link>https://technicaldc.github.io/tags/terminal/</link>
-    <description>Recent content in terminal on TechnicalDC</description>
+    <description>Recent content in Terminal on TechnicalDC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
@@ -26,7 +26,12 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
-&lt;p&gt;For as long as I’ve used Linux and spent time in the terminal, I’ve realized one thing: the command line is a powerhouse of productivity. While GUI applications have their place, nothing beats the speed, efficiency, and sheer control that CLI tools provide. Over time, I’ve experimented with countless terminal tools, but some have truly stood out and become essential to my workflow.&lt;/p&gt;
+&lt;p&gt;For as long as I’ve used Linux and spent time in the terminal, I’ve realized
+one thing: the command line is a powerhouse of productivity. While GUI
+applications have their place, nothing beats the speed, efficiency, and sheer
+control that CLI tools provide. Over time, I’ve experimented with countless
+terminal tools, but some have truly stood out and become essential to my
+workflow.&lt;/p&gt;
 &lt;p&gt;If you live in the terminal like I do, you’ll love these tools. Let’s dive in!&lt;/p&gt;
 &lt;hr&gt;
 
@@ -41,14 +46,18 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;I started with Vim like many others, fascinated by its modal editing and sheer efficiency. But then came Neovim, and everything changed. Neovim takes Vim’s legacy and modernizes it with:&lt;/p&gt;
+&lt;p&gt;I started with Vim like many others, fascinated by its modal editing and sheer
+efficiency. But then came Neovim, and everything changed. Neovim takes Vim’s
+legacy and modernizes it with:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Asynchronous Plugins &amp;amp; LSP Support&lt;/strong&gt; – Seamless auto-completion and real-time linting.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Embedded Terminal Emulator&lt;/strong&gt; – Run commands without switching windows.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Lua-Based Configuration&lt;/strong&gt; – More power and flexibility than Vimscript.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you love Vim but crave better extensibility and modern features, Neovim is a must-have.&lt;/p&gt;
-&lt;p&gt;🔹 &lt;strong&gt;My Workflow:&lt;/strong&gt; I use Neovim as my primary code editor, writing scripts, editing configs, and even drafting blog posts like this one. With plugins like &lt;code&gt;telescope.nvim&lt;/code&gt; and &lt;code&gt;lualine.nvim&lt;/code&gt;, my setup feels snappy and efficient.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;My Workflow:&lt;/strong&gt; I use Neovim as my primary code editor, writing scripts,
+editing configs, and even drafting blog posts like this one. With plugins like
+&lt;code&gt;telescope.nvim&lt;/code&gt; and &lt;code&gt;lualine.nvim&lt;/code&gt;, my setup feels snappy and efficient.&lt;/p&gt;
 &lt;hr&gt;
 
 
@@ -62,7 +71,9 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;You know that frustrating moment when you need to find a file, but you can’t remember the exact name? That’s where &lt;code&gt;fzf&lt;/code&gt; comes in. It’s an interactive fuzzy search tool that makes finding files, directories, and commands effortless.&lt;/p&gt;
+&lt;p&gt;You know that frustrating moment when you need to find a file, but you can’t
+remember the exact name? That’s where &lt;code&gt;fzf&lt;/code&gt; comes in. It’s an interactive fuzzy
+search tool that makes finding files, directories, and commands effortless.&lt;/p&gt;
 
 
 &lt;h3 class=&#34;relative group&#34;&gt;Why I Love It: 
@@ -82,7 +93,8 @@
 &lt;/ul&gt;
 &lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Quickly locate files interactively:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;find . -type f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; fzf
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I have &lt;code&gt;fzf&lt;/code&gt; mapped in my shell to make directory navigation insanely fast. Trust me, once you start using it, there’s no going back!&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I have &lt;code&gt;fzf&lt;/code&gt; mapped in my shell to make directory navigation insanely fast.
+Trust me, once you start using it, there’s no going back!&lt;/p&gt;
 &lt;hr&gt;
 
 
@@ -96,7 +108,9 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;I used to open multiple terminal tabs and windows until I discovered &lt;code&gt;tmux&lt;/code&gt;. It changed how I work in the terminal forever. &lt;code&gt;tmux&lt;/code&gt; allows you to manage multiple terminal sessions inside a single window.&lt;/p&gt;
+&lt;p&gt;I used to open multiple terminal tabs and windows until I discovered &lt;code&gt;tmux&lt;/code&gt;. It
+changed how I work in the terminal forever. &lt;code&gt;tmux&lt;/code&gt; allows you to manage
+multiple terminal sessions inside a single window.&lt;/p&gt;
 
 
 &lt;h3 class=&#34;relative group&#34;&gt;Why It’s Essential: 
@@ -130,7 +144,8 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;If you’ve ever used &lt;code&gt;ranger&lt;/code&gt;, &lt;code&gt;lf&lt;/code&gt;, or &lt;code&gt;nnn&lt;/code&gt;, you’ll love &lt;code&gt;yazi&lt;/code&gt;. It’s a minimal, keyboard-driven file manager that feels like a dream to use.&lt;/p&gt;
+&lt;p&gt;If you’ve ever used &lt;code&gt;ranger&lt;/code&gt;, &lt;code&gt;lf&lt;/code&gt;, or &lt;code&gt;nnn&lt;/code&gt;, you’ll love &lt;code&gt;yazi&lt;/code&gt;. It’s a
+minimal, keyboard-driven file manager that feels like a dream to use.&lt;/p&gt;
 
 
 &lt;h3 class=&#34;relative group&#34;&gt;Why It’s a Game-Changer: 
@@ -148,7 +163,9 @@
 &lt;li&gt;Preview support for images, PDFs, and videos.&lt;/li&gt;
 &lt;li&gt;Lua-based customization for ultimate flexibility.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;🔹 &lt;strong&gt;How I Use It:&lt;/strong&gt; I use &lt;code&gt;yazi&lt;/code&gt; to quickly browse files, especially when dealing with large projects. Its preview feature saves me from opening unnecessary files.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;How I Use It:&lt;/strong&gt; I use &lt;code&gt;yazi&lt;/code&gt; to quickly browse files, especially when
+dealing with large projects. Its preview feature saves me from opening
+unnecessary files.&lt;/p&gt;
 &lt;hr&gt;
 
 
@@ -162,7 +179,9 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Git is powerful, but let’s be honest—it can be a pain to use from the command line, especially when managing branches and resolving conflicts. &lt;code&gt;lazygit&lt;/code&gt; changes that with an intuitive and interactive Git UI for the terminal.&lt;/p&gt;
+&lt;p&gt;Git is powerful, but let’s be honest—it can be a pain to use from the command
+line, especially when managing branches and resolving conflicts. &lt;code&gt;lazygit&lt;/code&gt;
+changes that with an intuitive and interactive Git UI for the terminal.&lt;/p&gt;
 
 
 &lt;h3 class=&#34;relative group&#34;&gt;Why You Need It: 
@@ -182,7 +201,8 @@
 &lt;/ul&gt;
 &lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Launch &lt;code&gt;lazygit&lt;/code&gt; inside a Git repo:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;lazygit
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I rely on &lt;code&gt;lazygit&lt;/code&gt; whenever I need to handle complex merges or review commits without typing out long Git commands.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I rely on &lt;code&gt;lazygit&lt;/code&gt; whenever I need to handle complex merges or review commits
+without typing out long Git commands.&lt;/p&gt;
 &lt;hr&gt;
 
 
@@ -196,7 +216,9 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Staying productive isn’t just about writing code—it’s about organizing your work efficiently. &lt;code&gt;taskwarrior&lt;/code&gt; is an advanced task manager for the command line.&lt;/p&gt;
+&lt;p&gt;Staying productive isn’t just about writing code—it’s about organizing your
+work efficiently. &lt;code&gt;taskwarrior&lt;/code&gt; is an advanced task manager for the command
+line.&lt;/p&gt;
 
 
 &lt;h3 class=&#34;relative group&#34;&gt;Why I Use It: 
@@ -230,7 +252,8 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Typing &lt;code&gt;cd&lt;/code&gt; repeatedly is inefficient, and that’s where &lt;code&gt;zoxide&lt;/code&gt; shines. It learns your frequently visited directories and lets you jump to them instantly.&lt;/p&gt;
+&lt;p&gt;Typing &lt;code&gt;cd&lt;/code&gt; repeatedly is inefficient, and that’s where &lt;code&gt;zoxide&lt;/code&gt; shines. It
+learns your frequently visited directories and lets you jump to them instantly.&lt;/p&gt;
 &lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Quickly navigate to a frequently accessed directory:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;z project
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This tool saves me so much time, eliminating the need to type long directory paths.&lt;/p&gt;
@@ -247,40 +270,13 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;These tools have become an essential part of my daily workflow. Whether I’m coding, managing files, or organizing tasks, they help me stay efficient and focused. If you spend a lot of time in the terminal, I highly recommend giving them a try.&lt;/p&gt;
+&lt;p&gt;These tools have become an essential part of my daily workflow. Whether I’m
+coding, managing files, or organizing tasks, they help me stay efficient and
+focused. If you spend a lot of time in the terminal, I highly recommend giving
+them a try.&lt;/p&gt;
 &lt;p&gt;💬 &lt;strong&gt;What are your favorite command-line tools? Let’s discuss in the comments!&lt;/strong&gt;&lt;/p&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/featured.png" />
-    </item>
-    
-    <item>
-      <title>Customizing Neovim with Noice</title>
-      <link>https://technicaldc.github.io/videos/customizing-neovim-with-noice/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://technicaldc.github.io/videos/customizing-neovim-with-noice/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/videos/customizing-neovim-with-noice/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>How to make presentation in linux terminal in geek way?</title>
-      <link>https://technicaldc.github.io/videos/how-to-make-presentation-in-linux-terminal-in-geek-way/</link>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://technicaldc.github.io/videos/how-to-make-presentation-in-linux-terminal-in-geek-way/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/videos/how-to-make-presentation-in-linux-terminal-in-geek-way/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>My new email client make me cooler 😎</title>
-      <link>https://technicaldc.github.io/videos/my-new-email-client-make-me-cooler/</link>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://technicaldc.github.io/videos/my-new-email-client-make-me-cooler/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/videos/my-new-email-client-make-me-cooler/featured.jpg" />
     </item>
     
   </channel>
