@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on TechnicalDC</title>
+    <title>Dilip Chauhan on dilip chauhan</title>
     <link>https://technicaldc.github.io/</link>
-    <description>Recent content in Home on TechnicalDC</description>
+    <description>Recent content in Dilip Chauhan on dilip chauhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
@@ -1494,7 +1494,7 @@ hear from you!&lt;/p&gt;
         &lt;h3 class=&#34;&#34;&gt;
           &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
   &lt;span class=&#34;rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200&#34;&gt;
-    Jun, 2024 - Present
+    May, 2024 - Present
   &lt;/span&gt;
 &lt;/span&gt;
 
@@ -1513,6 +1513,8 @@ hear from you!&lt;/p&gt;
     &lt;li&gt;Successfully implemented the custom KPI and Action Center along with developing forms and views.&lt;/li&gt;
     &lt;li&gt;Concurrently pursued advanced WebUI development training to stay ahead in technological advancements.&lt;/li&gt;
     &lt;li&gt;Proficiently deployed various programs leveraging advanced tools like YAB, ensuring smooth implementation and seamless integration with existing systems.&lt;/li&gt;
+    &lt;li&gt;Designed and deployed multiple QRF programs leveraging Platform API to automate various transactions, resulting in a 60% reduction in manual effort and a substantial improvement in overall operational efficiency.&lt;/li&gt;
+    &lt;li&gt;Worked on the creation of OOABL Classes and Interfaces for QAD AUX App and performed the ant deployment in the environment.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&#34;flex flex-row flex-wrap items-center space-x-2&#34;&gt;
@@ -1878,6 +1880,7 @@ hear from you!&lt;/p&gt;
   &lt;img src=&#34;skills/bash.jpg&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
   &lt;img src=&#34;skills/progress.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
   &lt;img src=&#34;skills/typescript.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
+  &lt;img src=&#34;skills/lua.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
 
 &lt;/div&gt;
 
