@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>posts on dilip chauhan</title>
+    <title>posts on thetechnicaldc</title>
     <link>https://technicaldc.github.io/posts/</link>
-    <description>Recent content in posts on dilip chauhan</description>
+    <description>Recent content in posts on thetechnicaldc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <copyright>Copyright 2025 - Dilip Chauhan</copyright>
     <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://technicaldc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Essential commandline tools for daily productivity</title>
