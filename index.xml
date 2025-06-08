@@ -14,18 +14,7 @@
       <pubDate>Thu, 27 Mar 2025 15:41:43 +0530</pubDate>
       
       <guid>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</guid>
-      <description>
-&lt;h1 class=&#34;relative group&#34;&gt;Essential Command-Line Tools for Power Users 
-    &lt;div id=&#34;essential-command-line-tools-for-power-users&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#essential-command-line-tools-for-power-users&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h1&gt;
-&lt;p&gt;For as long as I’ve used Linux and spent time in the terminal, I’ve realized
+      <description>&lt;p&gt;For as long as I’ve used Linux and spent time in the terminal, I’ve realized
 one thing: the command line is a powerhouse of productivity. While GUI
 applications have their place, nothing beats the speed, efficiency, and sheer
 control that CLI tools provide. Over time, I’ve experimented with countless
@@ -1393,7 +1382,8 @@ Hugo and Blowfish theme.&lt;/p&gt;
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
       
       <guid>https://technicaldc.github.io/about/</guid>
-      <description>&lt;p&gt;Hello! I’m a software engineer based in Mumbai with over 3 years of hands-on
+      <description>&lt;hr&gt;
+&lt;p&gt;Hello! I’m a software engineer based in Mumbai with over 3 years of hands-on
 experience in the tech industry. My professional work mainly involves Progress 4GL,
 servers, and TypeScript, where I enjoy tackling complex problems and developing
 innovative solutions.&lt;/p&gt;
@@ -1416,18 +1406,18 @@ insights into my journey in the tech world. I’m always eager to connect with
 fellow tech enthusiasts, Linux users, or anyone interested in discussing
 software development and sketching. Don’t hesitate to reach out—I’d love to
 hear from you!&lt;/p&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;gallery 
-    &lt;div id=&#34;gallery&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+</description>
+      
+    </item>
     
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#gallery&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;div id=&#34;gallery-2bc053111729a74bce2ff033e7cdfe90&#34; class=&#34;gallery&#34;&gt;
+    <item>
+      <title>gallery</title>
+      <link>https://technicaldc.github.io/gallery/</link>
+      <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
+      
+      <guid>https://technicaldc.github.io/gallery/</guid>
+      <description>&lt;hr&gt;
+&lt;div id=&#34;gallery-882755e774880afe2028bca7afea7810&#34; class=&#34;gallery&#34;&gt;
   
   
     
@@ -1436,12 +1426,12 @@ hear from you!&lt;/p&gt;
     
     
     
-  &lt;img src=&#34;https://technicaldc.github.io/about/images/profile.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/about/images/IMG20240720223724.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/about/images/IMG20240720223734.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/about/images/IMG20240720223802.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/about/images/IMG20240720223653.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/about/images/IMG20240720223747.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/profile.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/IMG20240720223724.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/IMG20240720223734.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/IMG20240720223802.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/IMG20240720223653.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
+  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/IMG20240720223747.jpg&#34; class=&#34;grid-w25 rounded-md&#34; /&gt;
 &lt;/div&gt;
 
 </description>
@@ -1454,7 +1444,8 @@ hear from you!&lt;/p&gt;
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
       
       <guid>https://technicaldc.github.io/resume/</guid>
-      <description>
+      <description>&lt;hr&gt;
+
 &lt;h2 class=&#34;relative group&#34;&gt;Professional Experience 
     &lt;div id=&#34;professional-experience&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1517,75 +1508,15 @@ hear from you!&lt;/p&gt;
     &lt;li&gt;Worked on the creation of OOABL Classes and Interfaces for QAD AUX App and performed the ant deployment in the environment.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&#34;flex flex-row flex-wrap items-center space-x-2&#34;&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Progress 4GL / OpenEdge&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;QAD ERP&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Cent OS / Linux&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Typescript&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Jira&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Customer Version Control&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
+&lt;b&gt;Tech:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Progress 4GL / OpenEdge&lt;/li&gt;
+&lt;li&gt;QAD ERP &lt;/li&gt;
+&lt;li&gt;Cent OS / Linux &lt;/li&gt;
+&lt;li&gt;Typescript &lt;/li&gt;
+&lt;li&gt;Jira &lt;/li&gt;
+&lt;li&gt;Customer Version Control &lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -1656,97 +1587,17 @@ hear from you!&lt;/p&gt;
    integrity and seamless flow of information.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&#34;flex flex-row flex-wrap items-center space-x-2&#34;&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Progress 4GL / OpenEdge&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;QAD ERP&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Cent OS / Linux&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Jira&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Customer Version Control&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Service Now&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Bash&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;flex mt-2&#34;&gt;
-&lt;span
-  class=&#34;rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal&#34;
-&gt;
-  &lt;span class=&#34;flex flex-row items-center&#34;&gt;
-    
-    &lt;span&gt;Gitlab&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
+&lt;b&gt;Tech:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt; Progress 4GL / OpenEdge &lt;/li&gt;
+&lt;li&gt; QAD ERP &lt;/li&gt;
+&lt;li&gt; Cent OS / Linux &lt;/li&gt;
+&lt;li&gt; Jira &lt;/li&gt;
+&lt;li&gt; Customer Version Control &lt;/li&gt;
+&lt;li&gt; Service Now &lt;/li&gt;
+&lt;li&gt; Bash &lt;/li&gt;
+&lt;li&gt; Gitlab &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;/div&gt;
     &lt;/div&gt;
