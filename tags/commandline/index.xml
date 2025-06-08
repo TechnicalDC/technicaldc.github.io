@@ -15,7 +15,6 @@
       
       <guid>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</guid>
       <description>
-
 &lt;h1 class=&#34;relative group&#34;&gt;Essential Command-Line Tools for Power Users 
     &lt;div id=&#34;essential-command-line-tools-for-power-users&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -34,7 +33,6 @@ terminal tools, but some have truly stood out and become essential to my
 workflow.&lt;/p&gt;
 &lt;p&gt;If you live in the terminal like I do, you’ll love these tools. Let’s dive in!&lt;/p&gt;
 &lt;hr&gt;
-
 
 &lt;h2 class=&#34;relative group&#34;&gt;neovim – The Ultimate Text Editor 
     &lt;div id=&#34;neovim--the-ultimate-text-editor&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -60,7 +58,6 @@ editing configs, and even drafting blog posts like this one. With plugins like
 &lt;code&gt;telescope.nvim&lt;/code&gt; and &lt;code&gt;lualine.nvim&lt;/code&gt;, my setup feels snappy and efficient.&lt;/p&gt;
 &lt;hr&gt;
 
-
 &lt;h2 class=&#34;relative group&#34;&gt;fzf – The Magic of Fuzzy Search 
     &lt;div id=&#34;fzf--the-magic-of-fuzzy-search&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -74,7 +71,6 @@ editing configs, and even drafting blog posts like this one. With plugins like
 &lt;p&gt;You know that frustrating moment when you need to find a file, but you can’t
 remember the exact name? That’s where &lt;code&gt;fzf&lt;/code&gt; comes in. It’s an interactive fuzzy
 search tool that makes finding files, directories, and commands effortless.&lt;/p&gt;
-
 
 &lt;h3 class=&#34;relative group&#34;&gt;Why I Love It: 
     &lt;div id=&#34;why-i-love-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -97,7 +93,6 @@ search tool that makes finding files, directories, and commands effortless.&lt;/
 Trust me, once you start using it, there’s no going back!&lt;/p&gt;
 &lt;hr&gt;
 
-
 &lt;h2 class=&#34;relative group&#34;&gt;tmux – Terminal Multitasking Done Right 
     &lt;div id=&#34;tmux--terminal-multitasking-done-right&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -111,7 +106,6 @@ Trust me, once you start using it, there’s no going back!&lt;/p&gt;
 &lt;p&gt;I used to open multiple terminal tabs and windows until I discovered &lt;code&gt;tmux&lt;/code&gt;. It
 changed how I work in the terminal forever. &lt;code&gt;tmux&lt;/code&gt; allows you to manage
 multiple terminal sessions inside a single window.&lt;/p&gt;
-
 
 &lt;h3 class=&#34;relative group&#34;&gt;Why It’s Essential: 
     &lt;div id=&#34;why-its-essential&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -133,7 +127,6 @@ multiple terminal sessions inside a single window.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now, I can work on multiple projects without worrying about losing my place.&lt;/p&gt;
 &lt;hr&gt;
 
-
 &lt;h2 class=&#34;relative group&#34;&gt;yazi – A Blazing-Fast Terminal File Manager 
     &lt;div id=&#34;yazi--a-blazing-fast-terminal-file-manager&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -146,7 +139,6 @@ multiple terminal sessions inside a single window.&lt;/p&gt;
 &lt;/h2&gt;
 &lt;p&gt;If you’ve ever used &lt;code&gt;ranger&lt;/code&gt;, &lt;code&gt;lf&lt;/code&gt;, or &lt;code&gt;nnn&lt;/code&gt;, you’ll love &lt;code&gt;yazi&lt;/code&gt;. It’s a
 minimal, keyboard-driven file manager that feels like a dream to use.&lt;/p&gt;
-
 
 &lt;h3 class=&#34;relative group&#34;&gt;Why It’s a Game-Changer: 
     &lt;div id=&#34;why-its-a-game-changer&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -168,7 +160,6 @@ dealing with large projects. Its preview feature saves me from opening
 unnecessary files.&lt;/p&gt;
 &lt;hr&gt;
 
-
 &lt;h2 class=&#34;relative group&#34;&gt;lazygit – Git Without the Pain 
     &lt;div id=&#34;lazygit--git-without-the-pain&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -182,7 +173,6 @@ unnecessary files.&lt;/p&gt;
 &lt;p&gt;Git is powerful, but let’s be honest—it can be a pain to use from the command
 line, especially when managing branches and resolving conflicts. &lt;code&gt;lazygit&lt;/code&gt;
 changes that with an intuitive and interactive Git UI for the terminal.&lt;/p&gt;
-
 
 &lt;h3 class=&#34;relative group&#34;&gt;Why You Need It: 
     &lt;div id=&#34;why-you-need-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -205,7 +195,6 @@ changes that with an intuitive and interactive Git UI for the terminal.&lt;/p&gt
 without typing out long Git commands.&lt;/p&gt;
 &lt;hr&gt;
 
-
 &lt;h2 class=&#34;relative group&#34;&gt;taskwarrior – Get Your Tasks in Order 
     &lt;div id=&#34;taskwarrior--get-your-tasks-in-order&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -219,7 +208,6 @@ without typing out long Git commands.&lt;/p&gt;
 &lt;p&gt;Staying productive isn’t just about writing code—it’s about organizing your
 work efficiently. &lt;code&gt;taskwarrior&lt;/code&gt; is an advanced task manager for the command
 line.&lt;/p&gt;
-
 
 &lt;h3 class=&#34;relative group&#34;&gt;Why I Use It: 
     &lt;div id=&#34;why-i-use-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -241,7 +229,6 @@ line.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I use &lt;code&gt;taskwarrior&lt;/code&gt; to track my work and personal tasks without relying on GUI-based to-do apps.&lt;/p&gt;
 &lt;hr&gt;
 
-
 &lt;h2 class=&#34;relative group&#34;&gt;zoxide – Smarter Directory Navigation 
     &lt;div id=&#34;zoxide--smarter-directory-navigation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -258,7 +245,6 @@ learns your frequently visited directories and lets you jump to them instantly.&
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;z project
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This tool saves me so much time, eliminating the need to type long directory paths.&lt;/p&gt;
 &lt;hr&gt;
-
 
 &lt;h2 class=&#34;relative group&#34;&gt;Wrapping Up 
     &lt;div id=&#34;wrapping-up&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
