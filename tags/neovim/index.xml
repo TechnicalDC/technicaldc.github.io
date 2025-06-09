@@ -809,7 +809,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
         &lt;/div&gt;
 
         &lt;p id=&#34;github-11c82d94d15588320c97b3cf62deadd2-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-          Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
+          Add/change/delete surrounding delimiter pairs with ease. Written with &amp;#x2764;&amp;#xfe0f; in Lua.
         &lt;/p&gt;
 
         &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;

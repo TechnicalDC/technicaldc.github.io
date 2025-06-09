@@ -809,7 +809,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
         &lt;/div&gt;
 
         &lt;p id=&#34;github-11c82d94d15588320c97b3cf62deadd2-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-          Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
+          Add/change/delete surrounding delimiter pairs with ease. Written with &amp;#x2764;&amp;#xfe0f; in Lua.
         &lt;/p&gt;
 
         &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
@@ -1383,6 +1383,10 @@ Hugo and Blowfish theme.&lt;/p&gt;
       
       <guid>https://technicaldc.github.io/about/</guid>
       <description>&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It does not matter how slowly you go as long as you do not stop.&lt;br&gt;
+— &lt;cite&gt;Confucius&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Hello! I’m a software engineer based in Mumbai with over 3 years of hands-on
 experience in the tech industry. My professional work mainly involves Progress 4GL,
 servers, and TypeScript, where I enjoy tackling complex problems and developing
@@ -1445,6 +1449,10 @@ hear from you!&lt;/p&gt;
       
       <guid>https://technicaldc.github.io/resume/</guid>
       <description>&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;First rule of programming: if it works, don’t touch it.&lt;br&gt;
+— &lt;cite&gt;Survival wisdom&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Professional Experience 
     &lt;div id=&#34;professional-experience&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
