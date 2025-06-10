@@ -493,16 +493,6 @@
 
 
 
-<script>
-    (function () {
-        var $mainmenu = $('.main-menu');
-        var path = window.location.pathname;
-        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
-            $(e).children('p').addClass('active');
-        });
-    })();
-</script>
-
 
   </div>
 </div>
@@ -557,12 +547,12 @@
     
     
     
-  <img src="/gallery/images/profile.jpg" class="grid-w25 rounded-md" />
-  <img src="/gallery/images/IMG20240720223724.jpg" class="grid-w25 rounded-md" />
-  <img src="/gallery/images/IMG20240720223734.jpg" class="grid-w25 rounded-md" />
-  <img src="/gallery/images/IMG20240720223802.jpg" class="grid-w25 rounded-md" />
-  <img src="/gallery/images/IMG20240720223653.jpg" class="grid-w25 rounded-md" />
-  <img src="/gallery/images/IMG20240720223747.jpg" class="grid-w25 rounded-md" />
+  <img src="/gallery/images/profile.jpg"           class="grid-w25 md:grid-w50 xl:grid-w50 rounded-md" />
+  <img src="/gallery/images/IMG20240720223724.jpg" class="grid-w25 md:grid-w50 xl:grid-w50 rounded-md" />
+  <img src="/gallery/images/IMG20240720223734.jpg" class="grid-w25 md:grid-w50 xl:grid-w50 rounded-md" />
+  <img src="/gallery/images/IMG20240720223802.jpg" class="grid-w25 md:grid-w50 xl:grid-w50 rounded-md" />
+  <img src="/gallery/images/IMG20240720223653.jpg" class="grid-w25 md:grid-w50 xl:grid-w50 rounded-md" />
+  <img src="/gallery/images/IMG20240720223747.jpg" class="grid-w25 md:grid-w50 xl:grid-w50 rounded-md" />
 </div>
 
 
@@ -579,7 +569,7 @@
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/tags/"
-            title="Tags">
+            title="tags">
             
             tags
           </a>

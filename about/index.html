@@ -486,16 +486,6 @@
 
 
 
-<script>
-    (function () {
-        var $mainmenu = $('.main-menu');
-        var path = window.location.pathname;
-        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
-            $(e).children('p').addClass('active');
-        });
-    })();
-</script>
-
 
   </div>
 </div>
@@ -504,12 +494,14 @@
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
       
-  <article class="max-w-full">
-    
+
+
+<article>
+  
 
   <header id="single_header" class="mt-5 max-w-prose">
-      
-        <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+    
+    <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
   
   
     
@@ -534,20 +526,132 @@
 </ol>
 
 
+    
+    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+      about me
+    </h1>
+    <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
-      <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        about me
-      </h1>
-    </header>
-    <section class="max-w-full mt-6 prose dark:prose-invert">
-      <hr>
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+
+  
+  
+</div>
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+
+
+
+
+    </div>
+
+    
+    
+    
+    
+    
+
+    
+
+    
+
+      
+
+      
+
+      
+
+    
+
+  </header>
+
+  <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
+
+    
+
+      <div class="min-w-0 min-h-0 max-w-fit">
+
+        
+
+
+        <div class="article-content max-w-prose mb-20">
+		    <hr>
 <blockquote>
 <p>It does not matter how slowly you go as long as you do not stop.<br>
 — <cite>Confucius</cite></p>
 </blockquote>
 <p>Hello! I’m a software engineer based in Mumbai with over 3 years of hands-on
-experience in the tech industry. My professional work mainly involves Progress 4GL,
-servers, and TypeScript, where I enjoy tackling complex problems and developing
+experience in the tech industry. My professional work mainly involves <code>Progress 4GL</code>,
+servers, and <code>TypeScript</code>, where I enjoy tackling complex problems and developing
 innovative solutions.</p>
 <p>In addition to my engineering role, I’m the creator behind <a href="https://www.youtube.com/@TheTechnicalDC" target="_blank">TheTechnicalDC</a>, a
 YouTube channel dedicated to exploring the world of Linux. As a true Linux
@@ -569,8 +673,43 @@ fellow tech enthusiasts, Linux users, or anyone interested in discussing
 software development and sketching. Don’t hesitate to reach out—I’d love to
 hear from you!</p>
 
+          
+          
+          
+        </div>
+
+        
+
+        
+        
+
+        
+      </div>
+
+      
+      
+        
+        
+          
+          
+        
+      <script>
+        var oid = "views_about\/index.md"
+        var oid_likes = "likes_about\/index.md"
+      </script>
+      
+      
+      <script type="text/javascript" src="/js/page.min.0860cf4e04fa2d72cc33ddba263083464d48f67de06114529043cb4623319efed4f484fd7f1730df5abea0e2da6f3538855634081d02f2d6e920b956f063e823.js" integrity="sha512-CGDPTgT6LXLMM926JjCDRk1I9n3gYRRSkEPLRiMxnv7U9IT9fxcw31q&#43;oOLabzU4hVY0CB0C8tbpILlW8GPoIw=="></script>
+      
+
     </section>
-  </article>
+  <footer class="pt-8 max-w-prose print:hidden">
+
+    
+
+    
+  </footer>
+</article>
 
       <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
   <a href="#the-top"
@@ -588,7 +727,7 @@ hear from you!</p>
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/tags/"
-            title="Tags">
+            title="tags">
             
             tags
           </a>
