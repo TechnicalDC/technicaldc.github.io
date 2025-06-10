@@ -459,16 +459,6 @@
 
 
 
-<script>
-    (function () {
-        var $mainmenu = $('.main-menu');
-        var path = window.location.pathname;
-        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
-            $(e).children('p').addClass('active');
-        });
-    })();
-</script>
-
 
   </div>
 </div>
@@ -480,6 +470,32 @@
 
 
  <header>
+  
+  <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+  
+  
+    
+  
+  <li class="hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/"
+      >Dilip Chauhan</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/videos/"
+      >videos</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+</ol>
+
+
   
   <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">videos</h1>
   <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
@@ -699,6 +715,10 @@
         </div>
 
         
+        <div class="py-1 prose dark:prose-invert">
+          
+        </div>
+        
       </div>
       <div class="px-6 pt-4 pb-2">
 
@@ -827,6 +847,10 @@
         </div>
 
         
+        <div class="py-1 prose dark:prose-invert">
+          This is the overview of my new email client and tool I used to configure it
+        </div>
+        
       </div>
       <div class="px-6 pt-4 pb-2">
 
@@ -946,6 +970,10 @@
         </div>
 
         
+        <div class="py-1 prose dark:prose-invert">
+          This is video is timelapse of making presentation in terminal
+        </div>
+        
       </div>
       <div class="px-6 pt-4 pb-2">
 
@@ -983,7 +1011,7 @@
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/tags/"
-            title="Tags">
+            title="tags">
             
             tags
           </a>
