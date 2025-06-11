@@ -329,7 +329,7 @@ yazi with neovim.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            1081
+            1091
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -342,7 +342,7 @@ yazi with neovim.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            37
+            38
           &lt;/div&gt;
 
         &lt;/div&gt;
@@ -427,7 +427,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            1897
+            1901
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -527,7 +527,7 @@ inputs.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            17643
+            17669
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -630,7 +630,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            6884
+            6894
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -731,7 +731,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
           &lt;/span&gt;
           &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            4220
+            4223
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -830,7 +830,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 
           &lt;/span&gt;
           &lt;div id=&#34;github-11c82d94d15588320c97b3cf62deadd2-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            3728
+            3737
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -930,7 +930,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
           &lt;/span&gt;
           &lt;div id=&#34;github-963a2ba80ea337d0717624382a2af913-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            773
+            774
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1491,19 +1491,10 @@ hear from you!&lt;/p&gt;
       &lt;/h4&gt;
       
       &lt;div class=&#34;mb-6&#34;&gt;
-&lt;ul&gt;
-    &lt;li&gt;Delivered thorough QAD AUX training to team members and consistently supported team members with technical issues, promoting a collaborative atmosphere focused on sharing knowledge.&lt;/li&gt;
-    &lt;li&gt;Designed and developed customized business components with &lt;code&gt;OOABL&lt;/code&gt; and &lt;code&gt;Typescript&lt;/code&gt; for enhanced functionality.&lt;/li&gt;
-    &lt;li&gt;Successfully implemented the custom KPI and Action Center along with developing forms and views.&lt;/li&gt;
-    &lt;li&gt;Concurrently pursued advanced WebUI development training to stay ahead in technological advancements.&lt;/li&gt;
-    &lt;li&gt;Proficiently deployed various programs leveraging advanced tools like &lt;code&gt;YAB&lt;/code&gt;, ensuring smooth implementation and seamless integration with existing systems.&lt;/li&gt;
-    &lt;li&gt;Designed and deployed multiple QRF programs leveraging Platform API to automate various transactions, resulting in a 60% reduction in manual effort and a substantial improvement in overall operational efficiency.&lt;/li&gt;
-    &lt;li&gt;Worked on the creation of &lt;code&gt;OOABL&lt;/code&gt; Classes and Interfaces for QAD AUX App and performed the ant deployment in the environment.&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;b&gt;Tech:&lt;/b&gt;
-&lt;code&gt;progress 4GL&lt;/code&gt;
-&lt;code&gt;QAD ERP&lt;/code&gt;
+&lt;b&gt;Tech:&lt;/b&gt;&lt;br/&gt;
+&lt;code&gt;progress 4gl&lt;/code&gt;
+&lt;code&gt;qrf&lt;/code&gt;
 &lt;code&gt;linux&lt;/code&gt;
 &lt;code&gt;typescript&lt;/code&gt;
 &lt;code&gt;jira&lt;/code&gt;
@@ -1555,35 +1546,12 @@ hear from you!&lt;/p&gt;
       &lt;/h4&gt;
       
       &lt;div class=&#34;mb-6&#34;&gt;
-&lt;ul&gt;
-   &lt;li&gt;Developed maintenance programs using &lt;code&gt;Progress 4GL&lt;/code&gt;, precisely
-   incorporating essential lookups to streamline operations and bolster
-   efficiency.&lt;/li&gt;
-   &lt;li&gt;Orchestrated the implementation of customized QRF designs and proxy
-   programs, empowering businesses to conduct thorough data analysis and make
-   informed decisions with precision.&lt;/li&gt;
-   &lt;li&gt;Innovatively developed NetUI browses, seamlessly integrating browse
-   links and URLs while optimizing browse performance to elevate user
-   experience to new heights.&lt;/li&gt;
-   &lt;li&gt;Spearheaded seamless migrations from 2012 to 2016, adeptly resolving
-   runtime issues and seamlessly replicating existing customizations in the
-   latest version for uninterrupted workflow.&lt;/li&gt;
-   &lt;li&gt;Proficiently deployed various programs utilizing advanced tools like &lt;code&gt;CVC&lt;/code&gt;
-   and &lt;code&gt;YAB&lt;/code&gt;, ensuring smooth implementation and seamless integration with
-   existing systems.&lt;/li&gt;
-   &lt;li&gt;Designed business components and extended them with &lt;code&gt;OOABL&lt;/code&gt; extensions and
-   platform API, concurrently pursuing WebUI development training to stay at
-   the forefront of technological advancements.&lt;/li&gt;
-   &lt;li&gt;Implemented lookups, formulas in the business component, and alerts,
-   while effectively managing data export/import operations to ensure data
-   integrity and seamless flow of information.&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;b&gt;Tech:&lt;/b&gt;
-&lt;code&gt;progress 4GL&lt;/code&gt;
-&lt;code&gt;QAD ERP&lt;/code&gt;
+&lt;b&gt;Tech:&lt;/b&gt;&lt;br/&gt;
+&lt;code&gt;progress 4gl&lt;/code&gt;
 &lt;code&gt;linux&lt;/code&gt;
 &lt;code&gt;typescript&lt;/code&gt;
+&lt;code&gt;qrf&lt;/code&gt;
 &lt;code&gt;jira&lt;/code&gt;
 &lt;code&gt;customer version control&lt;/code&gt;
 &lt;code&gt;service now&lt;/code&gt;
