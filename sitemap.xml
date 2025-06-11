@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</loc>
+    <loc>https://technicaldc.github.io/blogs/essential-command-line-tools-for-daily-productivity/</loc>
     <lastmod>2025-03-27T15:41:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/</loc>
+    <loc>https://technicaldc.github.io/blogs/hidden-gems-lesser-known-neovim-plugins-you-should-try/</loc>
     <lastmod>2024-08-18T23:24:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -21,13 +21,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://technicaldc.github.io/posts/markdown/</loc>
+    <loc>https://technicaldc.github.io/blogs/markdown/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://technicaldc.github.io/posts/myfirstpost/</loc>
+    <loc>https://technicaldc.github.io/blogs/myfirstpost/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -39,7 +39,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://technicaldc.github.io/posts/</loc>
+    <loc>https://technicaldc.github.io/blogs/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
