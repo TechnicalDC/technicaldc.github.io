@@ -1383,8 +1383,8 @@ Hugo and Blowfish theme.&lt;/p&gt;
       
       <guid>https://technicaldc.github.io/about/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;It does not matter how slowly you go as long as you do not stop.&lt;br&gt;
-— &lt;cite&gt;Confucius&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;It does not matter how slowly you go as long as you do not stop.&lt;/p&gt;
+&lt;p&gt;— &lt;cite&gt;Confucius&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Hello! I’m a software engineer based in Mumbai with over 3 years of hands-on
 experience in the tech industry. My professional work mainly involves &lt;code&gt;Progress 4GL&lt;/code&gt;,
@@ -1436,8 +1436,8 @@ hear from you!&lt;/p&gt;
       
       <guid>https://technicaldc.github.io/resume/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;First rule of programming: if it works, don’t touch it.&lt;br&gt;
-— &lt;cite&gt;Survival wisdom&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;First rule of programming: if it works, don’t touch it.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;— &lt;cite&gt;Survival wisdom&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Professional Experience 
@@ -1494,13 +1494,13 @@ hear from you!&lt;/p&gt;
 
 &lt;b&gt;Tech:&lt;/b&gt;&lt;br/&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;progress 4gl&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;qrf&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;linux&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;typescript&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;jira&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;customer version control&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;subversion&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;progress 4gl&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;qrf&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;linux&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;typescript&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;jira&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;customer version control&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;subversion&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
     &lt;/div&gt;
@@ -1670,7 +1670,7 @@ be processed further for various applications.
 &lt;ol&gt;
 &lt;li&gt;Languages: &lt;code&gt;bash&lt;/code&gt; &lt;code&gt;progress&lt;/code&gt; &lt;code&gt;typescript&lt;/code&gt; &lt;code&gt;lua&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Frameworks: &lt;code&gt;hugo&lt;/code&gt; &lt;code&gt;flask&lt;/code&gt; &lt;code&gt;qad reporting framework&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Tools: &lt;code&gt;linux&lt;/code&gt; &lt;code&gt;git&lt;/code&gt; &lt;code&gt;gitlab&lt;/code&gt; &lt;code&gt;subversion&lt;/code&gt; &lt;code&gt;cvc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Tools: &lt;code&gt;linux&lt;/code&gt; &lt;code&gt;git&lt;/code&gt; &lt;code&gt;gitlab&lt;/code&gt; &lt;code&gt;subversion&lt;/code&gt; &lt;code&gt;cvc&lt;/code&gt; &lt;code&gt;yab&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Education 
