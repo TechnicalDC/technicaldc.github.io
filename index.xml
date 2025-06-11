@@ -23,13 +23,13 @@ workflow.&lt;/p&gt;
 &lt;p&gt;If you live in the terminal like I do, you’ll love these tools. Let’s dive in!&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;neovim – The Ultimate Text Editor 
-    &lt;div id=&#34;neovim--the-ultimate-text-editor&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;neovim 
+    &lt;div id=&#34;neovim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#neovim--the-ultimate-text-editor&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#neovim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -47,13 +47,13 @@ editing configs, and even drafting blog posts like this one. With plugins like
 &lt;code&gt;telescope.nvim&lt;/code&gt; and &lt;code&gt;lualine.nvim&lt;/code&gt;, my setup feels snappy and efficient.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;fzf – The Magic of Fuzzy Search 
-    &lt;div id=&#34;fzf--the-magic-of-fuzzy-search&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;fzf 
+    &lt;div id=&#34;fzf&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#fzf--the-magic-of-fuzzy-search&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#fzf&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -82,13 +82,13 @@ search tool that makes finding files, directories, and commands effortless.&lt;/
 Trust me, once you start using it, there’s no going back!&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;tmux – Terminal Multitasking Done Right 
-    &lt;div id=&#34;tmux--terminal-multitasking-done-right&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;tmux 
+    &lt;div id=&#34;tmux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tmux--terminal-multitasking-done-right&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tmux&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -116,13 +116,13 @@ multiple terminal sessions inside a single window.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now, I can work on multiple projects without worrying about losing my place.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;yazi – A Blazing-Fast Terminal File Manager 
-    &lt;div id=&#34;yazi--a-blazing-fast-terminal-file-manager&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;yazi 
+    &lt;div id=&#34;yazi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#yazi--a-blazing-fast-terminal-file-manager&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#yazi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -149,13 +149,13 @@ dealing with large projects. Its preview feature saves me from opening
 unnecessary files.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;lazygit – Git Without the Pain 
-    &lt;div id=&#34;lazygit--git-without-the-pain&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;lazygit 
+    &lt;div id=&#34;lazygit&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#lazygit--git-without-the-pain&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#lazygit&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -184,13 +184,13 @@ changes that with an intuitive and interactive Git UI for the terminal.&lt;/p&gt
 without typing out long Git commands.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;taskwarrior – Get Your Tasks in Order 
-    &lt;div id=&#34;taskwarrior--get-your-tasks-in-order&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;taskwarrior 
+    &lt;div id=&#34;taskwarrior&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#taskwarrior--get-your-tasks-in-order&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#taskwarrior&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -218,13 +218,13 @@ line.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I use &lt;code&gt;taskwarrior&lt;/code&gt; to track my work and personal tasks without relying on GUI-based to-do apps.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;zoxide – Smarter Directory Navigation 
-    &lt;div id=&#34;zoxide--smarter-directory-navigation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;zoxide 
+    &lt;div id=&#34;zoxide&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#zoxide--smarter-directory-navigation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#zoxide&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -329,7 +329,7 @@ yazi with neovim.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            1091
+            1081
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -342,7 +342,7 @@ yazi with neovim.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            38
+            37
           &lt;/div&gt;
 
         &lt;/div&gt;
@@ -427,7 +427,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            1901
+            1897
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -527,7 +527,7 @@ inputs.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            17669
+            17643
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -630,7 +630,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            6894
+            6884
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -731,7 +731,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
           &lt;/span&gt;
           &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            4223
+            4220
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -830,7 +830,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 
           &lt;/span&gt;
           &lt;div id=&#34;github-11c82d94d15588320c97b3cf62deadd2-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            3737
+            3728
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -930,7 +930,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
           &lt;/span&gt;
           &lt;div id=&#34;github-963a2ba80ea337d0717624382a2af913-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            774
+            773
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1382,8 +1382,7 @@ Hugo and Blowfish theme.&lt;/p&gt;
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
       
       <guid>https://technicaldc.github.io/about/</guid>
-      <description>&lt;hr&gt;
-&lt;blockquote&gt;
+      <description>&lt;blockquote&gt;
 &lt;p&gt;It does not matter how slowly you go as long as you do not stop.&lt;br&gt;
 — &lt;cite&gt;Confucius&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1410,34 +1409,22 @@ insights into my journey in the tech world. I’m always eager to connect with
 fellow tech enthusiasts, Linux users, or anyone interested in discussing
 software development and sketching. Don’t hesitate to reach out—I’d love to
 hear from you!&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>gallery</title>
-      <link>https://technicaldc.github.io/gallery/</link>
-      <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
-      
-      <guid>https://technicaldc.github.io/gallery/</guid>
-      <description>&lt;hr&gt;
-&lt;div id=&#34;gallery-882755e774880afe2028bca7afea7810&#34; class=&#34;gallery&#34;&gt;
-  
-  
-    
-    
-    
-    
-    
-    
-  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/profile.jpg&#34;           class=&#34;grid-w25 md:grid-w50 xl:grid-w50 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/IMG20240720223724.jpg&#34; class=&#34;grid-w25 md:grid-w50 xl:grid-w50 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/IMG20240720223734.jpg&#34; class=&#34;grid-w25 md:grid-w50 xl:grid-w50 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/IMG20240720223802.jpg&#34; class=&#34;grid-w25 md:grid-w50 xl:grid-w50 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/IMG20240720223653.jpg&#34; class=&#34;grid-w25 md:grid-w50 xl:grid-w50 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/gallery/images/IMG20240720223747.jpg&#34; class=&#34;grid-w25 md:grid-w50 xl:grid-w50 rounded-md&#34; /&gt;
-&lt;/div&gt;
 
+&lt;figure&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /about/profile_hu_75ec367b75e55316.jpg 330w,
+          /about/profile_hu_be031994ddd67cbc.jpg 660w,
+          /about/profile_hu_2bb9192c5cbfbcc1.jpg 1024w,
+          /about/profile_hu_4c7718200e51c6f7.jpg 2x&#34;
+          src=&#34;https://technicaldc.github.io/about/profile_hu_be031994ddd67cbc.jpg&#34;
+          data-zoom-src=&#34;https://technicaldc.github.io/about/profile_hu_4c7718200e51c6f7.jpg&#34;
+          alt=&#34;myself&#34;
+        /&gt;
+  
+  
+  &lt;/figure&gt;
 </description>
       
     </item>
@@ -1448,8 +1435,7 @@ hear from you!&lt;/p&gt;
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
       
       <guid>https://technicaldc.github.io/resume/</guid>
-      <description>&lt;hr&gt;
-&lt;blockquote&gt;
+      <description>&lt;blockquote&gt;
 &lt;p&gt;First rule of programming: if it works, don’t touch it.&lt;br&gt;
 — &lt;cite&gt;Survival wisdom&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1465,7 +1451,6 @@ hear from you!&lt;/p&gt;
     
 &lt;/h2&gt;
 &lt;ol class=&#34;border-l-2 border-primary-500 dark:border-primary-300 list-none&#34;&gt;
-
 
 
 
@@ -1517,15 +1502,13 @@ hear from you!&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;b&gt;Tech:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;Progress 4GL / OpenEdge&lt;/li&gt;
-&lt;li&gt;QAD ERP &lt;/li&gt;
-&lt;li&gt;Cent OS / Linux &lt;/li&gt;
-&lt;li&gt;Typescript &lt;/li&gt;
-&lt;li&gt;Jira &lt;/li&gt;
-&lt;li&gt;Customer Version Control &lt;/li&gt;
-&lt;li&gt;Subversion&lt;/li&gt;
-&lt;/ul&gt;
+&lt;code&gt;progress 4GL&lt;/code&gt;
+&lt;code&gt;QAD ERP&lt;/code&gt;
+&lt;code&gt;linux&lt;/code&gt;
+&lt;code&gt;typescript&lt;/code&gt;
+&lt;code&gt;jira&lt;/code&gt;
+&lt;code&gt;customer version control&lt;/code&gt;
+&lt;code&gt;subversion&lt;/code&gt;
 &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -1597,17 +1580,15 @@ hear from you!&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;b&gt;Tech:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt; Progress 4GL / OpenEdge &lt;/li&gt;
-&lt;li&gt; QAD ERP &lt;/li&gt;
-&lt;li&gt; Cent OS / Linux &lt;/li&gt;
-&lt;li&gt; Jira &lt;/li&gt;
-&lt;li&gt; Customer Version Control &lt;/li&gt;
-&lt;li&gt; Service Now &lt;/li&gt;
-&lt;li&gt; Bash &lt;/li&gt;
-&lt;li&gt; Gitlab &lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;code&gt;progress 4GL&lt;/code&gt;
+&lt;code&gt;QAD ERP&lt;/code&gt;
+&lt;code&gt;linux&lt;/code&gt;
+&lt;code&gt;typescript&lt;/code&gt;
+&lt;code&gt;jira&lt;/code&gt;
+&lt;code&gt;customer version control&lt;/code&gt;
+&lt;code&gt;service now&lt;/code&gt;
+&lt;code&gt;bash&lt;/code&gt;
+&lt;code&gt;gitlab&lt;/code&gt;
 &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -1653,11 +1634,8 @@ hear from you!&lt;/p&gt;
       &lt;/h4&gt;
       
       &lt;div class=&#34;mb-6&#34;&gt;
-&lt;ul&gt;
-    &lt;li&gt;Worked on conversion of the Hard Copy Data to digital format, allowing
-    data to be processed further for various applications.&lt;/li&gt;
-    &lt;li&gt;Assisted other teammates on the various conversion tasks.&lt;/li&gt;
-&lt;/ul&gt;
+Worked on conversion of the Hard Copy Data to digital format, allowing data to
+be processed further for various applications.
 &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -1717,72 +1695,11 @@ hear from you!&lt;/p&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;Languages 
-    &lt;div id=&#34;languages&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#languages&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h3&gt;
-&lt;div id=&#34;gallery-cdafba04c1fc4f7d5690d206365e7b41&#34; class=&#34;gallery&#34;&gt;
-  
-  
-    
-    
-    
-    
-  &lt;img src=&#34;https://technicaldc.github.io/resume/skills/bash.jpg&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/resume/skills/progress.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/resume/skills/typescript.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/resume/skills/lua.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
-&lt;/div&gt;
-
-
-&lt;h3 class=&#34;relative group&#34;&gt;Frameworks 
-    &lt;div id=&#34;frameworks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#frameworks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h3&gt;
-&lt;div id=&#34;gallery-662e163338a05760f89a2ae8b3d2364c&#34; class=&#34;gallery&#34;&gt;
-  
-  
-    
-    
-  &lt;img src=&#34;https://technicaldc.github.io/resume/skills/hugo.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/resume/skills/flask.jpg&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
-&lt;/div&gt;
-
-
-&lt;h3 class=&#34;relative group&#34;&gt;Tools 
-    &lt;div id=&#34;tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h3&gt;
-&lt;div id=&#34;gallery-803ef34301487717753ea0ea535a2ecf&#34; class=&#34;gallery&#34;&gt;
-  
-  
-    
-    
-    
-  &lt;img src=&#34;https://technicaldc.github.io/resume/skills/linux.jpg&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/resume/skills/git.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
-  &lt;img src=&#34;https://technicaldc.github.io/resume/skills/gitlab.png&#34; class=&#34;nozoom grid-w10 rounded-md&#34; /&gt;
-&lt;/div&gt;
-
+&lt;ol&gt;
+&lt;li&gt;Languages: &lt;code&gt;bash&lt;/code&gt; &lt;code&gt;progress&lt;/code&gt; &lt;code&gt;typescript&lt;/code&gt; &lt;code&gt;lua&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Frameworks: &lt;code&gt;hugo&lt;/code&gt; &lt;code&gt;flask&lt;/code&gt; &lt;code&gt;qad reporting framework&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Tools: &lt;code&gt;linux&lt;/code&gt; &lt;code&gt;git&lt;/code&gt; &lt;code&gt;gitlab&lt;/code&gt; &lt;code&gt;subversion&lt;/code&gt; &lt;code&gt;cvc&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Education 
     &lt;div id=&#34;education&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;

@@ -23,13 +23,13 @@ workflow.&lt;/p&gt;
 &lt;p&gt;If you live in the terminal like I do, you’ll love these tools. Let’s dive in!&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;neovim – The Ultimate Text Editor 
-    &lt;div id=&#34;neovim--the-ultimate-text-editor&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;neovim 
+    &lt;div id=&#34;neovim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#neovim--the-ultimate-text-editor&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#neovim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -47,13 +47,13 @@ editing configs, and even drafting blog posts like this one. With plugins like
 &lt;code&gt;telescope.nvim&lt;/code&gt; and &lt;code&gt;lualine.nvim&lt;/code&gt;, my setup feels snappy and efficient.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;fzf – The Magic of Fuzzy Search 
-    &lt;div id=&#34;fzf--the-magic-of-fuzzy-search&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;fzf 
+    &lt;div id=&#34;fzf&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#fzf--the-magic-of-fuzzy-search&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#fzf&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -82,13 +82,13 @@ search tool that makes finding files, directories, and commands effortless.&lt;/
 Trust me, once you start using it, there’s no going back!&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;tmux – Terminal Multitasking Done Right 
-    &lt;div id=&#34;tmux--terminal-multitasking-done-right&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;tmux 
+    &lt;div id=&#34;tmux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tmux--terminal-multitasking-done-right&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tmux&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -116,13 +116,13 @@ multiple terminal sessions inside a single window.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now, I can work on multiple projects without worrying about losing my place.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;yazi – A Blazing-Fast Terminal File Manager 
-    &lt;div id=&#34;yazi--a-blazing-fast-terminal-file-manager&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;yazi 
+    &lt;div id=&#34;yazi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#yazi--a-blazing-fast-terminal-file-manager&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#yazi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -149,13 +149,13 @@ dealing with large projects. Its preview feature saves me from opening
 unnecessary files.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;lazygit – Git Without the Pain 
-    &lt;div id=&#34;lazygit--git-without-the-pain&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;lazygit 
+    &lt;div id=&#34;lazygit&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#lazygit--git-without-the-pain&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#lazygit&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -184,13 +184,13 @@ changes that with an intuitive and interactive Git UI for the terminal.&lt;/p&gt
 without typing out long Git commands.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;taskwarrior – Get Your Tasks in Order 
-    &lt;div id=&#34;taskwarrior--get-your-tasks-in-order&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;taskwarrior 
+    &lt;div id=&#34;taskwarrior&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#taskwarrior--get-your-tasks-in-order&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#taskwarrior&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -218,13 +218,13 @@ line.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I use &lt;code&gt;taskwarrior&lt;/code&gt; to track my work and personal tasks without relying on GUI-based to-do apps.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;zoxide – Smarter Directory Navigation 
-    &lt;div id=&#34;zoxide--smarter-directory-navigation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;zoxide 
+    &lt;div id=&#34;zoxide&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#zoxide--smarter-directory-navigation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#zoxide&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
