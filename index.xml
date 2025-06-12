@@ -10,10 +10,10 @@
     <lastBuildDate>Sun, 21 Jan 2024 14:24:36 -0500</lastBuildDate><atom:link href="https://technicaldc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Essential commandline tools for daily productivity</title>
-      <link>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</link>
+      <link>https://technicaldc.github.io/blogs/essential-command-line-tools-for-daily-productivity/</link>
       <pubDate>Thu, 27 Mar 2025 15:41:43 +0530</pubDate>
       
-      <guid>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</guid>
+      <guid>https://technicaldc.github.io/blogs/essential-command-line-tools-for-daily-productivity/</guid>
       <description>&lt;p&gt;For as long as I’ve used Linux and spent time in the terminal, I’ve realized
 one thing: the command line is a powerhouse of productivity. While GUI
 applications have their place, nothing beats the speed, efficiency, and sheer
@@ -251,15 +251,15 @@ focused. If you spend a lot of time in the terminal, I highly recommend giving
 them a try.&lt;/p&gt;
 &lt;p&gt;💬 &lt;strong&gt;What are your favorite command-line tools? Let’s discuss in the comments!&lt;/strong&gt;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/blogs/essential-command-line-tools-for-daily-productivity/featured.png" />
     </item>
     
     <item>
       <title>Hidden Gems: Lesser-Known Neovim Plugins You Should Try</title>
-      <link>https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/</link>
+      <link>https://technicaldc.github.io/blogs/hidden-gems-lesser-known-neovim-plugins-you-should-try/</link>
       <pubDate>Sun, 18 Aug 2024 23:24:43 +0530</pubDate>
       
-      <guid>https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/</guid>
+      <guid>https://technicaldc.github.io/blogs/hidden-gems-lesser-known-neovim-plugins-you-should-try/</guid>
       <description>&lt;p&gt;Hello everyone, hoping everyone is doing great. In this post, I will be talking
 about the top 10 neovim plugins which I used on daily basis. For this post, I am excluding
 lsp and autocompletion plugins. This post will mainly focuses on the plugins improved the
@@ -279,7 +279,7 @@ daily workflow.&lt;/p&gt;
 manager like ranger and lf, yazi is written rust making it much faster compared to its
 alternatives. So &lt;a href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; target=&#34;_blank&#34;&gt;yazi.nvim&lt;/a&gt; allows to integrate
 yazi with neovim.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-991fb51e3fea599be1d0086da10f03d6&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
 
 
 
@@ -301,13 +301,13 @@ yazi with neovim.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-full_name&#34;
+          &lt;div id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-full_name&#34;
             class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
             mikavilpas/yazi.nvim
           &lt;/div&gt;
         &lt;/div&gt;
 
-        &lt;p id=&#34;github-991fb51e3fea599be1d0086da10f03d6-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+        &lt;p id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
           A Neovim Plugin for the yazi terminal file manager
         &lt;/p&gt;
 
@@ -328,8 +328,8 @@ yazi with neovim.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            1091
+          &lt;div id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            1081
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -341,8 +341,8 @@ yazi with neovim.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-991fb51e3fea599be1d0086da10f03d6-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            38
+          &lt;div id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            37
           &lt;/div&gt;
 
         &lt;/div&gt;
@@ -356,10 +356,10 @@ yazi with neovim.&lt;/p&gt;
       })
         .then(response =&gt; response.json())
         .then(data =&gt; {
-          document.getElementById(&#39;github-991fb51e3fea599be1d0086da10f03d6-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-991fb51e3fea599be1d0086da10f03d6-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-991fb51e3fea599be1d0086da10f03d6-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-991fb51e3fea599be1d0086da10f03d6-forks&#39;).innerHTML = data.forks;
+          document.getElementById(&#39;github-d556ea9a5b809329b8e5fefcd47a1deb-full_name&#39;).innerHTML = data.full_name;
+          document.getElementById(&#39;github-d556ea9a5b809329b8e5fefcd47a1deb-description&#39;).innerHTML = data.description;
+          document.getElementById(&#39;github-d556ea9a5b809329b8e5fefcd47a1deb-stargazers&#39;).innerHTML = data.stargazers_count;
+          document.getElementById(&#39;github-d556ea9a5b809329b8e5fefcd47a1deb-forks&#39;).innerHTML = data.forks;
         })
         .catch(error =&gt; console.error(error))
     &lt;/script&gt;
@@ -377,7 +377,7 @@ yazi with neovim.&lt;/p&gt;
 &lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; target=&#34;_blank&#34;&gt;lazygit.nvim&lt;/a&gt; is the wrapper plugins for &lt;a href=&#34;https://github.com/jesseduffield/lazygit&#34; target=&#34;_blank&#34;&gt;lazygit&lt;/a&gt; allowing the user to
 perform all the git operation right from the neovim.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
 
 
 
@@ -399,13 +399,13 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-full_name&#34;
+          &lt;div id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-full_name&#34;
             class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
             kdheepak/lazygit.nvim
           &lt;/div&gt;
         &lt;/div&gt;
 
-        &lt;p id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+        &lt;p id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
           Plugin for calling lazygit from within neovim.
         &lt;/p&gt;
 
@@ -426,8 +426,8 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            1901
+          &lt;div id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            1897
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -439,7 +439,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+          &lt;div id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
             68
           &lt;/div&gt;
 
@@ -454,10 +454,10 @@ perform all the git operation right from the neovim.&lt;/p&gt;
       })
         .then(response =&gt; response.json())
         .then(data =&gt; {
-          document.getElementById(&#39;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-2c7dc5f7cbbb4ec37195f5db157eaa6c-forks&#39;).innerHTML = data.forks;
+          document.getElementById(&#39;github-26e7a69f529aa5f09efd77f8a7357f61-full_name&#39;).innerHTML = data.full_name;
+          document.getElementById(&#39;github-26e7a69f529aa5f09efd77f8a7357f61-description&#39;).innerHTML = data.description;
+          document.getElementById(&#39;github-26e7a69f529aa5f09efd77f8a7357f61-stargazers&#39;).innerHTML = data.stargazers_count;
+          document.getElementById(&#39;github-26e7a69f529aa5f09efd77f8a7357f61-forks&#39;).innerHTML = data.forks;
         })
         .catch(error =&gt; console.error(error))
     &lt;/script&gt;
@@ -477,7 +477,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 latest awesome features from neovim core. Telescope is centered around
 modularity, allowing other plugins to utilize the telescope as their UI for
 inputs.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4&#34; target=&#34;_blank&#34; href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-1ff3945560271a0ca41bab64534db31d&#34; target=&#34;_blank&#34; href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
 
 
 
@@ -499,13 +499,13 @@ inputs.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-full_name&#34;
+          &lt;div id=&#34;github-1ff3945560271a0ca41bab64534db31d-full_name&#34;
             class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
             nvim-telescope/telescope.nvim
           &lt;/div&gt;
         &lt;/div&gt;
 
-        &lt;p id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+        &lt;p id=&#34;github-1ff3945560271a0ca41bab64534db31d-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
           Find, Filter, Preview, Pick. All lua, all the time.
         &lt;/p&gt;
 
@@ -526,8 +526,8 @@ inputs.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            17669
+          &lt;div id=&#34;github-1ff3945560271a0ca41bab64534db31d-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            17643
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -539,7 +539,7 @@ inputs.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-4ccc3f55f9b75e85a1d6553f8449e5b4-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+          &lt;div id=&#34;github-1ff3945560271a0ca41bab64534db31d-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
             886
           &lt;/div&gt;
 
@@ -554,10 +554,10 @@ inputs.&lt;/p&gt;
       })
         .then(response =&gt; response.json())
         .then(data =&gt; {
-          document.getElementById(&#39;github-4ccc3f55f9b75e85a1d6553f8449e5b4-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-4ccc3f55f9b75e85a1d6553f8449e5b4-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-4ccc3f55f9b75e85a1d6553f8449e5b4-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-4ccc3f55f9b75e85a1d6553f8449e5b4-forks&#39;).innerHTML = data.forks;
+          document.getElementById(&#39;github-1ff3945560271a0ca41bab64534db31d-full_name&#39;).innerHTML = data.full_name;
+          document.getElementById(&#39;github-1ff3945560271a0ca41bab64534db31d-description&#39;).innerHTML = data.description;
+          document.getElementById(&#39;github-1ff3945560271a0ca41bab64534db31d-stargazers&#39;).innerHTML = data.stargazers_count;
+          document.getElementById(&#39;github-1ff3945560271a0ca41bab64534db31d-forks&#39;).innerHTML = data.forks;
         })
         .catch(error =&gt; console.error(error))
     &lt;/script&gt;
@@ -580,7 +580,7 @@ taking, project and task management, time tracking, slideshows, writing typeset
 documents and much more. The premise is that all of these features are built on
 top of a single base file format (&lt;code&gt;.norg&lt;/code&gt;), which the user only has to learn once
 to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7&#34; target=&#34;_blank&#34; href=&#34;https://github.com/nvim-neorg/neorg&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7&#34; target=&#34;_blank&#34; href=&#34;https://github.com/nvim-neorg/neorg&#34; class=&#34;cursor-pointer&#34;&gt;
 
 
 
@@ -602,13 +602,13 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7-full_name&#34;
+          &lt;div id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-full_name&#34;
             class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
             nvim-neorg/neorg
           &lt;/div&gt;
         &lt;/div&gt;
 
-        &lt;p id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+        &lt;p id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
           Modernity meets insane extensibility. The future of organizing your life in Neovim.
         &lt;/p&gt;
 
@@ -629,8 +629,8 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            6894
+          &lt;div id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            6884
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -642,7 +642,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-66a92ee53014839ccc0d6f8d2648f8e7-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+          &lt;div id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
             233
           &lt;/div&gt;
 
@@ -657,10 +657,10 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
       })
         .then(response =&gt; response.json())
         .then(data =&gt; {
-          document.getElementById(&#39;github-66a92ee53014839ccc0d6f8d2648f8e7-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-66a92ee53014839ccc0d6f8d2648f8e7-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-66a92ee53014839ccc0d6f8d2648f8e7-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-66a92ee53014839ccc0d6f8d2648f8e7-forks&#39;).innerHTML = data.forks;
+          document.getElementById(&#39;github-7aeb8cd2783c910b4352f3921ec3c3e7-full_name&#39;).innerHTML = data.full_name;
+          document.getElementById(&#39;github-7aeb8cd2783c910b4352f3921ec3c3e7-description&#39;).innerHTML = data.description;
+          document.getElementById(&#39;github-7aeb8cd2783c910b4352f3921ec3c3e7-stargazers&#39;).innerHTML = data.stargazers_count;
+          document.getElementById(&#39;github-7aeb8cd2783c910b4352f3921ec3c3e7-forks&#39;).innerHTML = data.forks;
         })
         .catch(error =&gt; console.error(error))
     &lt;/script&gt;
@@ -681,7 +681,7 @@ of changes it is hard to keep track of it. This is where undotree comes into pic
 &lt;a href=&#34;https://github.com/mbbill/undotree&#34; target=&#34;_blank&#34;&gt;Undotree&lt;/a&gt; visualizes the undo history and makes it easy to browse and switch
 between different undo branches. They&amp;rsquo;re a feature of Vim that allow you to go
 back to a prior state even after it has been overwritten by later edits.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-2090cb9d60599f27c5975c3a87dc9699&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mbbill/undotree&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mbbill/undotree&#34; class=&#34;cursor-pointer&#34;&gt;
 
 
 
@@ -703,13 +703,13 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-full_name&#34;
+          &lt;div id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-full_name&#34;
             class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
             mbbill/undotree
           &lt;/div&gt;
         &lt;/div&gt;
 
-        &lt;p id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+        &lt;p id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
           The undo history visualizer for VIM
         &lt;/p&gt;
 
@@ -730,8 +730,8 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            4223
+          &lt;div id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            4220
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -743,7 +743,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-2090cb9d60599f27c5975c3a87dc9699-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+          &lt;div id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
             113
           &lt;/div&gt;
 
@@ -758,10 +758,10 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
       })
         .then(response =&gt; response.json())
         .then(data =&gt; {
-          document.getElementById(&#39;github-2090cb9d60599f27c5975c3a87dc9699-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-2090cb9d60599f27c5975c3a87dc9699-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-2090cb9d60599f27c5975c3a87dc9699-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-2090cb9d60599f27c5975c3a87dc9699-forks&#39;).innerHTML = data.forks;
+          document.getElementById(&#39;github-a5a3b87b7abb0602f5304469f8f886dc-full_name&#39;).innerHTML = data.full_name;
+          document.getElementById(&#39;github-a5a3b87b7abb0602f5304469f8f886dc-description&#39;).innerHTML = data.description;
+          document.getElementById(&#39;github-a5a3b87b7abb0602f5304469f8f886dc-stargazers&#39;).innerHTML = data.stargazers_count;
+          document.getElementById(&#39;github-a5a3b87b7abb0602f5304469f8f886dc-forks&#39;).innerHTML = data.forks;
         })
         .catch(error =&gt; console.error(error))
     &lt;/script&gt;
@@ -780,7 +780,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 &lt;p&gt;Surround selections, stylishly :smiling_face_with_sunglasses: Yes, this is the line you will
 see on its github readme. &lt;a href=&#34;https://github.com/kylechui/nvim-surround&#34; target=&#34;_blank&#34;&gt;nvim-surround&lt;/a&gt; does really
 makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/code&gt; buttery smooth.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-11c82d94d15588320c97b3cf62deadd2&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kylechui/nvim-surround&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-58db83239d880cbd5a90ceea968e1a4f&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kylechui/nvim-surround&#34; class=&#34;cursor-pointer&#34;&gt;
 
 
 
@@ -802,13 +802,13 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-11c82d94d15588320c97b3cf62deadd2-full_name&#34;
+          &lt;div id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-full_name&#34;
             class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
             kylechui/nvim-surround
           &lt;/div&gt;
         &lt;/div&gt;
 
-        &lt;p id=&#34;github-11c82d94d15588320c97b3cf62deadd2-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+        &lt;p id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
           Add/change/delete surrounding delimiter pairs with ease. Written with &amp;#x2764;&amp;#xfe0f; in Lua.
         &lt;/p&gt;
 
@@ -829,8 +829,8 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-11c82d94d15588320c97b3cf62deadd2-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            3737
+          &lt;div id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            3728
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -842,7 +842,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-11c82d94d15588320c97b3cf62deadd2-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+          &lt;div id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
             67
           &lt;/div&gt;
 
@@ -857,10 +857,10 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
       })
         .then(response =&gt; response.json())
         .then(data =&gt; {
-          document.getElementById(&#39;github-11c82d94d15588320c97b3cf62deadd2-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-11c82d94d15588320c97b3cf62deadd2-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-11c82d94d15588320c97b3cf62deadd2-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-11c82d94d15588320c97b3cf62deadd2-forks&#39;).innerHTML = data.forks;
+          document.getElementById(&#39;github-58db83239d880cbd5a90ceea968e1a4f-full_name&#39;).innerHTML = data.full_name;
+          document.getElementById(&#39;github-58db83239d880cbd5a90ceea968e1a4f-description&#39;).innerHTML = data.description;
+          document.getElementById(&#39;github-58db83239d880cbd5a90ceea968e1a4f-stargazers&#39;).innerHTML = data.stargazers_count;
+          document.getElementById(&#39;github-58db83239d880cbd5a90ceea968e1a4f-forks&#39;).innerHTML = data.forks;
         })
         .catch(error =&gt; console.error(error))
     &lt;/script&gt;
@@ -880,7 +880,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 worktrees (branches) simultaneously.
 &lt;a href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; target=&#34;_blank&#34;&gt;git-worktree.nvim&lt;/a&gt; is a
 simple wrapper around git worktree operations, create, switch, and delete.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-963a2ba80ea337d0717624382a2af913&#34; target=&#34;_blank&#34; href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-569f02b5f2331c500568850fd86f2ce9&#34; target=&#34;_blank&#34; href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
 
 
 
@@ -902,13 +902,13 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-963a2ba80ea337d0717624382a2af913-full_name&#34;
+          &lt;div id=&#34;github-569f02b5f2331c500568850fd86f2ce9-full_name&#34;
             class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
             ThePrimeagen/git-worktree.nvim
           &lt;/div&gt;
         &lt;/div&gt;
 
-        &lt;p id=&#34;github-963a2ba80ea337d0717624382a2af913-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+        &lt;p id=&#34;github-569f02b5f2331c500568850fd86f2ce9-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
           
         &lt;/p&gt;
 
@@ -929,8 +929,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-963a2ba80ea337d0717624382a2af913-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            774
+          &lt;div id=&#34;github-569f02b5f2331c500568850fd86f2ce9-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            773
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -942,7 +942,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
 
           &lt;/span&gt;
-          &lt;div id=&#34;github-963a2ba80ea337d0717624382a2af913-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+          &lt;div id=&#34;github-569f02b5f2331c500568850fd86f2ce9-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
             136
           &lt;/div&gt;
 
@@ -957,24 +957,24 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
       })
         .then(response =&gt; response.json())
         .then(data =&gt; {
-          document.getElementById(&#39;github-963a2ba80ea337d0717624382a2af913-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-963a2ba80ea337d0717624382a2af913-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-963a2ba80ea337d0717624382a2af913-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-963a2ba80ea337d0717624382a2af913-forks&#39;).innerHTML = data.forks;
+          document.getElementById(&#39;github-569f02b5f2331c500568850fd86f2ce9-full_name&#39;).innerHTML = data.full_name;
+          document.getElementById(&#39;github-569f02b5f2331c500568850fd86f2ce9-description&#39;).innerHTML = data.description;
+          document.getElementById(&#39;github-569f02b5f2331c500568850fd86f2ce9-stargazers&#39;).innerHTML = data.stargazers_count;
+          document.getElementById(&#39;github-569f02b5f2331c500568850fd86f2ce9-forks&#39;).innerHTML = data.forks;
         })
         .catch(error =&gt; console.error(error))
     &lt;/script&gt;
   &lt;/a&gt;&lt;/div&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/blogs/hidden-gems-lesser-known-neovim-plugins-you-should-try/featured.png" />
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://technicaldc.github.io/posts/markdown/</link>
+      <link>https://technicaldc.github.io/blogs/markdown/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://technicaldc.github.io/posts/markdown/</guid>
+      <guid>https://technicaldc.github.io/blogs/markdown/</guid>
       <description>
 &lt;h2 class=&#34;relative group&#34;&gt;Headings 
     &lt;div id=&#34;headings&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -1350,15 +1350,15 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/markdown/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/blogs/markdown/featured.jpg" />
     </item>
     
     <item>
       <title>My first post</title>
-      <link>https://technicaldc.github.io/posts/myfirstpost/</link>
+      <link>https://technicaldc.github.io/blogs/myfirstpost/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://technicaldc.github.io/posts/myfirstpost/</guid>
+      <guid>https://technicaldc.github.io/blogs/myfirstpost/</guid>
       <description>
 &lt;h2 class=&#34;relative group&#34;&gt;First post with Huge and Blowfish 
     &lt;div id=&#34;first-post-with-huge-and-blowfish&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -1373,7 +1373,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;p&gt;Hey gus! This is my first post on this brand new website built with
 Hugo and Blowfish theme.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/myfirstpost/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/blogs/myfirstpost/featured.jpg" />
     </item>
     
     <item>
@@ -1383,8 +1383,8 @@ Hugo and Blowfish theme.&lt;/p&gt;
       
       <guid>https://technicaldc.github.io/about/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;It does not matter how slowly you go as long as you do not stop.&lt;br&gt;
-— &lt;cite&gt;Confucius&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;It does not matter how slowly you go as long as you do not stop.&lt;/p&gt;
+&lt;p&gt;— &lt;cite&gt;Confucius&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Hello! I’m a software engineer based in Mumbai with over 3 years of hands-on
 experience in the tech industry. My professional work mainly involves &lt;code&gt;Progress 4GL&lt;/code&gt;,
@@ -1425,6 +1425,27 @@ hear from you!&lt;/p&gt;
   
   
   &lt;/figure&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;What programs do I use? 
+    &lt;div id=&#34;what-programs-do-i-use&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-programs-do-i-use&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;                   ╭─────────────╮
+       /\          │   os       │ linux (distro don&#39;t matter)
+      /  \         ├─────────────┤
+     /    \        │ 󱩽  editor   │ neovim
+    /      \       │   terminal │ alacritty / kitty / wezterm
+   /   ,,   \      │   shell    │ fish
+  /   |  |   \     │ 󰖟  web      │ qutebrowser
+ /_-&#39;&#39;    &#39;&#39;-_\    │   other    │ zoxide, eza, fzf
+                   ╰─────────────╯
+&lt;/code&gt;&lt;/pre&gt;
 </description>
       
     </item>
@@ -1436,8 +1457,8 @@ hear from you!&lt;/p&gt;
       
       <guid>https://technicaldc.github.io/resume/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;First rule of programming: if it works, don’t touch it.&lt;br&gt;
-— &lt;cite&gt;Survival wisdom&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;First rule of programming: if it works, don’t touch it.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;— &lt;cite&gt;Survival wisdom&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Professional Experience 
@@ -1493,13 +1514,15 @@ hear from you!&lt;/p&gt;
       &lt;div class=&#34;mb-6&#34;&gt;
 
 &lt;b&gt;Tech:&lt;/b&gt;&lt;br/&gt;
-&lt;code&gt;progress 4gl&lt;/code&gt;
-&lt;code&gt;qrf&lt;/code&gt;
-&lt;code&gt;linux&lt;/code&gt;
-&lt;code&gt;typescript&lt;/code&gt;
-&lt;code&gt;jira&lt;/code&gt;
-&lt;code&gt;customer version control&lt;/code&gt;
-&lt;code&gt;subversion&lt;/code&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;progress 4gl&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;qrf&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;linux&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;typescript&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;jira&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;customer version control&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;subversion&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -1548,15 +1571,17 @@ hear from you!&lt;/p&gt;
       &lt;div class=&#34;mb-6&#34;&gt;
 
 &lt;b&gt;Tech:&lt;/b&gt;&lt;br/&gt;
-&lt;code&gt;progress 4gl&lt;/code&gt;
-&lt;code&gt;linux&lt;/code&gt;
-&lt;code&gt;typescript&lt;/code&gt;
-&lt;code&gt;qrf&lt;/code&gt;
-&lt;code&gt;jira&lt;/code&gt;
-&lt;code&gt;customer version control&lt;/code&gt;
-&lt;code&gt;service now&lt;/code&gt;
-&lt;code&gt;bash&lt;/code&gt;
-&lt;code&gt;gitlab&lt;/code&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;code&gt;progress 4gl&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;linux&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;typescript&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;qrf&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;jira&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;customer version control&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;service now&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;bash&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;code&gt;gitlab&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -1666,7 +1691,7 @@ be processed further for various applications.
 &lt;ol&gt;
 &lt;li&gt;Languages: &lt;code&gt;bash&lt;/code&gt; &lt;code&gt;progress&lt;/code&gt; &lt;code&gt;typescript&lt;/code&gt; &lt;code&gt;lua&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Frameworks: &lt;code&gt;hugo&lt;/code&gt; &lt;code&gt;flask&lt;/code&gt; &lt;code&gt;qad reporting framework&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Tools: &lt;code&gt;linux&lt;/code&gt; &lt;code&gt;git&lt;/code&gt; &lt;code&gt;gitlab&lt;/code&gt; &lt;code&gt;subversion&lt;/code&gt; &lt;code&gt;cvc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Tools: &lt;code&gt;linux&lt;/code&gt; &lt;code&gt;git&lt;/code&gt; &lt;code&gt;gitlab&lt;/code&gt; &lt;code&gt;subversion&lt;/code&gt; &lt;code&gt;cvc&lt;/code&gt; &lt;code&gt;yab&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Education 
@@ -1705,6 +1730,25 @@ be processed further for various applications.
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Recommendations 
+    &lt;div id=&#34;recommendations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#recommendations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I highly recommend Dilip for technical roles. He is a skilled and dedicated
+professional with strong expertise in QAD technical and AUX development. His
+problem-solving abilities and collaborative approach make him a valuable team
+member. Dilip consistently delivers high-quality work, and I confidently
+endorse him for any technical position.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;— &lt;cite&gt;Kashinath Mali&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
       
     </item>

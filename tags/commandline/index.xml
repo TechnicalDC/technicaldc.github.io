@@ -10,10 +10,10 @@
     <lastBuildDate>Thu, 27 Mar 2025 15:41:43 +0530</lastBuildDate><atom:link href="https://technicaldc.github.io/tags/commandline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Essential commandline tools for daily productivity</title>
-      <link>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</link>
+      <link>https://technicaldc.github.io/blogs/essential-command-line-tools-for-daily-productivity/</link>
       <pubDate>Thu, 27 Mar 2025 15:41:43 +0530</pubDate>
       
-      <guid>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</guid>
+      <guid>https://technicaldc.github.io/blogs/essential-command-line-tools-for-daily-productivity/</guid>
       <description>&lt;p&gt;For as long as I’ve used Linux and spent time in the terminal, I’ve realized
 one thing: the command line is a powerhouse of productivity. While GUI
 applications have their place, nothing beats the speed, efficiency, and sheer
@@ -251,7 +251,7 @@ focused. If you spend a lot of time in the terminal, I highly recommend giving
 them a try.&lt;/p&gt;
 &lt;p&gt;💬 &lt;strong&gt;What are your favorite command-line tools? Let’s discuss in the comments!&lt;/strong&gt;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/blogs/essential-command-line-tools-for-daily-productivity/featured.png" />
     </item>
     
   </channel>
