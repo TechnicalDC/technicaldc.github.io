@@ -329,7 +329,7 @@ yazi with neovim.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            1091
+            1204
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -342,7 +342,7 @@ yazi with neovim.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            38
+            43
           &lt;/div&gt;
 
         &lt;/div&gt;
@@ -427,7 +427,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            1901
+            1985
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -440,7 +440,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            68
+            77
           &lt;/div&gt;
 
         &lt;/div&gt;
@@ -527,7 +527,7 @@ inputs.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-1ff3945560271a0ca41bab64534db31d-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            17669
+            18092
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -540,7 +540,7 @@ inputs.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-1ff3945560271a0ca41bab64534db31d-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            886
+            908
           &lt;/div&gt;
 
         &lt;/div&gt;
@@ -630,7 +630,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            6894
+            6993
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -643,7 +643,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
 
           &lt;/span&gt;
           &lt;div id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            233
+            230
           &lt;/div&gt;
 
         &lt;/div&gt;
@@ -731,7 +731,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
           &lt;/span&gt;
           &lt;div id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            4223
+            4342
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -744,7 +744,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
 
           &lt;/span&gt;
           &lt;div id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            113
+            116
           &lt;/div&gt;
 
         &lt;/div&gt;
@@ -830,7 +830,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
 
           &lt;/span&gt;
           &lt;div id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            3737
+            3860
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -930,7 +930,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
           &lt;/span&gt;
           &lt;div id=&#34;github-569f02b5f2331c500568850fd86f2ce9-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            774
+            794
           &lt;/div&gt;
 
           &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -943,7 +943,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 
           &lt;/span&gt;
           &lt;div id=&#34;github-569f02b5f2331c500568850fd86f2ce9-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            136
+            140
           &lt;/div&gt;
 
         &lt;/div&gt;

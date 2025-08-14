@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on thetechnicaldc</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in linux on thetechnicaldc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright 2025 - Dilip Chauhan</copyright>
+    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My new linux rice</title>
+      <link>http://localhost:1313/videos/my-new-linux-rice/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/videos/my-new-linux-rice/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/videos/my-new-linux-rice/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
