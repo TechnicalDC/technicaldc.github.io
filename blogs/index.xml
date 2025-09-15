@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blogs on [/]</title>
+    <title>blogs on dilip chauhan</title>
     <link>https://technicaldc.github.io/blogs/</link>
-    <description>Recent content in blogs on [/]</description>
+    <description>Recent content in blogs on dilip chauhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright 2025 - Dilip Chauhan</copyright>
@@ -27,9 +27,8 @@ workflow.&lt;/p&gt;
     &lt;div id=&#34;neovim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#neovim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#neovim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -51,9 +50,8 @@ editing configs, and even drafting blog posts like this one. With plugins like
     &lt;div id=&#34;fzf&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#fzf&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#fzf&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -65,9 +63,8 @@ search tool that makes finding files, directories, and commands effortless.&lt;/
     &lt;div id=&#34;why-i-love-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-i-love-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#why-i-love-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -86,9 +83,8 @@ Trust me, once you start using it, there’s no going back!&lt;/p&gt;
     &lt;div id=&#34;tmux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tmux&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#tmux&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -100,9 +96,8 @@ multiple terminal sessions inside a single window.&lt;/p&gt;
     &lt;div id=&#34;why-its-essential&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-its-essential&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#why-its-essential&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -120,9 +115,8 @@ multiple terminal sessions inside a single window.&lt;/p&gt;
     &lt;div id=&#34;yazi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#yazi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#yazi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -133,9 +127,8 @@ minimal, keyboard-driven file manager that feels like a dream to use.&lt;/p&gt;
     &lt;div id=&#34;why-its-a-game-changer&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-its-a-game-changer&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#why-its-a-game-changer&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -153,9 +146,8 @@ unnecessary files.&lt;/p&gt;
     &lt;div id=&#34;lazygit&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#lazygit&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#lazygit&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -167,9 +159,8 @@ changes that with an intuitive and interactive Git UI for the terminal.&lt;/p&gt
     &lt;div id=&#34;why-you-need-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-you-need-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#why-you-need-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -188,9 +179,8 @@ without typing out long Git commands.&lt;/p&gt;
     &lt;div id=&#34;taskwarrior&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#taskwarrior&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#taskwarrior&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -202,9 +192,8 @@ line.&lt;/p&gt;
     &lt;div id=&#34;why-i-use-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-i-use-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#why-i-use-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -222,9 +211,8 @@ line.&lt;/p&gt;
     &lt;div id=&#34;zoxide&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#zoxide&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#zoxide&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -239,9 +227,8 @@ learns your frequently visited directories and lets you jump to them instantly.&
     &lt;div id=&#34;wrapping-up&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#wrapping-up&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#wrapping-up&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -269,702 +256,547 @@ daily workflow.&lt;/p&gt;
     &lt;div id=&#34;yazinvim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#yazinvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#yazinvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34; target=&#34;_blank&#34;&gt;yasi&lt;/a&gt; is terminal file manager of choice. Unlike other terminal file
+&lt;p&gt;&lt;a
+  href=&#34;https://yazi-rs.github.io/&#34;
+    target=&#34;_blank&#34;
+  &gt;yasi&lt;/a&gt; is terminal file manager of choice. Unlike other terminal file
 manager like ranger and lf, yazi is written rust making it much faster compared to its
-alternatives. So &lt;a href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; target=&#34;_blank&#34;&gt;yazi.nvim&lt;/a&gt; allows to integrate
+alternatives. So &lt;a
+  href=&#34;https://github.com/mikavilpas/yazi.nvim&#34;
+    target=&#34;_blank&#34;
+  &gt;yazi.nvim&lt;/a&gt; allows to integrate
 yazi with neovim.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
-
-
-
-    &lt;div
-      class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
-        &lt;img src=&#34;https://opengraph.githubassets.com/0/mikavilpas/yazi.nvim&#34; alt=&#34;GitHub Repository Thumbnail&#34;
-          class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
-      &lt;/div&gt;&lt;div
-        class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
-
-        &lt;div class=&#34;flex items-center&#34;&gt;
-          &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral&#34; style=&#34;margin-right:10px;&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-full_name&#34;
-            class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
-            mikavilpas/yazi.nvim
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-        &lt;p id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-          A Neovim Plugin for the yazi terminal file manager
-        &lt;/p&gt;
-
-        &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-
-          &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-            style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
-          &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-             Lua 
+&lt;div class=&#34;github-card-wrapper&#34;&gt;
+    &lt;a id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
+      &lt;div
+        class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
+            &lt;img
+              src=&#34;https://opengraph.githubassets.com/0/mikavilpas/yazi.nvim&#34;
+              alt=&#34;GitHub Repository Thumbnail&#34;
+              class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
+          &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
+          &lt;div class=&#34;flex items-center&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div
+              id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-full_name&#34;
+              class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
+              mikavilpas/yazi.nvim
+            &lt;/div&gt;
           &lt;/div&gt;
 
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
+          &lt;p id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            A Neovim Plugin for the yazi terminal file manager
+          &lt;/p&gt;
 
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
+          &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
+            &lt;span
+              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
+              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              Lua
+            &lt;/div&gt;
 
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              1204
+            &lt;/div&gt;
 
-          &lt;/span&gt;
-          &lt;div id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            1204
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              43
+            &lt;/div&gt;
           &lt;/div&gt;
-
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            43
-          &lt;/div&gt;
-
         &lt;/div&gt;
       &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;script&gt;
-      fetch(&#34;https://api.github.com/repos/mikavilpas/yazi.nvim&#34;, {
-        headers: new Headers({
-          &#39;User-agent&#39;: &#39;Mozilla/4.0 Custom User Agent&#39;
-        })
-      })
-        .then(response =&gt; response.json())
-        .then(data =&gt; {
-          document.getElementById(&#39;github-d556ea9a5b809329b8e5fefcd47a1deb-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-d556ea9a5b809329b8e5fefcd47a1deb-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-d556ea9a5b809329b8e5fefcd47a1deb-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-d556ea9a5b809329b8e5fefcd47a1deb-forks&#39;).innerHTML = data.forks;
-        })
-        .catch(error =&gt; console.error(error))
-    &lt;/script&gt;
-  &lt;/a&gt;&lt;/div&gt;
+      
+      
+      &lt;script
+        async
+        type=&#34;text/javascript&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
+        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        data-repo-url=&#34;https://api.github.com/repos/mikavilpas/yazi.nvim&#34;
+        data-repo-id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb&#34;&gt;&lt;/script&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;lazygit.nvim 
     &lt;div id=&#34;lazygitnvim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#lazygitnvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#lazygitnvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; target=&#34;_blank&#34;&gt;lazygit.nvim&lt;/a&gt; is the wrapper plugins for &lt;a href=&#34;https://github.com/jesseduffield/lazygit&#34; target=&#34;_blank&#34;&gt;lazygit&lt;/a&gt; allowing the user to
+&lt;p&gt;&lt;a
+  href=&#34;https://github.com/kdheepak/lazygit.nvim&#34;
+    target=&#34;_blank&#34;
+  &gt;lazygit.nvim&lt;/a&gt; is the wrapper plugins for &lt;a
+  href=&#34;https://github.com/jesseduffield/lazygit&#34;
+    target=&#34;_blank&#34;
+  &gt;lazygit&lt;/a&gt; allowing the user to
 perform all the git operation right from the neovim.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
-
-
-
-    &lt;div
-      class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
-        &lt;img src=&#34;https://opengraph.githubassets.com/0/kdheepak/lazygit.nvim&#34; alt=&#34;GitHub Repository Thumbnail&#34;
-          class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
-      &lt;/div&gt;&lt;div
-        class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
-
-        &lt;div class=&#34;flex items-center&#34;&gt;
-          &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral&#34; style=&#34;margin-right:10px;&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-full_name&#34;
-            class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
-            kdheepak/lazygit.nvim
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-        &lt;p id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-          Plugin for calling lazygit from within neovim.
-        &lt;/p&gt;
-
-        &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-
-          &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-            style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
-          &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-             Lua 
+&lt;div class=&#34;github-card-wrapper&#34;&gt;
+    &lt;a id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
+      &lt;div
+        class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
+            &lt;img
+              src=&#34;https://opengraph.githubassets.com/0/kdheepak/lazygit.nvim&#34;
+              alt=&#34;GitHub Repository Thumbnail&#34;
+              class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
+          &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
+          &lt;div class=&#34;flex items-center&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div
+              id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-full_name&#34;
+              class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
+              kdheepak/lazygit.nvim
+            &lt;/div&gt;
           &lt;/div&gt;
 
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
+          &lt;p id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            Plugin for calling lazygit from within neovim.
+          &lt;/p&gt;
 
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
+          &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
+            &lt;span
+              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
+              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              Lua
+            &lt;/div&gt;
 
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              1985
+            &lt;/div&gt;
 
-          &lt;/span&gt;
-          &lt;div id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            1985
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              77
+            &lt;/div&gt;
           &lt;/div&gt;
-
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            77
-          &lt;/div&gt;
-
         &lt;/div&gt;
       &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;script&gt;
-      fetch(&#34;https://api.github.com/repos/kdheepak/lazygit.nvim&#34;, {
-        headers: new Headers({
-          &#39;User-agent&#39;: &#39;Mozilla/4.0 Custom User Agent&#39;
-        })
-      })
-        .then(response =&gt; response.json())
-        .then(data =&gt; {
-          document.getElementById(&#39;github-26e7a69f529aa5f09efd77f8a7357f61-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-26e7a69f529aa5f09efd77f8a7357f61-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-26e7a69f529aa5f09efd77f8a7357f61-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-26e7a69f529aa5f09efd77f8a7357f61-forks&#39;).innerHTML = data.forks;
-        })
-        .catch(error =&gt; console.error(error))
-    &lt;/script&gt;
-  &lt;/a&gt;&lt;/div&gt;
+      
+      
+      &lt;script
+        async
+        type=&#34;text/javascript&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
+        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        data-repo-url=&#34;https://api.github.com/repos/kdheepak/lazygit.nvim&#34;
+        data-repo-id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61&#34;&gt;&lt;/script&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;telescope.nvim 
     &lt;div id=&#34;telescopenvim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#telescopenvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#telescopenvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34; target=&#34;_blank&#34;&gt;telescope.nvim&lt;/a&gt; is a highly extendable fuzzy finder over lists. Built on the
+&lt;p&gt;&lt;a
+  href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34;
+    target=&#34;_blank&#34;
+  &gt;telescope.nvim&lt;/a&gt; is a highly extendable fuzzy finder over lists. Built on the
 latest awesome features from neovim core. Telescope is centered around
 modularity, allowing other plugins to utilize the telescope as their UI for
 inputs.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-1ff3945560271a0ca41bab64534db31d&#34; target=&#34;_blank&#34; href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
-
-
-
-    &lt;div
-      class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
-        &lt;img src=&#34;https://opengraph.githubassets.com/0/nvim-telescope/telescope.nvim&#34; alt=&#34;GitHub Repository Thumbnail&#34;
-          class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
-      &lt;/div&gt;&lt;div
-        class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
-
-        &lt;div class=&#34;flex items-center&#34;&gt;
-          &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral&#34; style=&#34;margin-right:10px;&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-1ff3945560271a0ca41bab64534db31d-full_name&#34;
-            class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
-            nvim-telescope/telescope.nvim
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-        &lt;p id=&#34;github-1ff3945560271a0ca41bab64534db31d-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-          Find, Filter, Preview, Pick. All lua, all the time.
-        &lt;/p&gt;
-
-        &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-
-          &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-            style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
-          &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-             Lua 
+&lt;div class=&#34;github-card-wrapper&#34;&gt;
+    &lt;a id=&#34;github-1ff3945560271a0ca41bab64534db31d&#34; target=&#34;_blank&#34; href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
+      &lt;div
+        class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
+            &lt;img
+              src=&#34;https://opengraph.githubassets.com/0/nvim-telescope/telescope.nvim&#34;
+              alt=&#34;GitHub Repository Thumbnail&#34;
+              class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
+          &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
+          &lt;div class=&#34;flex items-center&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div
+              id=&#34;github-1ff3945560271a0ca41bab64534db31d-full_name&#34;
+              class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
+              nvim-telescope/telescope.nvim
+            &lt;/div&gt;
           &lt;/div&gt;
 
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
+          &lt;p id=&#34;github-1ff3945560271a0ca41bab64534db31d-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            Find, Filter, Preview, Pick. All lua, all the time.
+          &lt;/p&gt;
 
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
+          &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
+            &lt;span
+              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
+              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              Lua
+            &lt;/div&gt;
 
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-1ff3945560271a0ca41bab64534db31d-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              18092
+            &lt;/div&gt;
 
-          &lt;/span&gt;
-          &lt;div id=&#34;github-1ff3945560271a0ca41bab64534db31d-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            18092
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-1ff3945560271a0ca41bab64534db31d-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              908
+            &lt;/div&gt;
           &lt;/div&gt;
-
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-1ff3945560271a0ca41bab64534db31d-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            908
-          &lt;/div&gt;
-
         &lt;/div&gt;
       &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;script&gt;
-      fetch(&#34;https://api.github.com/repos/nvim-telescope/telescope.nvim&#34;, {
-        headers: new Headers({
-          &#39;User-agent&#39;: &#39;Mozilla/4.0 Custom User Agent&#39;
-        })
-      })
-        .then(response =&gt; response.json())
-        .then(data =&gt; {
-          document.getElementById(&#39;github-1ff3945560271a0ca41bab64534db31d-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-1ff3945560271a0ca41bab64534db31d-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-1ff3945560271a0ca41bab64534db31d-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-1ff3945560271a0ca41bab64534db31d-forks&#39;).innerHTML = data.forks;
-        })
-        .catch(error =&gt; console.error(error))
-    &lt;/script&gt;
-  &lt;/a&gt;&lt;/div&gt;
+      
+      
+      &lt;script
+        async
+        type=&#34;text/javascript&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
+        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        data-repo-url=&#34;https://api.github.com/repos/nvim-telescope/telescope.nvim&#34;
+        data-repo-id=&#34;github-1ff3945560271a0ca41bab64534db31d&#34;&gt;&lt;/script&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;neorg 
     &lt;div id=&#34;neorg&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#neorg&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#neorg&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
 &lt;p&gt;When it comes to note taking, my previous choice was vimwiki. However, since I started
-using neovim, I was looking for better alternatives and this is when I came across &lt;a href=&#34;https://github.com/nvim-neorg/neorg&#34; target=&#34;_blank&#34;&gt;neorg&lt;/a&gt;
+using neovim, I was looking for better alternatives and this is when I came across &lt;a
+  href=&#34;https://github.com/nvim-neorg/neorg&#34;
+    target=&#34;_blank&#34;
+  &gt;neorg&lt;/a&gt;
 on reddit. Neorg is an all-encompassing tool based around structured note
 taking, project and task management, time tracking, slideshows, writing typeset
 documents and much more. The premise is that all of these features are built on
 top of a single base file format (&lt;code&gt;.norg&lt;/code&gt;), which the user only has to learn once
 to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7&#34; target=&#34;_blank&#34; href=&#34;https://github.com/nvim-neorg/neorg&#34; class=&#34;cursor-pointer&#34;&gt;
-
-
-
-    &lt;div
-      class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
-        &lt;img src=&#34;https://opengraph.githubassets.com/0/nvim-neorg/neorg&#34; alt=&#34;GitHub Repository Thumbnail&#34;
-          class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
-      &lt;/div&gt;&lt;div
-        class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
-
-        &lt;div class=&#34;flex items-center&#34;&gt;
-          &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral&#34; style=&#34;margin-right:10px;&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-full_name&#34;
-            class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
-            nvim-neorg/neorg
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-        &lt;p id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-          Modernity meets insane extensibility. The future of organizing your life in Neovim.
-        &lt;/p&gt;
-
-        &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-
-          &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-            style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
-          &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-             Lua 
+&lt;div class=&#34;github-card-wrapper&#34;&gt;
+    &lt;a id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7&#34; target=&#34;_blank&#34; href=&#34;https://github.com/nvim-neorg/neorg&#34; class=&#34;cursor-pointer&#34;&gt;
+      &lt;div
+        class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
+            &lt;img
+              src=&#34;https://opengraph.githubassets.com/0/nvim-neorg/neorg&#34;
+              alt=&#34;GitHub Repository Thumbnail&#34;
+              class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
+          &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
+          &lt;div class=&#34;flex items-center&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div
+              id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-full_name&#34;
+              class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
+              nvim-neorg/neorg
+            &lt;/div&gt;
           &lt;/div&gt;
 
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
+          &lt;p id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            Modernity meets insane extensibility. The future of organizing your life in Neovim.
+          &lt;/p&gt;
 
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
+          &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
+            &lt;span
+              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
+              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              Lua
+            &lt;/div&gt;
 
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              6993
+            &lt;/div&gt;
 
-          &lt;/span&gt;
-          &lt;div id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            6993
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              230
+            &lt;/div&gt;
           &lt;/div&gt;
-
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            230
-          &lt;/div&gt;
-
         &lt;/div&gt;
       &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;script&gt;
-      fetch(&#34;https://api.github.com/repos/nvim-neorg/neorg&#34;, {
-        headers: new Headers({
-          &#39;User-agent&#39;: &#39;Mozilla/4.0 Custom User Agent&#39;
-        })
-      })
-        .then(response =&gt; response.json())
-        .then(data =&gt; {
-          document.getElementById(&#39;github-7aeb8cd2783c910b4352f3921ec3c3e7-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-7aeb8cd2783c910b4352f3921ec3c3e7-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-7aeb8cd2783c910b4352f3921ec3c3e7-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-7aeb8cd2783c910b4352f3921ec3c3e7-forks&#39;).innerHTML = data.forks;
-        })
-        .catch(error =&gt; console.error(error))
-    &lt;/script&gt;
-  &lt;/a&gt;&lt;/div&gt;
+      
+      
+      &lt;script
+        async
+        type=&#34;text/javascript&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
+        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        data-repo-url=&#34;https://api.github.com/repos/nvim-neorg/neorg&#34;
+        data-repo-id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7&#34;&gt;&lt;/script&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;undotree 
     &lt;div id=&#34;undotree&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#undotree&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#undotree&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
 &lt;p&gt;Being developer, making changes in the program is quite daily routine and after a lots
 of changes it is hard to keep track of it. This is where undotree comes into picture.
-&lt;a href=&#34;https://github.com/mbbill/undotree&#34; target=&#34;_blank&#34;&gt;Undotree&lt;/a&gt; visualizes the undo history and makes it easy to browse and switch
+&lt;a
+  href=&#34;https://github.com/mbbill/undotree&#34;
+    target=&#34;_blank&#34;
+  &gt;Undotree&lt;/a&gt; visualizes the undo history and makes it easy to browse and switch
 between different undo branches. They&amp;rsquo;re a feature of Vim that allow you to go
 back to a prior state even after it has been overwritten by later edits.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mbbill/undotree&#34; class=&#34;cursor-pointer&#34;&gt;
-
-
-
-    &lt;div
-      class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
-        &lt;img src=&#34;https://opengraph.githubassets.com/0/mbbill/undotree&#34; alt=&#34;GitHub Repository Thumbnail&#34;
-          class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
-      &lt;/div&gt;&lt;div
-        class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
-
-        &lt;div class=&#34;flex items-center&#34;&gt;
-          &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral&#34; style=&#34;margin-right:10px;&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-full_name&#34;
-            class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
-            mbbill/undotree
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-        &lt;p id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-          The undo history visualizer for VIM
-        &lt;/p&gt;
-
-        &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-
-          &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-            style=&#34;background-color: #199f4b&#34;&gt;&lt;/span&gt;
-          &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-             Vim Script 
+&lt;div class=&#34;github-card-wrapper&#34;&gt;
+    &lt;a id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mbbill/undotree&#34; class=&#34;cursor-pointer&#34;&gt;
+      &lt;div
+        class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
+            &lt;img
+              src=&#34;https://opengraph.githubassets.com/0/mbbill/undotree&#34;
+              alt=&#34;GitHub Repository Thumbnail&#34;
+              class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
+          &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
+          &lt;div class=&#34;flex items-center&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div
+              id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-full_name&#34;
+              class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
+              mbbill/undotree
+            &lt;/div&gt;
           &lt;/div&gt;
 
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
+          &lt;p id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            The undo history visualizer for VIM
+          &lt;/p&gt;
 
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
+          &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
+            &lt;span
+              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
+              style=&#34;background-color: #199f4b&#34;&gt;&lt;/span&gt;
+            &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              Vim Script
+            &lt;/div&gt;
 
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              4342
+            &lt;/div&gt;
 
-          &lt;/span&gt;
-          &lt;div id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            4342
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              116
+            &lt;/div&gt;
           &lt;/div&gt;
-
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            116
-          &lt;/div&gt;
-
         &lt;/div&gt;
       &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;script&gt;
-      fetch(&#34;https://api.github.com/repos/mbbill/undotree&#34;, {
-        headers: new Headers({
-          &#39;User-agent&#39;: &#39;Mozilla/4.0 Custom User Agent&#39;
-        })
-      })
-        .then(response =&gt; response.json())
-        .then(data =&gt; {
-          document.getElementById(&#39;github-a5a3b87b7abb0602f5304469f8f886dc-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-a5a3b87b7abb0602f5304469f8f886dc-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-a5a3b87b7abb0602f5304469f8f886dc-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-a5a3b87b7abb0602f5304469f8f886dc-forks&#39;).innerHTML = data.forks;
-        })
-        .catch(error =&gt; console.error(error))
-    &lt;/script&gt;
-  &lt;/a&gt;&lt;/div&gt;
+      
+      
+      &lt;script
+        async
+        type=&#34;text/javascript&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
+        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        data-repo-url=&#34;https://api.github.com/repos/mbbill/undotree&#34;
+        data-repo-id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc&#34;&gt;&lt;/script&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;nvim-surround 
     &lt;div id=&#34;nvim-surround&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#nvim-surround&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#nvim-surround&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
 &lt;p&gt;Surround selections, stylishly :smiling_face_with_sunglasses: Yes, this is the line you will
-see on its github readme. &lt;a href=&#34;https://github.com/kylechui/nvim-surround&#34; target=&#34;_blank&#34;&gt;nvim-surround&lt;/a&gt; does really
+see on its github readme. &lt;a
+  href=&#34;https://github.com/kylechui/nvim-surround&#34;
+    target=&#34;_blank&#34;
+  &gt;nvim-surround&lt;/a&gt; does really
 makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/code&gt; buttery smooth.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-58db83239d880cbd5a90ceea968e1a4f&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kylechui/nvim-surround&#34; class=&#34;cursor-pointer&#34;&gt;
-
-
-
-    &lt;div
-      class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
-        &lt;img src=&#34;https://opengraph.githubassets.com/0/kylechui/nvim-surround&#34; alt=&#34;GitHub Repository Thumbnail&#34;
-          class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
-      &lt;/div&gt;&lt;div
-        class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
-
-        &lt;div class=&#34;flex items-center&#34;&gt;
-          &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral&#34; style=&#34;margin-right:10px;&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-full_name&#34;
-            class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
-            kylechui/nvim-surround
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-        &lt;p id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-          Add/change/delete surrounding delimiter pairs with ease. Written with &amp;#x2764;&amp;#xfe0f; in Lua.
-        &lt;/p&gt;
-
-        &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-
-          &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-            style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
-          &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-             Lua 
+&lt;div class=&#34;github-card-wrapper&#34;&gt;
+    &lt;a id=&#34;github-58db83239d880cbd5a90ceea968e1a4f&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kylechui/nvim-surround&#34; class=&#34;cursor-pointer&#34;&gt;
+      &lt;div
+        class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
+            &lt;img
+              src=&#34;https://opengraph.githubassets.com/0/kylechui/nvim-surround&#34;
+              alt=&#34;GitHub Repository Thumbnail&#34;
+              class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
+          &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
+          &lt;div class=&#34;flex items-center&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div
+              id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-full_name&#34;
+              class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
+              kylechui/nvim-surround
+            &lt;/div&gt;
           &lt;/div&gt;
 
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
+          &lt;p id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+            Add/change/delete surrounding delimiter pairs with ease. Written with &amp;#x2764;&amp;#xfe0f; in Lua.
+          &lt;/p&gt;
 
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
+          &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
+            &lt;span
+              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
+              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              Lua
+            &lt;/div&gt;
 
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              3860
+            &lt;/div&gt;
 
-          &lt;/span&gt;
-          &lt;div id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            3860
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              67
+            &lt;/div&gt;
           &lt;/div&gt;
-
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-58db83239d880cbd5a90ceea968e1a4f-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            67
-          &lt;/div&gt;
-
         &lt;/div&gt;
       &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;script&gt;
-      fetch(&#34;https://api.github.com/repos/kylechui/nvim-surround&#34;, {
-        headers: new Headers({
-          &#39;User-agent&#39;: &#39;Mozilla/4.0 Custom User Agent&#39;
-        })
-      })
-        .then(response =&gt; response.json())
-        .then(data =&gt; {
-          document.getElementById(&#39;github-58db83239d880cbd5a90ceea968e1a4f-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-58db83239d880cbd5a90ceea968e1a4f-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-58db83239d880cbd5a90ceea968e1a4f-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-58db83239d880cbd5a90ceea968e1a4f-forks&#39;).innerHTML = data.forks;
-        })
-        .catch(error =&gt; console.error(error))
-    &lt;/script&gt;
-  &lt;/a&gt;&lt;/div&gt;
+      
+      
+      &lt;script
+        async
+        type=&#34;text/javascript&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
+        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        data-repo-url=&#34;https://api.github.com/repos/kylechui/nvim-surround&#34;
+        data-repo-id=&#34;github-58db83239d880cbd5a90ceea968e1a4f&#34;&gt;&lt;/script&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;git-worktree.nvim 
     &lt;div id=&#34;git-worktreenvim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#git-worktreenvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#git-worktreenvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
 &lt;p&gt;Git worktree is the feature of git which allows you to work with multiple
 worktrees (branches) simultaneously.
-&lt;a href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; target=&#34;_blank&#34;&gt;git-worktree.nvim&lt;/a&gt; is a
+&lt;a
+  href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34;
+    target=&#34;_blank&#34;
+  &gt;git-worktree.nvim&lt;/a&gt; is a
 simple wrapper around git worktree operations, create, switch, and delete.&lt;/p&gt;
-&lt;div class=&#34;github-card-wrapper&#34;&gt;&lt;a id=&#34;github-569f02b5f2331c500568850fd86f2ce9&#34; target=&#34;_blank&#34; href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;div class=&#34;github-card-wrapper&#34;&gt;
+    &lt;a id=&#34;github-569f02b5f2331c500568850fd86f2ce9&#34; target=&#34;_blank&#34; href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
+      &lt;div
+        class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
+            &lt;img
+              src=&#34;https://opengraph.githubassets.com/0/ThePrimeagen/git-worktree.nvim&#34;
+              alt=&#34;GitHub Repository Thumbnail&#34;
+              class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
+          &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
+          &lt;div class=&#34;flex items-center&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div
+              id=&#34;github-569f02b5f2331c500568850fd86f2ce9-full_name&#34;
+              class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
+              ThePrimeagen/git-worktree.nvim
+            &lt;/div&gt;
+          &lt;/div&gt;
 
-
-
-    &lt;div
-      class=&#34;w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;&lt;div class=&#34;w-full nozoom&#34;&gt;
-        &lt;img src=&#34;https://opengraph.githubassets.com/0/ThePrimeagen/git-worktree.nvim&#34; alt=&#34;GitHub Repository Thumbnail&#34;
-          class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
-      &lt;/div&gt;&lt;div
-        class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
-
-        &lt;div class=&#34;flex items-center&#34;&gt;
-          &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral&#34; style=&#34;margin-right:10px;&#34;&gt;
+          &lt;p id=&#34;github-569f02b5f2331c500568850fd86f2ce9-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
             
+          &lt;/p&gt;
 
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+          &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
+            &lt;span
+              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
+              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              Lua
+            &lt;/div&gt;
 
-  &lt;/span&gt;
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-569f02b5f2331c500568850fd86f2ce9-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              794
+            &lt;/div&gt;
 
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-569f02b5f2331c500568850fd86f2ce9-full_name&#34;
-            class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
-            ThePrimeagen/git-worktree.nvim
+            &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+              &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;div id=&#34;github-569f02b5f2331c500568850fd86f2ce9-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+              140
+            &lt;/div&gt;
           &lt;/div&gt;
-        &lt;/div&gt;
-
-        &lt;p id=&#34;github-569f02b5f2331c500568850fd86f2ce9-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-          
-        &lt;/p&gt;
-
-        &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-
-          &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-            style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
-          &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-             Lua 
-          &lt;/div&gt;
-
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-569f02b5f2331c500568850fd86f2ce9-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            794
-          &lt;/div&gt;
-
-          &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
-            
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-
-          &lt;/span&gt;
-          &lt;div id=&#34;github-569f02b5f2331c500568850fd86f2ce9-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-            140
-          &lt;/div&gt;
-
         &lt;/div&gt;
       &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;script&gt;
-      fetch(&#34;https://api.github.com/repos/ThePrimeagen/git-worktree.nvim&#34;, {
-        headers: new Headers({
-          &#39;User-agent&#39;: &#39;Mozilla/4.0 Custom User Agent&#39;
-        })
-      })
-        .then(response =&gt; response.json())
-        .then(data =&gt; {
-          document.getElementById(&#39;github-569f02b5f2331c500568850fd86f2ce9-full_name&#39;).innerHTML = data.full_name;
-          document.getElementById(&#39;github-569f02b5f2331c500568850fd86f2ce9-description&#39;).innerHTML = data.description;
-          document.getElementById(&#39;github-569f02b5f2331c500568850fd86f2ce9-stargazers&#39;).innerHTML = data.stargazers_count;
-          document.getElementById(&#39;github-569f02b5f2331c500568850fd86f2ce9-forks&#39;).innerHTML = data.forks;
-        })
-        .catch(error =&gt; console.error(error))
-    &lt;/script&gt;
-  &lt;/a&gt;&lt;/div&gt;
+      
+      
+      &lt;script
+        async
+        type=&#34;text/javascript&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
+        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        data-repo-url=&#34;https://api.github.com/repos/ThePrimeagen/git-worktree.nvim&#34;
+        data-repo-id=&#34;github-569f02b5f2331c500568850fd86f2ce9&#34;&gt;&lt;/script&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
 </description>
       
     </item>
@@ -980,9 +812,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;headings&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#headings&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#headings&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -992,9 +823,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;h1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#h1&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h1&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h1&gt;
@@ -1003,9 +833,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;h2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#h2&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h2&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1014,9 +843,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;h3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#h3&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h3&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1025,9 +853,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;h4&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#h4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h4&gt;
@@ -1036,9 +863,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;h5&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#h5&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h5&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h5&gt;
@@ -1047,9 +873,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;h6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#h6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h6&gt;
@@ -1058,9 +883,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;paragraph&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#paragraph&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#paragraph&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1071,9 +895,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;blockquotes&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#blockquotes&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#blockquotes&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1083,9 +906,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;blockquote-without-attribution&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#blockquote-without-attribution&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#blockquote-without-attribution&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1098,9 +920,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;blockquote-with-attribution&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#blockquote-with-attribution&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#blockquote-with-attribution&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1113,9 +934,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;tables&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tables&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#tables&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1143,9 +963,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;inline-markdown-within-tables&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#inline-markdown-within-tables&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#inline-markdown-within-tables&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1170,9 +989,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;code-blocks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#code-blocks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#code-blocks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1181,9 +999,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;code-block-with-backticks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#code-block-with-backticks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#code-block-with-backticks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1202,9 +1019,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;code-block-indented-with-four-spaces&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#code-block-indented-with-four-spaces&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#code-block-indented-with-four-spaces&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1224,9 +1040,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#code-block-with-hugos-internal-highlight-shortcode&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#code-block-with-hugos-internal-highlight-shortcode&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1261,9 +1076,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;list-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#list-types&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#list-types&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1272,9 +1086,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;ordered-list&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ordered-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#ordered-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1288,9 +1101,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;unordered-list&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#unordered-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#unordered-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1304,9 +1116,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;nested-list&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#nested-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#nested-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1330,9 +1141,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#other-elements--abbr-sub-sup-kbd-mark&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#other-elements--abbr-sub-sup-kbd-mark&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1345,7 +1155,10 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34; target=&#34;_blank&#34;&gt;talk &lt;code&gt;about&lt;/code&gt; nothing&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a
+  href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;
+    target=&#34;_blank&#34;
+  &gt;talk &lt;code&gt;about&lt;/code&gt; nothing&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -1364,9 +1177,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;div id=&#34;first-post-with-huge-and-blowfish&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#first-post-with-huge-and-blowfish&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#first-post-with-huge-and-blowfish&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
