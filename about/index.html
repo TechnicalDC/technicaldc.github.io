@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.ef7def99fe46d081923f2c1e64de9bdad14e04df54ed61758c1dc008cae9b15f4edf89573120bf7d3125f657446e8d87ada88c998a012293316a338cc1947fe1.css"
-    integrity="sha512-733vmf5G0IGSPyweZN6b2tFOBN9U7WF1jB3ACMrpsV9O34lXMSC/fTEl9ldEbo2HraiMmYoBIpMxajOMwZR/4Q==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.ae9e3d7b17d2c2160520a934ccf7e50415b44f11781f020d40b2dd15d0cb0a5d08babe93aff9bb7a497a8ede4bc219e0f6165683da2b95ace695b93d77ec511f.css"
+    integrity="sha512-rp49exfSwhYFIKk0zPflBBW0TxF4HwINQLLdFdDLCl0Iur6Tr/m7ekl6jt5Lwhng9hZWg9orlazmlbk9d&#43;xRHw==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -553,14 +553,12 @@
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
       
-
-
-<article>
-  
+  <article class="max-w-full">
+    
 
   <header id="single_header" class="mt-5 max-w-prose">
-    
-    <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+      
+        <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
   
   
     
@@ -585,12 +583,12 @@
 </ol>
 
 
-    
-    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      about me
-    </h1>
-    <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
+      <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+        about me
+      </h1>
+       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+         
 
 
 
@@ -649,43 +647,27 @@
 
 
 
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</div>
 
 
 
 
 
 
+       </div>
 
-    </div>
+       
+       
+       
+       
+       
 
-    
-    
-    
-    
-    
+       
 
-    
+       
 
-    
-
-      
-        
-        
+         
+           
+           
 <div class="flex author">
   
     
@@ -810,104 +792,18 @@
   </div>
 </div>
 
-      
+         
 
-      
+         
 
-      
-      <div class="mb-5"></div>
-      
+         
+         <div class="mb-5"></div>
+         
 
-    
-
-  </header>
-
-  <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
-
-     <div
-      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
-      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
-
-         <details open id="TOCView" class="toc-right mt-0 overflow-y-auto overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
-  <summary
-    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
-    Table of Contents
-  </summary>
-  <div
-    class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#what-programs-do-i-use">What programs do I use?</a></li>
-  </ul>
-</nav>
-  </div>
-</details>
-<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
-  <summary
-    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
-    Table of Contents
-  </summary>
-  <div
-    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#what-programs-do-i-use">What programs do I use?</a></li>
-  </ul>
-</nav>
-  </div>
-</details>
-
-<script>
-
-  (function () {
-    var $toc = $('#TableOfContents');
-    if ($toc.length > 0) {
-      var $window = $(window);
-
-      function onScroll() {
-        var currentScroll = $window.scrollTop();
-        var h = $('.anchor');
-        var id = "";
-        h.each(function (i, e) {
-          e = $(e);
-          if (e.offset().top - $(window).height()/3 <= currentScroll) {
-            id = decodeURIComponent(e.attr('id'));
-          }
-        });
-        var active = $toc.find('a.active');      
-        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
-
-        active.each(function (i, e) {
-          
-            $(e).removeClass('active');
-          
-        });
-        $toc.find('a[href="#' + id + '"]').addClass('active');
-        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
-          $(e).children('a').parents('ul').show();          
-        });
-      }
-
-      $window.on('scroll', onScroll);
-      $(document).ready(function () {
-        
-        onScroll();
-      });
-    }
-  })();
-
-</script>
-   </div>
-      </div>
-      
-
-      <div class="min-w-0 min-h-0 max-w-fit">
-
-        
-
-
-        <div class="article-content max-w-prose mb-20">
-		    <blockquote>
+       
+    </header>
+    <section class="max-w-full mt-6 prose dark:prose-invert">
+      <blockquote>
 <p>It does not matter how slowly you go as long as you do not stop.</p>
 <p>— <cite>Confucius</cite></p>
 </blockquote>
@@ -972,43 +868,8 @@ hear from you!</p>
                    ╰─────────────╯
 </code></pre>
 
-          
-          
-          
-        </div>
-
-        
-
-        
-        
-
-        
-      </div>
-
-      
-      
-        
-        
-          
-          
-        
-      <script>
-        var oid = "views_about\/index.md"
-        var oid_likes = "likes_about\/index.md"
-      </script>
-      
-      
-      <script type="text/javascript" src="/js/page.min.0860cf4e04fa2d72cc33ddba263083464d48f67de06114529043cb4623319efed4f484fd7f1730df5abea0e2da6f3538855634081d02f2d6e920b956f063e823.js" integrity="sha512-CGDPTgT6LXLMM926JjCDRk1I9n3gYRRSkEPLRiMxnv7U9IT9fxcw31q&#43;oOLabzU4hVY0CB0C8tbpILlW8GPoIw=="></script>
-      
-
     </section>
-  <footer class="pt-8 max-w-prose print:hidden">
-
-    
-
-    
-  </footer>
-</article>
+  </article>
 
       <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
   <a href="#the-top"
