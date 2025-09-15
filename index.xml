@@ -1436,16 +1436,13 @@ hear from you!&lt;/p&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;                   ╭─────────────╮
-       /\          │   os       │ linux (distro don&#39;t matter)
-      /  \         ├─────────────┤
-     /    \        │ 󱩽  editor   │ neovim
-    /      \       │   terminal │ alacritty / kitty / wezterm
-   /   ,,   \      │   shell    │ fish
-  /   |  |   \     │ 󰖟  web      │ qutebrowser
- /_-&#39;&#39;    &#39;&#39;-_\    │   other    │ zoxide, eza, fzf
-                   ╰─────────────╯
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OS:&lt;/strong&gt; Fedora Linux&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Editor:&lt;/strong&gt; Neovim&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Terminal:&lt;/strong&gt; WezTerm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shell:&lt;/strong&gt; Fish&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other:&lt;/strong&gt; Zoxide, Eza, Fzf&lt;/li&gt;
+&lt;/ul&gt;
 </description>
       
     </item>
