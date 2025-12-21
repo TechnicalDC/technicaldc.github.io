@@ -1251,9 +1251,23 @@ hear from you!&lt;/p&gt;
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
       
       <guid>https://technicaldc.github.io/resume/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;First rule of programming: if it works, don’t touch it.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;— &lt;cite&gt;Survival wisdom&lt;/cite&gt;&lt;/p&gt;
+      <description>
+&lt;h2 class=&#34;relative group&#34;&gt;Recommendations 
+    &lt;div id=&#34;recommendations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#recommendations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I highly recommend Dilip for technical roles. He is a skilled and dedicated
+professional with strong expertise in QAD technical and AUX development. His
+problem-solving abilities and collaborative approach make him a valuable team
+member. Dilip consistently delivers high-quality work, and I confidently
+endorse him for any technical position.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;— &lt;cite&gt;Kashinath Mali&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Professional Experience 
@@ -1265,148 +1279,32 @@ hear from you!&lt;/p&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;ol class=&#34;border-l-2 border-primary-500 dark:border-primary-300 list-none&#34;&gt;
-
-
-
-
-&lt;li&gt;
-  &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
-      &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;
-&lt;path fill=&#34;currentColor&#34;  d=&#34;M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
-      &lt;div class=&#34;flex justify-between&#34;&gt;
-        
-          &lt;h2 class=&#34;mt-0&#34;&gt;Sr. Software Engineer&lt;/h2&gt;
-        
-        
-          &lt;h3 class=&#34;&#34;&gt;
-            &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
-  &lt;span class=&#34;rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200&#34;&gt;
-    May, 2024 - Present
-  &lt;/span&gt;
-&lt;/span&gt;
-
-          &lt;/h3&gt;
-        
-      &lt;/div&gt;
-      
-        &lt;h4 class=&#34;mt-0&#34;&gt;
-          Durvah IT Consulting Private Limited
-        &lt;/h4&gt;
-      
-      &lt;div class=&#34;mb-6&#34;&gt;
-
-&lt;br/&gt;
-&lt;code&gt;progress 4gl&lt;/code&gt;
-&lt;code&gt;qrf&lt;/code&gt;
-&lt;code&gt;linux&lt;/code&gt;
-&lt;code&gt;typescript&lt;/code&gt;
-&lt;code&gt;java&lt;/code&gt;
-&lt;code&gt;jira&lt;/code&gt;
-&lt;code&gt;subversion&lt;/code&gt;
-&lt;code&gt;bash&lt;/code&gt;
-&lt;code&gt;vim/vi&lt;/code&gt;
-&lt;code&gt;tmux&lt;/code&gt;
-&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/li&gt;
-
-
-
-
-
-
-&lt;li&gt;
-  &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
-      &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;
-&lt;path fill=&#34;currentColor&#34;  d=&#34;M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
-      &lt;div class=&#34;flex justify-between&#34;&gt;
-        
-          &lt;h2 class=&#34;mt-0&#34;&gt;QAD Technical Consultant&lt;/h2&gt;
-        
-        
-          &lt;h3 class=&#34;&#34;&gt;
-            &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
-  &lt;span class=&#34;rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200&#34;&gt;
-    Aug, 2021 - May, 2024
-  &lt;/span&gt;
-&lt;/span&gt;
-
-          &lt;/h3&gt;
-        
-      &lt;/div&gt;
-      
-        &lt;h4 class=&#34;mt-0&#34;&gt;
-          Aliter Business Solutions Private Limited
-        &lt;/h4&gt;
-      
-      &lt;div class=&#34;mb-6&#34;&gt;
-
-&lt;br/&gt;
-&lt;code&gt;progress 4gl&lt;/code&gt;
-&lt;code&gt;qrf&lt;/code&gt;
-&lt;code&gt;linux&lt;/code&gt;
-&lt;code&gt;typescript&lt;/code&gt;
-&lt;code&gt;jira&lt;/code&gt;
-&lt;code&gt;customer version control&lt;/code&gt;
-&lt;code&gt;service now&lt;/code&gt;
-&lt;code&gt;bash&lt;/code&gt;
-&lt;code&gt;gitlab&lt;/code&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/li&gt;
-
-
-
-
-
-
-&lt;li&gt;
-  &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
-      &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
-      &lt;div class=&#34;flex justify-between&#34;&gt;
-        
-          &lt;h2 class=&#34;mt-0&#34;&gt;Data Entry Operator&lt;/h2&gt;
-        
-        
-          &lt;h3 class=&#34;&#34;&gt;
-            &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
-  &lt;span class=&#34;rounded-lg border border-primary-400 px-2 py-1 text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-200&#34;&gt;
-    Aug, 2018 - April, 2019
-  &lt;/span&gt;
-&lt;/span&gt;
-
-          &lt;/h3&gt;
-        
-      &lt;/div&gt;
-      
-        &lt;h4 class=&#34;mt-0&#34;&gt;
-          Marvel Data Services LLP
-        &lt;/h4&gt;
-      
-      &lt;div class=&#34;mb-6&#34;&gt;
-&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/li&gt;
-
-&lt;/ol&gt;
-
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Company&lt;/th&gt;
+            &lt;th&gt;Role&lt;/th&gt;
+            &lt;th&gt;Dates&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Durvah IT Consulting Private Limited&lt;/td&gt;
+            &lt;td&gt;Sr. Software Engineer&lt;/td&gt;
+            &lt;td&gt;May, 2024 - Present&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Aliter Business Solutions Private Limited&lt;/td&gt;
+            &lt;td&gt;QAD Technical Consultant&lt;/td&gt;
+            &lt;td&gt;Aug, 2021 - May, 2024&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Marvel Data Services LLP&lt;/td&gt;
+            &lt;td&gt;Data Entry Operator&lt;/td&gt;
+            &lt;td&gt;Aug, 2018 - April, 2019&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Certifications 
     &lt;div id=&#34;certifications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -1504,24 +1402,6 @@ hear from you!&lt;/p&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;Recommendations 
-    &lt;div id=&#34;recommendations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#recommendations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;I highly recommend Dilip for technical roles. He is a skilled and dedicated
-professional with strong expertise in QAD technical and AUX development. His
-problem-solving abilities and collaborative approach make him a valuable team
-member. Dilip consistently delivers high-quality work, and I confidently
-endorse him for any technical position.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;— &lt;cite&gt;Kashinath Mali&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
       
     </item>
