@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blogs on dilip chauhan</title>
+    <title>Blogs on dilip chauhan</title>
     <link>https://technicaldc.github.io/blogs/</link>
-    <description>Recent content in blogs on dilip chauhan</description>
+    <description>Recent content in Blogs on dilip chauhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright 2025 - Dilip Chauhan</copyright>
@@ -23,13 +23,13 @@ workflow.&lt;/p&gt;
 &lt;p&gt;If you live in the terminal like I do, you’ll love these tools. Let’s dive in!&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;neovim 
+&lt;h2 class=&#34;relative group&#34;&gt;neovim
     &lt;div id=&#34;neovim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#neovim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#neovim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;I started with Vim like many others, fascinated by its modal editing and sheer
@@ -46,26 +46,26 @@ editing configs, and even drafting blog posts like this one. With plugins like
 &lt;code&gt;telescope.nvim&lt;/code&gt; and &lt;code&gt;lualine.nvim&lt;/code&gt;, my setup feels snappy and efficient.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;fzf 
+&lt;h2 class=&#34;relative group&#34;&gt;fzf
     &lt;div id=&#34;fzf&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#fzf&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#fzf&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;You know that frustrating moment when you need to find a file, but you can’t
 remember the exact name? That’s where &lt;code&gt;fzf&lt;/code&gt; comes in. It’s an interactive fuzzy
 search tool that makes finding files, directories, and commands effortless.&lt;/p&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Why I Love It: 
+&lt;h3 class=&#34;relative group&#34;&gt;Why I Love It:
     &lt;div id=&#34;why-i-love-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#why-i-love-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#why-i-love-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;ul&gt;
@@ -74,31 +74,31 @@ search tool that makes finding files, directories, and commands effortless.&lt;/
 &lt;li&gt;Integrates with &lt;code&gt;find&lt;/code&gt;, &lt;code&gt;rg&lt;/code&gt;, &lt;code&gt;fd&lt;/code&gt;, &lt;code&gt;git&lt;/code&gt;, and more.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Quickly locate files interactively:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;find . -type f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; fzf
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I have &lt;code&gt;fzf&lt;/code&gt; mapped in my shell to make directory navigation insanely fast.
+&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;find . -type f &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; fzf&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;I have &lt;code&gt;fzf&lt;/code&gt; mapped in my shell to make directory navigation insanely fast.
 Trust me, once you start using it, there’s no going back!&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;tmux 
+&lt;h2 class=&#34;relative group&#34;&gt;tmux
     &lt;div id=&#34;tmux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#tmux&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#tmux&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;I used to open multiple terminal tabs and windows until I discovered &lt;code&gt;tmux&lt;/code&gt;. It
 changed how I work in the terminal forever. &lt;code&gt;tmux&lt;/code&gt; allows you to manage
 multiple terminal sessions inside a single window.&lt;/p&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Why It’s Essential: 
+&lt;h3 class=&#34;relative group&#34;&gt;Why It’s Essential:
     &lt;div id=&#34;why-its-essential&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#why-its-essential&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#why-its-essential&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;ul&gt;
@@ -107,29 +107,29 @@ multiple terminal sessions inside a single window.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Highly Configurable&lt;/strong&gt; – Customize keybindings, colors, and layouts.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Start a new session:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tmux new -s mysession
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now, I can work on multiple projects without worrying about losing my place.&lt;/p&gt;
+&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tmux new -s mysession&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Now, I can work on multiple projects without worrying about losing my place.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;yazi 
+&lt;h2 class=&#34;relative group&#34;&gt;yazi
     &lt;div id=&#34;yazi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#yazi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#yazi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;If you’ve ever used &lt;code&gt;ranger&lt;/code&gt;, &lt;code&gt;lf&lt;/code&gt;, or &lt;code&gt;nnn&lt;/code&gt;, you’ll love &lt;code&gt;yazi&lt;/code&gt;. It’s a
 minimal, keyboard-driven file manager that feels like a dream to use.&lt;/p&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Why It’s a Game-Changer: 
+&lt;h3 class=&#34;relative group&#34;&gt;Why It’s a Game-Changer:
     &lt;div id=&#34;why-its-a-game-changer&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#why-its-a-game-changer&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#why-its-a-game-changer&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;ul&gt;
@@ -142,26 +142,26 @@ dealing with large projects. Its preview feature saves me from opening
 unnecessary files.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;lazygit 
+&lt;h2 class=&#34;relative group&#34;&gt;lazygit
     &lt;div id=&#34;lazygit&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#lazygit&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#lazygit&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;Git is powerful, but let’s be honest—it can be a pain to use from the command
 line, especially when managing branches and resolving conflicts. &lt;code&gt;lazygit&lt;/code&gt;
 changes that with an intuitive and interactive Git UI for the terminal.&lt;/p&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Why You Need It: 
+&lt;h3 class=&#34;relative group&#34;&gt;Why You Need It:
     &lt;div id=&#34;why-you-need-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#why-you-need-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#why-you-need-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;ul&gt;
@@ -170,31 +170,31 @@ changes that with an intuitive and interactive Git UI for the terminal.&lt;/p&gt
 &lt;li&gt;Lightweight and fast.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Launch &lt;code&gt;lazygit&lt;/code&gt; inside a Git repo:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;lazygit
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I rely on &lt;code&gt;lazygit&lt;/code&gt; whenever I need to handle complex merges or review commits
+&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;lazygit&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;I rely on &lt;code&gt;lazygit&lt;/code&gt; whenever I need to handle complex merges or review commits
 without typing out long Git commands.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;taskwarrior 
+&lt;h2 class=&#34;relative group&#34;&gt;taskwarrior
     &lt;div id=&#34;taskwarrior&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#taskwarrior&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#taskwarrior&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;Staying productive isn’t just about writing code—it’s about organizing your
 work efficiently. &lt;code&gt;taskwarrior&lt;/code&gt; is an advanced task manager for the command
 line.&lt;/p&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Why I Use It: 
+&lt;h3 class=&#34;relative group&#34;&gt;Why I Use It:
     &lt;div id=&#34;why-i-use-it&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#why-i-use-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#why-i-use-it&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;ul&gt;
@@ -203,33 +203,33 @@ line.&lt;/p&gt;
 &lt;li&gt;Powerful filtering and custom reports.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Add a high-priority task:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;task add &lt;span class=&#34;s2&#34;&gt;&amp;#34;Write blog post&amp;#34;&lt;/span&gt; due:tomorrow priority:H
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I use &lt;code&gt;taskwarrior&lt;/code&gt; to track my work and personal tasks without relying on GUI-based to-do apps.&lt;/p&gt;
+&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;task add &lt;span class=&#34;s2&#34;&gt;&amp;#34;Write blog post&amp;#34;&lt;/span&gt; due:tomorrow priority:H&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;I use &lt;code&gt;taskwarrior&lt;/code&gt; to track my work and personal tasks without relying on GUI-based to-do apps.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;zoxide 
+&lt;h2 class=&#34;relative group&#34;&gt;zoxide
     &lt;div id=&#34;zoxide&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#zoxide&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#zoxide&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;Typing &lt;code&gt;cd&lt;/code&gt; repeatedly is inefficient, and that’s where &lt;code&gt;zoxide&lt;/code&gt; shines. It
 learns your frequently visited directories and lets you jump to them instantly.&lt;/p&gt;
 &lt;p&gt;🔹 &lt;strong&gt;Example:&lt;/strong&gt; Quickly navigate to a frequently accessed directory:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;z project
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This tool saves me so much time, eliminating the need to type long directory paths.&lt;/p&gt;
+&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;z project&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;This tool saves me so much time, eliminating the need to type long directory paths.&lt;/p&gt;
 &lt;hr&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;Wrapping Up 
+&lt;h2 class=&#34;relative group&#34;&gt;Wrapping Up
     &lt;div id=&#34;wrapping-up&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#wrapping-up&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#wrapping-up&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;These tools have become an essential part of my daily workflow. Whether I’m
@@ -252,24 +252,18 @@ about the top 10 neovim plugins which I used on daily basis. For this post, I am
 lsp and autocompletion plugins. This post will mainly focuses on the plugins improved the
 daily workflow.&lt;/p&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;yazi.nvim 
+&lt;h2 class=&#34;relative group&#34;&gt;yazi.nvim
     &lt;div id=&#34;yazinvim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#yazinvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#yazinvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a
-  href=&#34;https://yazi-rs.github.io/&#34;
-    target=&#34;_blank&#34;
-  &gt;yasi&lt;/a&gt; is terminal file manager of choice. Unlike other terminal file
+&lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34;  target=&#34;_blank&#34;&gt;yasi&lt;/a&gt; is terminal file manager of choice. Unlike other terminal file
 manager like ranger and lf, yazi is written rust making it much faster compared to its
-alternatives. So &lt;a
-  href=&#34;https://github.com/mikavilpas/yazi.nvim&#34;
-    target=&#34;_blank&#34;
-  &gt;yazi.nvim&lt;/a&gt; allows to integrate
+alternatives. So &lt;a href=&#34;https://github.com/mikavilpas/yazi.nvim&#34;  target=&#34;_blank&#34;&gt;yazi.nvim&lt;/a&gt; allows to integrate
 yazi with neovim.&lt;/p&gt;
 &lt;div class=&#34;github-card-wrapper&#34;&gt;
     &lt;a id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb&#34; target=&#34;_blank&#34; href=&#34;https://github.com/mikavilpas/yazi.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
@@ -281,7 +275,7 @@ yazi with neovim.&lt;/p&gt;
               class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
           &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
           &lt;div class=&#34;flex items-center&#34;&gt;
-            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral me-2&#34;&gt;
               &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
             &lt;/span&gt;
@@ -297,9 +291,7 @@ yazi with neovim.&lt;/p&gt;
           &lt;/p&gt;
 
           &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-            &lt;span
-              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full language-dot&#34; data-language=&#34;Lua&#34;&gt;&lt;/span&gt;
             &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
               Lua
             &lt;/div&gt;
@@ -325,29 +317,23 @@ yazi with neovim.&lt;/p&gt;
       &lt;script
         async
         type=&#34;text/javascript&#34;
-        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
-        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.dc5533c50cefd50405344b235937142271f26229fe39cbee27fd4960e8bb897a0beebfad77a1091ca91cd0d1fb14e70fc37cc114dd9674fb2c32e0ab512ec8a4.js&#34;
+        integrity=&#34;sha512-3FUzxQzv1QQFNEsjWTcUInHyYin&amp;#43;OcvuJ/1JYOi7iXoL7r&amp;#43;td6EJHKkc0NH7FOcPw3zBFN2WdPssMuCrUS7IpA==&#34;
         data-repo-url=&#34;https://api.github.com/repos/mikavilpas/yazi.nvim&#34;
         data-repo-id=&#34;github-d556ea9a5b809329b8e5fefcd47a1deb&#34;&gt;&lt;/script&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;lazygit.nvim 
+&lt;h2 class=&#34;relative group&#34;&gt;lazygit.nvim
     &lt;div id=&#34;lazygitnvim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#lazygitnvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#lazygitnvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a
-  href=&#34;https://github.com/kdheepak/lazygit.nvim&#34;
-    target=&#34;_blank&#34;
-  &gt;lazygit.nvim&lt;/a&gt; is the wrapper plugins for &lt;a
-  href=&#34;https://github.com/jesseduffield/lazygit&#34;
-    target=&#34;_blank&#34;
-  &gt;lazygit&lt;/a&gt; allowing the user to
+&lt;p&gt;&lt;a href=&#34;https://github.com/kdheepak/lazygit.nvim&#34;  target=&#34;_blank&#34;&gt;lazygit.nvim&lt;/a&gt; is the wrapper plugins for &lt;a href=&#34;https://github.com/jesseduffield/lazygit&#34;  target=&#34;_blank&#34;&gt;lazygit&lt;/a&gt; allowing the user to
 perform all the git operation right from the neovim.&lt;/p&gt;
 &lt;div class=&#34;github-card-wrapper&#34;&gt;
     &lt;a id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kdheepak/lazygit.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
@@ -359,7 +345,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
               class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
           &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
           &lt;div class=&#34;flex items-center&#34;&gt;
-            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral me-2&#34;&gt;
               &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
             &lt;/span&gt;
@@ -375,9 +361,7 @@ perform all the git operation right from the neovim.&lt;/p&gt;
           &lt;/p&gt;
 
           &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-            &lt;span
-              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full language-dot&#34; data-language=&#34;Lua&#34;&gt;&lt;/span&gt;
             &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
               Lua
             &lt;/div&gt;
@@ -403,26 +387,23 @@ perform all the git operation right from the neovim.&lt;/p&gt;
       &lt;script
         async
         type=&#34;text/javascript&#34;
-        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
-        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.dc5533c50cefd50405344b235937142271f26229fe39cbee27fd4960e8bb897a0beebfad77a1091ca91cd0d1fb14e70fc37cc114dd9674fb2c32e0ab512ec8a4.js&#34;
+        integrity=&#34;sha512-3FUzxQzv1QQFNEsjWTcUInHyYin&amp;#43;OcvuJ/1JYOi7iXoL7r&amp;#43;td6EJHKkc0NH7FOcPw3zBFN2WdPssMuCrUS7IpA==&#34;
         data-repo-url=&#34;https://api.github.com/repos/kdheepak/lazygit.nvim&#34;
         data-repo-id=&#34;github-26e7a69f529aa5f09efd77f8a7357f61&#34;&gt;&lt;/script&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;telescope.nvim 
+&lt;h2 class=&#34;relative group&#34;&gt;telescope.nvim
     &lt;div id=&#34;telescopenvim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#telescopenvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#telescopenvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a
-  href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34;
-    target=&#34;_blank&#34;
-  &gt;telescope.nvim&lt;/a&gt; is a highly extendable fuzzy finder over lists. Built on the
+&lt;p&gt;&lt;a href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34;  target=&#34;_blank&#34;&gt;telescope.nvim&lt;/a&gt; is a highly extendable fuzzy finder over lists. Built on the
 latest awesome features from neovim core. Telescope is centered around
 modularity, allowing other plugins to utilize the telescope as their UI for
 inputs.&lt;/p&gt;
@@ -436,7 +417,7 @@ inputs.&lt;/p&gt;
               class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
           &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
           &lt;div class=&#34;flex items-center&#34;&gt;
-            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral me-2&#34;&gt;
               &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
             &lt;/span&gt;
@@ -452,9 +433,7 @@ inputs.&lt;/p&gt;
           &lt;/p&gt;
 
           &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-            &lt;span
-              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full language-dot&#34; data-language=&#34;Lua&#34;&gt;&lt;/span&gt;
             &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
               Lua
             &lt;/div&gt;
@@ -480,27 +459,24 @@ inputs.&lt;/p&gt;
       &lt;script
         async
         type=&#34;text/javascript&#34;
-        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
-        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.dc5533c50cefd50405344b235937142271f26229fe39cbee27fd4960e8bb897a0beebfad77a1091ca91cd0d1fb14e70fc37cc114dd9674fb2c32e0ab512ec8a4.js&#34;
+        integrity=&#34;sha512-3FUzxQzv1QQFNEsjWTcUInHyYin&amp;#43;OcvuJ/1JYOi7iXoL7r&amp;#43;td6EJHKkc0NH7FOcPw3zBFN2WdPssMuCrUS7IpA==&#34;
         data-repo-url=&#34;https://api.github.com/repos/nvim-telescope/telescope.nvim&#34;
         data-repo-id=&#34;github-1ff3945560271a0ca41bab64534db31d&#34;&gt;&lt;/script&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;neorg 
+&lt;h2 class=&#34;relative group&#34;&gt;neorg
     &lt;div id=&#34;neorg&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#neorg&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#neorg&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;When it comes to note taking, my previous choice was vimwiki. However, since I started
-using neovim, I was looking for better alternatives and this is when I came across &lt;a
-  href=&#34;https://github.com/nvim-neorg/neorg&#34;
-    target=&#34;_blank&#34;
-  &gt;neorg&lt;/a&gt;
+using neovim, I was looking for better alternatives and this is when I came across &lt;a href=&#34;https://github.com/nvim-neorg/neorg&#34;  target=&#34;_blank&#34;&gt;neorg&lt;/a&gt;
 on reddit. Neorg is an all-encompassing tool based around structured note
 taking, project and task management, time tracking, slideshows, writing typeset
 documents and much more. The premise is that all of these features are built on
@@ -516,7 +492,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
               class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
           &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
           &lt;div class=&#34;flex items-center&#34;&gt;
-            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral me-2&#34;&gt;
               &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
             &lt;/span&gt;
@@ -532,9 +508,7 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
           &lt;/p&gt;
 
           &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-            &lt;span
-              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full language-dot&#34; data-language=&#34;Lua&#34;&gt;&lt;/span&gt;
             &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
               Lua
             &lt;/div&gt;
@@ -560,28 +534,25 @@ to gain access to all of Neorg&amp;rsquo;s functionality.&lt;/p&gt;
       &lt;script
         async
         type=&#34;text/javascript&#34;
-        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
-        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.dc5533c50cefd50405344b235937142271f26229fe39cbee27fd4960e8bb897a0beebfad77a1091ca91cd0d1fb14e70fc37cc114dd9674fb2c32e0ab512ec8a4.js&#34;
+        integrity=&#34;sha512-3FUzxQzv1QQFNEsjWTcUInHyYin&amp;#43;OcvuJ/1JYOi7iXoL7r&amp;#43;td6EJHKkc0NH7FOcPw3zBFN2WdPssMuCrUS7IpA==&#34;
         data-repo-url=&#34;https://api.github.com/repos/nvim-neorg/neorg&#34;
         data-repo-id=&#34;github-7aeb8cd2783c910b4352f3921ec3c3e7&#34;&gt;&lt;/script&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;undotree 
+&lt;h2 class=&#34;relative group&#34;&gt;undotree
     &lt;div id=&#34;undotree&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#undotree&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#undotree&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;Being developer, making changes in the program is quite daily routine and after a lots
 of changes it is hard to keep track of it. This is where undotree comes into picture.
-&lt;a
-  href=&#34;https://github.com/mbbill/undotree&#34;
-    target=&#34;_blank&#34;
-  &gt;Undotree&lt;/a&gt; visualizes the undo history and makes it easy to browse and switch
+&lt;a href=&#34;https://github.com/mbbill/undotree&#34;  target=&#34;_blank&#34;&gt;Undotree&lt;/a&gt; visualizes the undo history and makes it easy to browse and switch
 between different undo branches. They&amp;rsquo;re a feature of Vim that allow you to go
 back to a prior state even after it has been overwritten by later edits.&lt;/p&gt;
 &lt;div class=&#34;github-card-wrapper&#34;&gt;
@@ -594,7 +565,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
               class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
           &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
           &lt;div class=&#34;flex items-center&#34;&gt;
-            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral me-2&#34;&gt;
               &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
             &lt;/span&gt;
@@ -610,9 +581,7 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
           &lt;/p&gt;
 
           &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-            &lt;span
-              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-              style=&#34;background-color: #199f4b&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full language-dot&#34; data-language=&#34;Vim Script&#34;&gt;&lt;/span&gt;
             &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
               Vim Script
             &lt;/div&gt;
@@ -638,27 +607,24 @@ back to a prior state even after it has been overwritten by later edits.&lt;/p&g
       &lt;script
         async
         type=&#34;text/javascript&#34;
-        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
-        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.dc5533c50cefd50405344b235937142271f26229fe39cbee27fd4960e8bb897a0beebfad77a1091ca91cd0d1fb14e70fc37cc114dd9674fb2c32e0ab512ec8a4.js&#34;
+        integrity=&#34;sha512-3FUzxQzv1QQFNEsjWTcUInHyYin&amp;#43;OcvuJ/1JYOi7iXoL7r&amp;#43;td6EJHKkc0NH7FOcPw3zBFN2WdPssMuCrUS7IpA==&#34;
         data-repo-url=&#34;https://api.github.com/repos/mbbill/undotree&#34;
         data-repo-id=&#34;github-a5a3b87b7abb0602f5304469f8f886dc&#34;&gt;&lt;/script&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;nvim-surround 
+&lt;h2 class=&#34;relative group&#34;&gt;nvim-surround
     &lt;div id=&#34;nvim-surround&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#nvim-surround&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#nvim-surround&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;Surround selections, stylishly :smiling_face_with_sunglasses: Yes, this is the line you will
-see on its github readme. &lt;a
-  href=&#34;https://github.com/kylechui/nvim-surround&#34;
-    target=&#34;_blank&#34;
-  &gt;nvim-surround&lt;/a&gt; does really
+see on its github readme. &lt;a href=&#34;https://github.com/kylechui/nvim-surround&#34;  target=&#34;_blank&#34;&gt;nvim-surround&lt;/a&gt; does really
 makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/code&gt; buttery smooth.&lt;/p&gt;
 &lt;div class=&#34;github-card-wrapper&#34;&gt;
     &lt;a id=&#34;github-58db83239d880cbd5a90ceea968e1a4f&#34; target=&#34;_blank&#34; href=&#34;https://github.com/kylechui/nvim-surround&#34; class=&#34;cursor-pointer&#34;&gt;
@@ -670,7 +636,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
               class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
           &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
           &lt;div class=&#34;flex items-center&#34;&gt;
-            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral me-2&#34;&gt;
               &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
             &lt;/span&gt;
@@ -686,9 +652,7 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
           &lt;/p&gt;
 
           &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-            &lt;span
-              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full language-dot&#34; data-language=&#34;Lua&#34;&gt;&lt;/span&gt;
             &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
               Lua
             &lt;/div&gt;
@@ -714,28 +678,25 @@ makes working with around characters like &lt;code&gt;([{&#39;&amp;quot;&lt;/cod
       &lt;script
         async
         type=&#34;text/javascript&#34;
-        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
-        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.dc5533c50cefd50405344b235937142271f26229fe39cbee27fd4960e8bb897a0beebfad77a1091ca91cd0d1fb14e70fc37cc114dd9674fb2c32e0ab512ec8a4.js&#34;
+        integrity=&#34;sha512-3FUzxQzv1QQFNEsjWTcUInHyYin&amp;#43;OcvuJ/1JYOi7iXoL7r&amp;#43;td6EJHKkc0NH7FOcPw3zBFN2WdPssMuCrUS7IpA==&#34;
         data-repo-url=&#34;https://api.github.com/repos/kylechui/nvim-surround&#34;
         data-repo-id=&#34;github-58db83239d880cbd5a90ceea968e1a4f&#34;&gt;&lt;/script&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;git-worktree.nvim 
+&lt;h2 class=&#34;relative group&#34;&gt;git-worktree.nvim
     &lt;div id=&#34;git-worktreenvim&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#git-worktreenvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#git-worktreenvim&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;Git worktree is the feature of git which allows you to work with multiple
 worktrees (branches) simultaneously.
-&lt;a
-  href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34;
-    target=&#34;_blank&#34;
-  &gt;git-worktree.nvim&lt;/a&gt; is a
+&lt;a href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34;  target=&#34;_blank&#34;&gt;git-worktree.nvim&lt;/a&gt; is a
 simple wrapper around git worktree operations, create, switch, and delete.&lt;/p&gt;
 &lt;div class=&#34;github-card-wrapper&#34;&gt;
     &lt;a id=&#34;github-569f02b5f2331c500568850fd86f2ce9&#34; target=&#34;_blank&#34; href=&#34;https://github.com/ThePrimeagen/git-worktree.nvim&#34; class=&#34;cursor-pointer&#34;&gt;
@@ -747,7 +708,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
               class=&#34;nozoom mt-0 mb-0 w-full h-full object-cover&#34;&gt;
           &lt;/div&gt;&lt;div class=&#34;w-full md:w-auto pt-3 p-5&#34;&gt;
           &lt;div class=&#34;flex items-center&#34;&gt;
-            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral mr-[10px]&#34;&gt;
+            &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral me-2&#34;&gt;
               &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
             &lt;/span&gt;
@@ -763,9 +724,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
           &lt;/p&gt;
 
           &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
-            &lt;span
-              class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-              style=&#34;background-color: #000080&#34;&gt;&lt;/span&gt;
+            &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full language-dot&#34; data-language=&#34;Lua&#34;&gt;&lt;/span&gt;
             &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
               Lua
             &lt;/div&gt;
@@ -791,8 +750,8 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
       &lt;script
         async
         type=&#34;text/javascript&#34;
-        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js&#34;
-        integrity=&#34;sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&amp;#43;Bx0w==&#34;
+        src=&#34;https://technicaldc.github.io/js/fetch-repo.min.dc5533c50cefd50405344b235937142271f26229fe39cbee27fd4960e8bb897a0beebfad77a1091ca91cd0d1fb14e70fc37cc114dd9674fb2c32e0ab512ec8a4.js&#34;
+        integrity=&#34;sha512-3FUzxQzv1QQFNEsjWTcUInHyYin&amp;#43;OcvuJ/1JYOi7iXoL7r&amp;#43;td6EJHKkc0NH7FOcPw3zBFN2WdPssMuCrUS7IpA==&#34;
         data-repo-url=&#34;https://api.github.com/repos/ThePrimeagen/git-worktree.nvim&#34;
         data-repo-id=&#34;github-569f02b5f2331c500568850fd86f2ce9&#34;&gt;&lt;/script&gt;
     &lt;/a&gt;
@@ -808,135 +767,131 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
       
       <guid>https://technicaldc.github.io/blogs/markdown/</guid>
       <description>
-&lt;h2 class=&#34;relative group&#34;&gt;Headings 
+&lt;h2 class=&#34;relative group&#34;&gt;Headings
     &lt;div id=&#34;headings&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#headings&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#headings&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
 
-&lt;h1 class=&#34;relative group&#34;&gt;H1 
+&lt;h1 class=&#34;relative group&#34;&gt;H1
     &lt;div id=&#34;h1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h1&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#h1&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h1&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;H2 
+&lt;h2 class=&#34;relative group&#34;&gt;H2
     &lt;div id=&#34;h2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h2&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#h2&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;H3 
+&lt;h3 class=&#34;relative group&#34;&gt;H3
     &lt;div id=&#34;h3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h3&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#h3&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 
-&lt;h4 class=&#34;relative group&#34;&gt;H4 
+&lt;h4 class=&#34;relative group&#34;&gt;H4
     &lt;div id=&#34;h4&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#h4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h4&gt;
 
-&lt;h5 class=&#34;relative group&#34;&gt;H5 
+&lt;h5 class=&#34;relative group&#34;&gt;H5
     &lt;div id=&#34;h5&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h5&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#h5&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h5&gt;
 
-&lt;h6 class=&#34;relative group&#34;&gt;H6 
+&lt;h6 class=&#34;relative group&#34;&gt;H6
     &lt;div id=&#34;h6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#h6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#h6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h6&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;Paragraph 
+&lt;h2 class=&#34;relative group&#34;&gt;Paragraph
     &lt;div id=&#34;paragraph&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#paragraph&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#paragraph&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
 &lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;Blockquotes 
+&lt;h2 class=&#34;relative group&#34;&gt;Blockquotes
     &lt;div id=&#34;blockquotes&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#blockquotes&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#blockquotes&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Blockquote without attribution 
+&lt;h3 class=&#34;relative group&#34;&gt;Blockquote without attribution
     &lt;div id=&#34;blockquote-without-attribution&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#blockquote-without-attribution&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#blockquote-without-attribution&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+&lt;blockquote &gt;&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
 &lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;Blockquote with attribution 
+&lt;h3 class=&#34;relative group&#34;&gt;Blockquote with attribution
     &lt;div id=&#34;blockquote-with-attribution&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#blockquote-with-attribution&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#blockquote-with-attribution&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
+&lt;blockquote &gt;&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
 — &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;Tables 
+&lt;h2 class=&#34;relative group&#34;&gt;Tables
     &lt;div id=&#34;tables&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#tables&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#tables&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
@@ -959,13 +914,13 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Inline Markdown within tables 
+&lt;h3 class=&#34;relative group&#34;&gt;Inline Markdown within tables
     &lt;div id=&#34;inline-markdown-within-tables&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#inline-markdown-within-tables&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#inline-markdown-within-tables&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;table&gt;
@@ -985,26 +940,26 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;Code Blocks 
+&lt;h2 class=&#34;relative group&#34;&gt;Code Blocks
     &lt;div id=&#34;code-blocks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#code-blocks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#code-blocks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Code block with backticks 
+&lt;h3 class=&#34;relative group&#34;&gt;Code block with backticks
     &lt;div id=&#34;code-block-with-backticks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#code-block-with-backticks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#code-block-with-backticks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&amp;gt;&lt;/span&gt;
@@ -1013,15 +968,15 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3 class=&#34;relative group&#34;&gt;Code block indented with four spaces 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Code block indented with four spaces
     &lt;div id=&#34;code-block-indented-with-four-spaces&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#code-block-indented-with-four-spaces&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#code-block-indented-with-four-spaces&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;&amp;lt;!DOCTYPE html&amp;gt;
@@ -1036,13 +991,13 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &amp;lt;/html&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode 
+&lt;h3 class=&#34;relative group&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode
     &lt;div id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#code-block-with-hugos-internal-highlight-shortcode&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#code-block-with-hugos-internal-highlight-shortcode&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -1072,23 +1027,23 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;List Types 
+&lt;h2 class=&#34;relative group&#34;&gt;List Types
     &lt;div id=&#34;list-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#list-types&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#list-types&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Ordered List 
+&lt;h3 class=&#34;relative group&#34;&gt;Ordered List
     &lt;div id=&#34;ordered-list&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#ordered-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#ordered-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;ol&gt;
@@ -1097,13 +1052,13 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;li&gt;Third item&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Unordered List 
+&lt;h3 class=&#34;relative group&#34;&gt;Unordered List
     &lt;div id=&#34;unordered-list&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#unordered-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#unordered-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;ul&gt;
@@ -1112,13 +1067,13 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;li&gt;And another item&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Nested list 
+&lt;h3 class=&#34;relative group&#34;&gt;Nested list
     &lt;div id=&#34;nested-list&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#nested-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#nested-list&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h3&gt;
 &lt;ul&gt;
@@ -1137,13 +1092,13 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark 
+&lt;h2 class=&#34;relative group&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark
     &lt;div id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#other-elements--abbr-sub-sup-kbd-mark&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#other-elements--abbr-sub-sup-kbd-mark&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;&lt;abbr title=&#34;Graphics Interchange Format&#34;&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;
@@ -1155,10 +1110,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a
-  href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;
-    target=&#34;_blank&#34;
-  &gt;talk &lt;code&gt;about&lt;/code&gt; nothing&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;  target=&#34;_blank&#34;&gt;talk &lt;code&gt;about&lt;/code&gt; nothing&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -1173,13 +1125,13 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
       
       <guid>https://technicaldc.github.io/blogs/myfirstpost/</guid>
       <description>
-&lt;h2 class=&#34;relative group&#34;&gt;First post with Huge and Blowfish 
+&lt;h2 class=&#34;relative group&#34;&gt;First post with Huge and Blowfish
     &lt;div id=&#34;first-post-with-huge-and-blowfish&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#first-post-with-huge-and-blowfish&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#first-post-with-huge-and-blowfish&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
     
 &lt;/h2&gt;
 &lt;p&gt;Hey gus! This is my first post on this brand new website built with
