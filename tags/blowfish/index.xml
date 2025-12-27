@@ -27,7 +27,7 @@
 &lt;p&gt;Hey gus! This is my first post on this brand new website built with
 Hugo and Blowfish theme.&lt;/p&gt;
 </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/myfirstpost/featured.png" />
     </item>
     
   </channel>

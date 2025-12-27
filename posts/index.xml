@@ -238,7 +238,7 @@ focused. If you spend a lot of time in the terminal, I highly recommend giving
 them a try.&lt;/p&gt;
 &lt;p&gt;💬 &lt;strong&gt;What are your favorite command-line tools? Let’s discuss in the comments!&lt;/strong&gt;&lt;/p&gt;
 </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/featured.png" />
     </item>
     
     <item>
@@ -757,7 +757,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;/a&gt;
   &lt;/div&gt;
 </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/featured.png" />
     </item>
     
     <item>
@@ -1115,7 +1115,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/markdown/featured.png" />
     </item>
     
     <item>
@@ -1137,7 +1137,7 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
 &lt;p&gt;Hey gus! This is my first post on this brand new website built with
 Hugo and Blowfish theme.&lt;/p&gt;
 </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/myfirstpost/featured.png" />
     </item>
     
   </channel>
