@@ -524,7 +524,17 @@ simple wrapper around git worktree operations, create, switch, and delete.&lt;/p
     &lt;/a&gt;
   &lt;/div&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/featured.png" />
+      
+    </item>
+    
+    <item>
+      <title>Customizing Neovim with Noice</title>
+      <link>https://technicaldc.github.io/videos/customizing-neovim-with-noice/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicaldc.github.io/videos/customizing-neovim-with-noice/</guid>
+      <description></description>
+      
     </item>
     
   </channel>
