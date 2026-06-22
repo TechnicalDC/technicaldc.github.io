@@ -99,6 +99,20 @@ body,
 	justify-content: space-between;
 }
 
+.time-list {
+	margin: 0;
+	width: 100%;
+	border: 0px
+}
+
+.time-list tr {
+	background-color: white; 
+	display: grid;
+	grid-template-columns: auto 1fr;
+	gap: 10px;
+	align-items: start;
+}
+
 ul {
 	list-style-type:'- ';
 }
@@ -127,16 +141,14 @@ pre {
 
 table {
 	margin: auto;
-	border-top: 2px solid black;
-	border-bottom: 2px solid black;
+	border: 2px solid black;
 	min-width: 50%;
 }
 
 th { border-bottom: 1px solid grey; }
+
 th, tr {
 	margin: 0px;
 	text-align: left;
 }
-tr:nth-child(even) {
-  background-color: lightgrey;
-}
+
