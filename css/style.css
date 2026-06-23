@@ -13,12 +13,12 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 1.2rem;
 }
 
-h1::before { content: "# "; }
-h2::before { content: "## "; }
-h3::before { content: "### "; }
-h4::before { content: "#### "; }
-h5::before { content: "##### "; }
-h6::before { content: "###### "; }
+h1::before { color: grey; content: "# "; }
+h2::before { color: grey; content: "## "; }
+h3::before { color: grey; content: "### "; }
+h4::before { color: grey; content: "#### "; }
+h5::before { color: grey; content: "##### "; }
+h6::before { color: grey; content: "###### "; }
 
 body,
 .menu-container,
@@ -152,3 +152,7 @@ th, tr {
 	text-align: left;
 }
 
+.wrapper-line { color: black; }
+hr { color: lightgrey; }
+
+footer { margin-top: 50px; }
