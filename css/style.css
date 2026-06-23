@@ -141,14 +141,21 @@ pre {
 
 table {
 	margin: auto;
-	border: 2px solid black;
 	min-width: 50%;
+	border-collapse: collapse;
 }
 
-th { border-bottom: 1px solid grey; }
+th {
+	background-color: black;
+	color: white;
+	border-bottom: 1px solid grey;
+}
 
-th, tr {
+th, td {
+	border-collapse: collapse;
+	border: 1px solid black;
 	margin: 0px;
+	padding: 3px 10px;
 	text-align: left;
 }
 
