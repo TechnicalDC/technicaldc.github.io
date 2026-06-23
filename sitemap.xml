@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/essential-command-line-tools-for-daily-productivity/</loc>
+    <loc>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</loc>
     <lastmod>2025-03-27T15:41:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/</loc>
+    <loc>https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/</loc>
     <lastmod>2024-08-18T23:24:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/neovim/</loc>
+    <loc>https://technicaldc.github.io/tags/neovim/</loc>
     <lastmod>2024-08-18T23:24:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://technicaldc.github.io/tags/</loc>
     <lastmod>2024-08-18T23:24:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://technicaldc.github.io/</loc>
     <lastmod>2024-01-21T14:24:36-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/blowfish/</loc>
+    <loc>https://technicaldc.github.io/tags/blowfish/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://technicaldc.github.io/tags/hugo/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/myfirstpost/</loc>
+    <loc>https://technicaldc.github.io/posts/myfirstpost/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://technicaldc.github.io/posts/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://technicaldc.github.io/resume/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/videos/</loc>
+    <loc>https://technicaldc.github.io/videos/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://technicaldc.github.io/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://technicaldc.github.io/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://technicaldc.github.io/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

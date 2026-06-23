@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Dilip Chauhan on My New Hugo Site</title>
+		<link>https://technicaldc.github.io/</link>
+		<description>Recent content in Dilip Chauhan on My New Hugo Site</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 27 Mar 2025 15:41:43 +0530</lastBuildDate>
+		
+			<atom:link href="https://technicaldc.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Essential commandline tools for daily productivity</title>
+				<link>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</link>
+				<pubDate>Thu, 27 Mar 2025 15:41:43 +0530</pubDate>
+				<guid>https://technicaldc.github.io/posts/essential-command-line-tools-for-daily-productivity/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hidden Gems: Lesser-Known Neovim Plugins You Should Try</title>
+				<link>https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/</link>
+				<pubDate>Sun, 18 Aug 2024 23:24:43 +0530</pubDate>
+				<guid>https://technicaldc.github.io/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>My first post</title>
+				<link>https://technicaldc.github.io/posts/myfirstpost/</link>
+				<pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+				<guid>https://technicaldc.github.io/posts/myfirstpost/</guid>
+				<description>This is my first post on my site</description>
+			</item>
+			<item>
+				<title>Resume</title>
+				<link>https://technicaldc.github.io/resume/</link>
+				<pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
+				<guid>https://technicaldc.github.io/resume/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

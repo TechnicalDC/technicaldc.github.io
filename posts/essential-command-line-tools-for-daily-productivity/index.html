@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Essential Commandline Tools for Daily Productivity | My New Hugo Site</title>
+		<link rel="canonical" href="https://technicaldc.github.io/">
+		<link rel='alternate' type='application/rss+xml' title="My New Hugo Site RSS" href='/index.xml'>
+		<link rel='stylesheet' type='text/css' href='/css/style.css'>
+		
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="robots" content="index, follow">
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<div class="root-container">
+			<div class="side-container"><div class="profile-container">
+	<div class="profile">
+		<img class="profileimage"
+		src="/images/profile.jpg"
+		alt="profile picture" />
+		<h1 class="profile-author">Dilip Chauhan</h1>
+		<p class="profile-description">Software Programmer</p>
+	</div>
+</div>
+</div>
+			<div class="main-container">
+				<nav><div class="menu-container">
+	<ul class="menu">
+		
+		<li class="menu-item">
+			<a href="/">
+				
+				home
+			</a>
+		</li>
+		
+		<li class="menu-item">
+			<a href="/posts/">
+				
+				posts
+			</a>
+		</li>
+		
+		<li class="menu-item">
+			<a href="/resume/">
+				
+				resume
+			</a>
+		</li>
+		
+		<li class="menu-item">
+			<a href="/tags/">
+				
+				tags
+			</a>
+		</li>
+		
+	</ul>
+</div>
+</nav>
+				<main>
+					<header><h1 id="tag_Essential commandline tools for daily productivity">Essential Commandline Tools for Daily Productivity
+<hr/></h1></header>
+					<article>
+						
+<h2>Table Of Contents</h2>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#neovim">neovim</a></li>
+    <li><a href="#fzf">fzf</a>
+      <ul>
+        <li><a href="#why-i-love-it">Why I Love It:</a></li>
+      </ul>
+    </li>
+    <li><a href="#tmux">tmux</a>
+      <ul>
+        <li><a href="#why-its-essential">Why It’s Essential:</a></li>
+      </ul>
+    </li>
+    <li><a href="#yazi">yazi</a>
+      <ul>
+        <li><a href="#why-its-a-game-changer">Why It’s a Game-Changer:</a></li>
+      </ul>
+    </li>
+    <li><a href="#lazygit">lazygit</a>
+      <ul>
+        <li><a href="#why-you-need-it">Why You Need It:</a></li>
+      </ul>
+    </li>
+    <li><a href="#taskwarrior">taskwarrior</a>
+      <ul>
+        <li><a href="#why-i-use-it">Why I Use It:</a></li>
+      </ul>
+    </li>
+    <li><a href="#zoxide">zoxide</a></li>
+    <li><a href="#wrapping-up">Wrapping Up</a></li>
+  </ul>
+</nav>
+<p>For as long as I’ve used Linux and spent time in the terminal, I’ve realized
+one thing: the command line is a powerhouse of productivity. While GUI
+applications have their place, nothing beats the speed, efficiency, and sheer
+control that CLI tools provide. Over time, I’ve experimented with countless
+terminal tools, but some have truly stood out and become essential to my
+workflow.</p>
+<p>If you live in the terminal like I do, you’ll love these tools. Let’s dive in!</p>
+<hr>
+<h2 id="neovim">neovim</h2>
+<p>I started with Vim like many others, fascinated by its modal editing and sheer
+efficiency. But then came Neovim, and everything changed. Neovim takes Vim’s
+legacy and modernizes it with:</p>
+<ul>
+<li><strong>Asynchronous Plugins &amp; LSP Support</strong> – Seamless auto-completion and real-time linting.</li>
+<li><strong>Embedded Terminal Emulator</strong> – Run commands without switching windows.</li>
+<li><strong>Lua-Based Configuration</strong> – More power and flexibility than Vimscript.</li>
+</ul>
+<p>If you love Vim but crave better extensibility and modern features, Neovim is a must-have.</p>
+<p>🔹 <strong>My Workflow:</strong> I use Neovim as my primary code editor, writing scripts,
+editing configs, and even drafting blog posts like this one. With plugins like
+<code>telescope.nvim</code> and <code>lualine.nvim</code>, my setup feels snappy and efficient.</p>
+<hr>
+<h2 id="fzf">fzf</h2>
+<p>You know that frustrating moment when you need to find a file, but you can’t
+remember the exact name? That’s where <code>fzf</code> comes in. It’s an interactive fuzzy
+search tool that makes finding files, directories, and commands effortless.</p>
+<h3 id="why-i-love-it">Why I Love It:</h3>
+<ul>
+<li>Blazing fast fuzzy searching.</li>
+<li>Works inside Vim, bash, and even scripts.</li>
+<li>Integrates with <code>find</code>, <code>rg</code>, <code>fd</code>, <code>git</code>, and more.</li>
+</ul>
+<p>🔹 <strong>Example:</strong> Quickly locate files interactively:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>find . -type f | fzf
+</span></span></code></pre></div><p>I have <code>fzf</code> mapped in my shell to make directory navigation insanely fast.
+Trust me, once you start using it, there’s no going back!</p>
+<hr>
+<h2 id="tmux">tmux</h2>
+<p>I used to open multiple terminal tabs and windows until I discovered <code>tmux</code>. It
+changed how I work in the terminal forever. <code>tmux</code> allows you to manage
+multiple terminal sessions inside a single window.</p>
+<h3 id="why-its-essential">Why It’s Essential:</h3>
+<ul>
+<li><strong>Persistent Sessions</strong> – Never lose work due to accidental disconnections.</li>
+<li><strong>Split Panes &amp; Windows</strong> – Organize multiple tasks efficiently.</li>
+<li><strong>Highly Configurable</strong> – Customize keybindings, colors, and layouts.</li>
+</ul>
+<p>🔹 <strong>Example:</strong> Start a new session:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>tmux new -s mysession
+</span></span></code></pre></div><p>Now, I can work on multiple projects without worrying about losing my place.</p>
+<hr>
+<h2 id="yazi">yazi</h2>
+<p>If you’ve ever used <code>ranger</code>, <code>lf</code>, or <code>nnn</code>, you’ll love <code>yazi</code>. It’s a
+minimal, keyboard-driven file manager that feels like a dream to use.</p>
+<h3 id="why-its-a-game-changer">Why It’s a Game-Changer:</h3>
+<ul>
+<li>Lightning-fast navigation.</li>
+<li>Preview support for images, PDFs, and videos.</li>
+<li>Lua-based customization for ultimate flexibility.</li>
+</ul>
+<p>🔹 <strong>How I Use It:</strong> I use <code>yazi</code> to quickly browse files, especially when
+dealing with large projects. Its preview feature saves me from opening
+unnecessary files.</p>
+<hr>
+<h2 id="lazygit">lazygit</h2>
+<p>Git is powerful, but let’s be honest—it can be a pain to use from the command
+line, especially when managing branches and resolving conflicts. <code>lazygit</code>
+changes that with an intuitive and interactive Git UI for the terminal.</p>
+<h3 id="why-you-need-it">Why You Need It:</h3>
+<ul>
+<li>Effortless commit, push, pull, rebase, and stash operations.</li>
+<li>Visual branch management and conflict resolution.</li>
+<li>Lightweight and fast.</li>
+</ul>
+<p>🔹 <strong>Example:</strong> Launch <code>lazygit</code> inside a Git repo:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>lazygit
+</span></span></code></pre></div><p>I rely on <code>lazygit</code> whenever I need to handle complex merges or review commits
+without typing out long Git commands.</p>
+<hr>
+<h2 id="taskwarrior">taskwarrior</h2>
+<p>Staying productive isn’t just about writing code—it’s about organizing your
+work efficiently. <code>taskwarrior</code> is an advanced task manager for the command
+line.</p>
+<h3 id="why-i-use-it">Why I Use It:</h3>
+<ul>
+<li>Prioritization and due dates keep me on track.</li>
+<li>Recurring tasks and dependencies ensure nothing slips through the cracks.</li>
+<li>Powerful filtering and custom reports.</li>
+</ul>
+<p>🔹 <strong>Example:</strong> Add a high-priority task:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>task add <span style="color:#e6db74">&#34;Write blog post&#34;</span> due:tomorrow priority:H
+</span></span></code></pre></div><p>I use <code>taskwarrior</code> to track my work and personal tasks without relying on GUI-based to-do apps.</p>
+<hr>
+<h2 id="zoxide">zoxide</h2>
+<p>Typing <code>cd</code> repeatedly is inefficient, and that’s where <code>zoxide</code> shines. It
+learns your frequently visited directories and lets you jump to them instantly.</p>
+<p>🔹 <strong>Example:</strong> Quickly navigate to a frequently accessed directory:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>z project
+</span></span></code></pre></div><p>This tool saves me so much time, eliminating the need to type long directory paths.</p>
+<hr>
+<h2 id="wrapping-up">Wrapping Up</h2>
+<p>These tools have become an essential part of my daily workflow. Whether I’m
+coding, managing files, or organizing tasks, they help me stay efficient and
+focused. If you spend a lot of time in the terminal, I highly recommend giving
+them a try.</p>
+<p>💬 <strong>What are your favorite command-line tools? Let’s discuss in the comments!</strong></p>
+<div>
+	<hr/>
+	<div id="nextprev" class="nextprev">
+		<div>
+			<b><a href="/posts/hidden-gems-lesser-known-neovim-plugins-you-should-try/" class="prev">&lt; Hidden Gems: Lesser-Known Neovim Plugins You Should Try</a></b>
+			</div>
+		<div></div>
+	</div>
+	</div>
+<footer>
+	<p>
+		&copy; 2026 - Dilip Chauhan 
+	</p>
+</footer>
+
+					</article>
+				</main>
+			</div>
+		</div>
+	</body>
+</html>

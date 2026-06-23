@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Videos on My New Hugo Site</title>
+		<link>https://technicaldc.github.io/videos/</link>
+		<description>Recent content in Videos on My New Hugo Site</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://technicaldc.github.io/videos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My new linux rice</title>
+				<link></link>
+				<pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+				<guid></guid>
+				<description>New linux rice video using niri window manager</description>
+			</item>
+			<item>
+				<title>Customizing Neovim with Noice</title>
+				<link></link>
+				<pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+				<guid></guid>
+				<description>Take your Neovim editor to the next level with UI enchancement using Noice</description>
+			</item>
+			<item>
+				<title>How to make presentation in linux terminal in geek way?</title>
+				<link></link>
+				<pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+				<guid></guid>
+				<description>This is video is timelapse of making presentation in terminal</description>
+			</item>
+			<item>
+				<title>My new email client make me cooler 😎</title>
+				<link></link>
+				<pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+				<guid></guid>
+				<description>This is the overview of my new email client and tool I used to configure it</description>
+			</item>
+	</channel>
+</rss>
