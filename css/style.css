@@ -167,9 +167,12 @@ footer { margin-top: 50px; }
 	align-items: start;
 }
 
+.timeline-item { list-style: none; }
+
 .toc {
 	border: 1px solid black;
 }
+
 .toc > summary {
 	cursor: pointer;
 	padding: 5px 10px;
